@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: voncp-gtsey
+created: 2024-08-26T17:36:55+05:30

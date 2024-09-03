@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "8f3d3d7b66c82d37",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c38ca992a78683d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4092cc00b793772e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS_m/CORE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7aa44e99b588764",
+    "type": "split",
+    "children": [
+      {
+        "id": "89db2cb6d92abd07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e42c8cb3a47bc608",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fcc9979e4c1e9fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdfdf060fd3002c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "d4d49ec1e3cfa8f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bf5d7c0ab4f95dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22a6607d2a7a0b85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DS_m/CORE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "102f10762e6474a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DS_m/CORE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7be22441a35b820f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bee9ae91925ecad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DS_m/CORE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4092cc00b793772e",
+  "lastOpenFiles": [
+    "DS_m/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+    "sql/NOTES.md",
+    "Pasted image 20240902194248.png",
+    "Highlights for Java Ebook .md",
+    "cs50Week3Slide042.png",
+    "Pasted Image 20240826190918_971.jpg",
+    "sql/pasted_Image/Pasted image 20240902055429.png",
+    "sql/CORE.md",
+    "DM/CHAPTER-2/KDD Process.md",
+    "sql/pasted_Image",
+    "DM/CORE.md",
+    "DS_m/CORE.md",
+    "Excalidraw/Drawing 2024-08-27 18.44.10.excalidraw.md",
+    "DM/CHAPTER-2",
+    "Excalidraw/Drawing 2024-08-27 08.09.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-23 05.40.44.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
+    "DM/CHAPTER-1/Data mining Archetecture.md",
+    "DM/CHAPTER-1",
+    "DM/CHAPTER-1/Notes.md",
+    "DM/Untitled",
+    "DM",
+    "DS_m/Notes.md",
+    "DS_m/extra notes/Drawing 2024-08-25 04.27.15.excalidraw.md",
+    "DS_m/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md",
+    "DS_m/WhatsApp Image 2024-08-24 at 6.15.12 PM.jpeg",
+    "Excalidraw/Drawing 2024-08-27 08.04.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-27 08.08.22.excalidraw.md",
+    "certifications/cs50p/notes.md",
+    "certifications/cs50p",
+    "certifications",
+    "java/Extra_note/JAVA_E-BOOK/Java Ebook .pdf",
+    "Excalidraw/Drawing 2024-08-25 04.26.42.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-25 04.26.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-25 04.26.14.excalidraw.md",
+    "os/Lecture_notes/2024-08-22 05.37.59.excalidraw.md",
+    "os/introduction/Drawing 2024-08-20 08.59.13.excalidraw.md",
+    "java/Extra_note/JAVA_E-BOOK/JAVA_E-BOOK.md",
+    "DS/CORE",
+    "os/2024-08-22.md",
+    "os/pasted_image/Pasted Image 20240822055522_264.png",
+    "os/pasted_image/Pasted Image 20240822055422_075.png",
+    "os/Process Scheduling/pasted image/Pasted image 20240820144637.png",
+    "os/Process Scheduling/pasted image/Pasted image 20240820144531.png",
+    "os/Process Scheduling/pasted image/Pasted Image 20240820143001_385.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "os/Untitled 2.canvas",
+    "sql/extra notes/Interactive SQL part 1/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "1f1d0b114c93856a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bd4bb656d3d5d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5cbd2bc221d7c7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ceac88fd16372d60",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9ff6e16b3f8f5e49",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "199ad53b35bade11",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "94079449f03c91b0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "36265bd824e261ae",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2f3eb4b07604d80c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b4653a3306010c19",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "06dc2de540bafa2a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6cfaa13efa70a3f2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "9ff6e16b3f8f5e49",
+  "lastOpenFiles": [
+    "sql/extra notes/Interactive SQL part 3/Interactive SQL part 3.md",
+    "sql/extra notes/Interactive SQL part 1/all others/Binary att.md",
+    "java/CORE.md",
+    "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
+    "sql/NOTES.md",
+    "DS_m/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+    "os/introduction/OS intro.md",
+    "os/CORE.md",
+    "DS_m/CORE.md",
+    "DS_m/Notes.md",
+    "DS_m/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md",
+    "Pasted Image 20240826190918_971.jpg"
+  ]
+}
