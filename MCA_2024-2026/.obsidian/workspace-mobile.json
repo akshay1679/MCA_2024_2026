@@ -11,8 +11,12 @@
             "id": "9c5cbd2bc221d7c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sql/NOTES.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "sql/NOTES.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "sql/NOTES.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "sql/NOTES.md"
+          }
         }
       }
     ],
@@ -128,13 +136,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9ff6e16b3f8f5e49",
+  "active": "9c5cbd2bc221d7c7",
   "lastOpenFiles": [
+    "os/Lecture_notes/2024-08-22 05.37.59.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-23 05.40.44.excalidraw.md",
+    "os/pasted_image/Pasted Image 20240822055422_075.png",
+    "sql/pasted_Image/Pasted image 20240902055429.png",
+    "sql/NOTES.md",
+    "sql/extra notes/Interactive SQL part 1/l SQL p1_notes.md",
     "sql/extra notes/Interactive SQL part 3/Interactive SQL part 3.md",
     "sql/extra notes/Interactive SQL part 1/all others/Binary att.md",
     "java/CORE.md",
     "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
-    "sql/NOTES.md",
     "DS_m/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
     "os/introduction/OS intro.md",
     "os/CORE.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS_m/CORE.md",
+                "file": "sql/NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS_m/CORE.md",
+                "file": "sql/NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS_m/CORE.md",
+                "file": "sql/NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS_m/CORE.md"
+                "file": "sql/NOTES.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "4092cc00b793772e",
   "lastOpenFiles": [
+    "DS_m/CORE.md",
     "DS_m/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
     "sql/NOTES.md",
     "Pasted image 20240902194248.png",
@@ -164,7 +165,6 @@
     "DM/CHAPTER-2/KDD Process.md",
     "sql/pasted_Image",
     "DM/CORE.md",
-    "DS_m/CORE.md",
     "Excalidraw/Drawing 2024-08-27 18.44.10.excalidraw.md",
     "DM/CHAPTER-2",
     "Excalidraw/Drawing 2024-08-27 08.09.04.excalidraw.md",
