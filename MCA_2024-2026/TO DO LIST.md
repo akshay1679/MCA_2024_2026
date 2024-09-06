@@ -1,0 +1,15 @@
+- [ ] Data mining study
+- [ ] Revice SQL
+- [ ] Rangannan problems 
+- [ ] Rangannan exam
+- [ ] Data mining notes complete 
+- [ ] Maths assignment 
+- [ ] cs50 ai
+- [ ] Website video 1
+- [ ] DS linked list
+- [ ] assignment data mining 
+- [ ] pointers 
+- [ ] double linked list notes 
+- [ ] c booleran
+- [ ] 
+

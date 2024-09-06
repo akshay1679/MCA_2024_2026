@@ -1,7 +1,11 @@
+## Important questions ?
+
 - [ ] Acid Properties. [5]
 - [ ] States of a transaction.[3]
 - [ ] What is a deadlock?[2]
 - [ ] Explain Recovery techniques.[10]
+
+---
 ## Transaction and ACID properties
 
 A  *transaction*  is a unit of program execution that accesses and possibly updates various data items. To preserve the integrity of data the database system must ensure:
@@ -136,7 +140,7 @@ These operations must also be recorded in the log on disk by force-writing befor
 
 If a transaction fails after recording some changes in the database on disk but before reaching its commit point, the effect of its operations on the database must be undone, i.e. the transaction must be rolled back.
 
-In ==the general case of immediate update, both undo and redo may be required during recovery. This technique is known as the UNDO/REDO algorithm, requires both operations during recovery.==
+In the general case of immediate update, both undo and redo may be required during recovery. This technique is known as the UNDO/REDO algorithm, requires both operations during recovery.
 
 
 

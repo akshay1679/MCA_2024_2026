@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3bd4bb656d3d5d4d",
+        "id": "8a84f3374811302e",
         "type": "tabs",
         "children": [
           {
-            "id": "9c5cbd2bc221d7c7",
+            "id": "d2e5e8d2a955467e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sql/NOTES.md",
+                "file": "TO DO LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "2f3eb4b07604d80c",
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sql/NOTES.md",
+            "file": "TO DO LIST.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sql/NOTES.md",
+            "file": "TO DO LIST.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sql/NOTES.md"
+            "file": "TO DO LIST.md"
           }
         }
       }
@@ -136,13 +136,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9c5cbd2bc221d7c7",
+  "active": "d2e5e8d2a955467e",
   "lastOpenFiles": [
+    "2024-09-05.md",
+    "TO DO LIST.md",
+    "sql/NOTES.md",
+    "Highlights for Java Ebook .md",
+    "java/Extra_note/JAVA_E-BOOK/Java Ebook .pdf",
+    "sql/pasted_Image/Pasted image 20240902055429.png",
+    "sql/pasted_Image/Pasted image 20240902194248.png",
+    "DS/Pasted_image/Pasted Image 20240826190918_971.jpg",
+    "DS/Pasted_image/cs50Week3Slide042.png",
+    "DS/Pasted_image",
+    "DS/Pasted_image/Doubly-linked-list-in-DS-1.webp",
+    "DS/2024-09-04.md",
+    "DS/CORE.md",
+    "DS/Notes.md",
     "os/Lecture_notes/2024-08-22 05.37.59.excalidraw.md",
     "Excalidraw/Drawing 2024-08-23 05.40.44.excalidraw.md",
     "os/pasted_image/Pasted Image 20240822055422_075.png",
-    "sql/pasted_Image/Pasted image 20240902055429.png",
-    "sql/NOTES.md",
     "sql/extra notes/Interactive SQL part 1/l SQL p1_notes.md",
     "sql/extra notes/Interactive SQL part 3/Interactive SQL part 3.md",
     "sql/extra notes/Interactive SQL part 1/all others/Binary att.md",
@@ -153,7 +165,6 @@
     "os/CORE.md",
     "DS_m/CORE.md",
     "DS_m/Notes.md",
-    "DS_m/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md",
-    "Pasted Image 20240826190918_971.jpg"
+    "DS_m/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md"
   ]
 }
