@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-05.md",
+                "file": "DM/MODULE II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-05.md",
+                "file": "DM/MODULE II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-05.md",
+                "file": "DM/MODULE II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-05.md"
+                "file": "DM/MODULE II.md"
               }
             }
           }
@@ -139,10 +139,10 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -154,6 +154,8 @@
   "active": "4092cc00b793772e",
   "lastOpenFiles": [
     "2024-09-06.md",
+    "DM/MODULE II.md",
+    "Extract Transform & load.md",
     "2024-09-05.md",
     "TO DO LIST.md",
     "sql/NOTES.md",
@@ -192,7 +194,6 @@
     "java/Extra_note/JAVA_E-BOOK/Java Ebook .pdf",
     "Excalidraw/Drawing 2024-08-25 04.26.42.excalidraw.md",
     "Excalidraw/Drawing 2024-08-25 04.26.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-25 04.26.14.excalidraw.md",
     "DS/CORE",
     "os/pasted_image/Pasted Image 20240822055522_264.png",
     "os/pasted_image/Pasted Image 20240822055422_075.png",
