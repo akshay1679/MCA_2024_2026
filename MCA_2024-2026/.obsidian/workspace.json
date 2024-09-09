@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c38ca992a78683d",
+        "id": "228850a74f58a50f",
         "type": "tabs",
         "children": [
           {
-            "id": "4092cc00b793772e",
+            "id": "839971e818b1fe48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM/MODULE II.md",
+                "file": "Singly linked list.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "d4d49ec1e3cfa8f5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM/MODULE II.md",
+                "file": "Singly linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM/MODULE II.md",
+                "file": "Singly linked list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM/MODULE II.md"
+                "file": "Singly linked list.md"
               }
             }
           }
@@ -151,31 +152,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4092cc00b793772e",
+  "active": "839971e818b1fe48",
   "lastOpenFiles": [
-    "2024-09-06.md",
-    "DM/MODULE II.md",
-    "Extract Transform & load.md",
-    "2024-09-05.md",
+    "DS/2024-09-04.md",
+    "Singly linked list.md",
+    "DS/2024-09-06.md",
+    "DS/2024-09-05.md",
+    "DM/CORE.md",
+    "DM/module2/MODULE II.md",
+    "DM/module2",
     "TO DO LIST.md",
+    "Highlights for Java Ebook .md",
+    "Extract Transform & load.md",
     "sql/NOTES.md",
     "sql/CORE.md",
     "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
     "DS/CORE.md",
     "DS/Notes.md",
-    "DS/2024-09-04.md",
     "Doubly-linked-list-in-DS-1.webp",
     "DS/WhatsApp Image 2024-08-24 at 6.15.12 PM.jpeg",
     "DS/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md",
     "DS/extra notes/Drawing 2024-08-25 04.27.15.excalidraw.md",
     "Pasted image 20240902194248.png",
-    "Highlights for Java Ebook .md",
     "cs50Week3Slide042.png",
     "Pasted Image 20240826190918_971.jpg",
     "sql/pasted_Image/Pasted image 20240902055429.png",
     "DM/CHAPTER-2/KDD Process.md",
     "sql/pasted_Image",
-    "DM/CORE.md",
     "Excalidraw/Drawing 2024-08-27 18.44.10.excalidraw.md",
     "DM/CHAPTER-2",
     "Excalidraw/Drawing 2024-08-27 08.09.04.excalidraw.md",
@@ -193,8 +196,6 @@
     "certifications",
     "java/Extra_note/JAVA_E-BOOK/Java Ebook .pdf",
     "Excalidraw/Drawing 2024-08-25 04.26.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-25 04.26.40.excalidraw.md",
-    "DS/CORE",
     "os/pasted_image/Pasted Image 20240822055522_264.png",
     "os/pasted_image/Pasted Image 20240822055422_075.png",
     "os/Process Scheduling/pasted image/Pasted image 20240820144637.png",

@@ -49,7 +49,7 @@ A data warehouse is kept separate from operational database and those data wareh
 
 ---
 
-### ETL process [ Extract Transform & load]
+### ETL process ( Extract Transform & load)
 
 it is a mechanism of extract information from sources system and integrating it into the data warehouse is commonly called ETL
 
