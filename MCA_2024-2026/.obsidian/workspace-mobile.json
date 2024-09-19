@@ -13,13 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-05.md",
-                "mode": "preview",
+                "file": "TO DO LIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "988bd2c7cc562ab5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a5c67c12e09de97",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b52e0a4a55b97cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS/Notes.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-09-05.md",
+            "file": "DS/Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-09-05.md",
+            "file": "DS/Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-09-05.md"
+            "file": "DS/Notes.md"
           }
         }
       }
@@ -136,11 +165,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d2e5e8d2a955467e",
+  "active": "8b52e0a4a55b97cb",
   "lastOpenFiles": [
+    "DS/Quick sort.md",
+    "DS/Notes.md",
+    "2024-09-17.md",
     "TO DO LIST.md",
-    "2024-09-05.md",
     "sql/NOTES.md",
+    "Sih first preference.md",
+    "Excalidraw/Drawing 2024-09-11 17.46.50.excalidraw.md",
+    "Untitled.md",
+    "Singly linked list.md",
+    "2024-09-05.md",
+    "DS/2024-09-05.md",
+    "DS/2024-09-06.md",
+    "DM/module2/MODULE II.md",
+    "DM/module2",
     "Highlights for Java Ebook .md",
     "java/Extra_note/JAVA_E-BOOK/Java Ebook .pdf",
     "sql/pasted_Image/Pasted image 20240902055429.png",
@@ -151,7 +191,6 @@
     "DS/Pasted_image/Doubly-linked-list-in-DS-1.webp",
     "DS/2024-09-04.md",
     "DS/CORE.md",
-    "DS/Notes.md",
     "os/Lecture_notes/2024-08-22 05.37.59.excalidraw.md",
     "Excalidraw/Drawing 2024-08-23 05.40.44.excalidraw.md",
     "os/pasted_image/Pasted Image 20240822055422_075.png",
@@ -163,8 +202,6 @@
     "DS_m/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
     "os/introduction/OS intro.md",
     "os/CORE.md",
-    "DS_m/CORE.md",
-    "DS_m/Notes.md",
-    "DS_m/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md"
+    "DS_m/CORE.md"
   ]
 }

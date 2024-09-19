@@ -1,3 +1,3 @@
-1. Doubley linked list => [[2024-09-04]]
+1. Doubley linked list => [[Double Linked List]]
 2. Notes => [[DS/Notes]]
 3. 
