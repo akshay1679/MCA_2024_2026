@@ -8,35 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2e5e8d2a955467e",
+            "id": "988bd2c7cc562ab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST.md",
-                "mode": "source",
+                "file": "DS/Notes.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "988bd2c7cc562ab5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9a5c67c12e09de97",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8b52e0a4a55b97cb",
+            "id": "5213465ff5d8f16e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b52e0a4a55b97cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS/Notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,16 +161,29 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8b52e0a4a55b97cb",
+  "active": "5213465ff5d8f16e",
   "lastOpenFiles": [
-    "DS/Quick sort.md",
-    "DS/Notes.md",
-    "2024-09-17.md",
-    "TO DO LIST.md",
+    "java/notes 1.md",
     "sql/NOTES.md",
+    "DS/sub_notes/Insertion sort.md",
+    "DS/sub_notes/Shell sort.md",
+    "DS/sub_notes/Singly linked list.md",
+    "DS/sub_notes/Double Linked List.md",
+    "DS/sub_notes/Bubble sort.md",
+    "DS/sub_notes/Selection sort.md",
+    "DS/sub_notes/Quick sort.md",
+    "DS/sub_notes/Binary search.md",
+    "DS/sub_notes/linear search.md",
+    "DS/sub_notes",
+    "DS/Notes.md",
+    "java/notes.md",
+    "Notes ds.md",
+    "TO DO LIST.md",
+    "DS/Singly linked list.md",
+    "DS/Quick sort.md",
+    "2024-09-17.md",
     "Sih first preference.md",
     "Excalidraw/Drawing 2024-09-11 17.46.50.excalidraw.md",
-    "Untitled.md",
     "Singly linked list.md",
     "2024-09-05.md",
     "DS/2024-09-05.md",
@@ -189,19 +198,7 @@
     "DS/Pasted_image/cs50Week3Slide042.png",
     "DS/Pasted_image",
     "DS/Pasted_image/Doubly-linked-list-in-DS-1.webp",
-    "DS/2024-09-04.md",
-    "DS/CORE.md",
-    "os/Lecture_notes/2024-08-22 05.37.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-23 05.40.44.excalidraw.md",
     "os/pasted_image/Pasted Image 20240822055422_075.png",
-    "sql/extra notes/Interactive SQL part 1/l SQL p1_notes.md",
-    "sql/extra notes/Interactive SQL part 3/Interactive SQL part 3.md",
-    "sql/extra notes/Interactive SQL part 1/all others/Binary att.md",
-    "java/CORE.md",
-    "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
-    "DS_m/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
-    "os/introduction/OS intro.md",
-    "os/CORE.md",
-    "DS_m/CORE.md"
+    "DS_m/Data structures using C, Leena Miss Notes till today 24-08-24.pdf"
   ]
 }

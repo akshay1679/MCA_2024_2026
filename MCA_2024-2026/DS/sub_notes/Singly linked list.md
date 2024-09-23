@@ -126,7 +126,8 @@ void traverse() {  
          }  
          // Link the new node to the last node  
          current->next = newNode;  
-     }  
+     }  Extracting PDF Comments from DS
+*No Annotations*
  }  
 
  // Function to traverse and print the list  

@@ -11,11 +11,13 @@
             "id": "26207df36497fe4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DS/Quick sort.md",
-                "mode": "source",
-                "source": false
+                "file": "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+                "page": 12,
+                "left": -9,
+                "top": 300,
+                "zoom": 1.7142857142857144
               }
             }
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/Quick sort.md",
+                "file": "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/Quick sort.md",
+                "file": "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/Quick sort.md"
+                "file": "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf"
               }
             }
           }
@@ -139,10 +141,10 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -153,48 +155,48 @@
   },
   "active": "26207df36497fe4a",
   "lastOpenFiles": [
+    "DS/Notes.md",
+    "DS/CORE.md",
+    "DS/sub_notes/Insertion sort.md",
+    "DS/sub_notes/Shell sort.md",
+    "DS/sub_notes/Selection sort.md",
+    "DS/sub_notes/Bubble sort.md",
+    "DS/sub_notes/Binary search.md",
+    "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+    "DS/2024-09-06.md",
+    "DS/2024-09-05.md",
+    "DS/sub_notes/linear search.md",
+    "DS/sub_notes/Quick sort.md",
+    "DS/sub_notes/Singly linked list.md",
+    "DS/sub_notes",
+    "DS/sub_notes/Double Linked List.md",
+    "HackerRank/2022btabhyas/Assignment 1.md",
+    "HackerRank/2022btabhyas",
     "2024-09-17.md",
     "DM/module2/MODULE II.md",
     "DM/CHAPTER-2/KDD Process.md",
     "DM/CHAPTER-1/Data mining Archetecture.md",
-    "DS/Notes.md",
-    "DS/Quick sort.md",
     "DS/WhatsApp Image 2024-08-24 at 6.15.12 PM.jpeg",
-    "DS/Singly linked list.md",
     "Sih first preference.md",
     "TO DO LIST.md",
-    "Untitled.md",
     "DS/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md",
     "DS/extra notes/Drawing 2024-08-25 04.27.15.excalidraw.md",
-    "DS/2024-09-05.md",
-    "DS/2024-09-06.md",
-    "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
-    "DS/Double Linked List.md",
-    "DS/CORE.md",
     "DM/CORE.md",
     "DM/module2",
     "Highlights for Java Ebook .md",
     "Extract Transform & load.md",
     "sql/NOTES.md",
-    "sql/CORE.md",
     "Doubly-linked-list-in-DS-1.webp",
     "Pasted image 20240902194248.png",
     "cs50Week3Slide042.png",
     "Pasted Image 20240826190918_971.jpg",
     "sql/pasted_Image/Pasted image 20240902055429.png",
     "sql/pasted_Image",
-    "Excalidraw/Drawing 2024-08-27 18.44.10.excalidraw.md",
     "DM/CHAPTER-2",
-    "Excalidraw/Drawing 2024-08-27 08.09.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-23 05.40.44.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
     "DM/CHAPTER-1",
-    "DM/CHAPTER-1/Notes.md",
     "DM/Untitled",
     "DM",
     "certifications/cs50p",
-    "certifications",
-    "java/Extra_note/JAVA_E-BOOK/Java Ebook .pdf",
     "os/pasted_image/Pasted Image 20240822055522_264.png",
     "os/pasted_image/Pasted Image 20240822055422_075.png",
     "os/Process Scheduling/pasted image/Pasted image 20240820144637.png",
