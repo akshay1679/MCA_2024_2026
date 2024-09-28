@@ -4,24 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "38b746c7d44e2a9f",
+        "id": "f8db8de932c7fad8",
         "type": "tabs",
         "children": [
           {
-            "id": "26207df36497fe4a",
+            "id": "48418d57807375e7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
-                "page": 12,
-                "left": -9,
-                "top": 300,
-                "zoom": 1.7142857142857144
+                "file": "DS/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac7d6b46290eaac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS/sub_notes/Insertion sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32e0ddcaa6832784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS/sub_notes/Selection sort.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "linear_search",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+                "file": "DS/sub_notes/Selection sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+                "file": "DS/sub_notes/Selection sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf"
+                "file": "DS/sub_notes/Selection sort.md"
               }
             }
           }
@@ -141,10 +164,10 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -153,19 +176,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26207df36497fe4a",
+  "active": "32e0ddcaa6832784",
   "lastOpenFiles": [
-    "DS/Notes.md",
-    "DS/CORE.md",
     "DS/sub_notes/Insertion sort.md",
-    "DS/sub_notes/Shell sort.md",
+    "DS/Notes.md",
     "DS/sub_notes/Selection sort.md",
+    "Pasted image 20240928122743.png",
+    "Pasted image 20240928122713.png",
+    "Pasted image 20240928122632.png",
+    "os/Lecture_notes/2024-08-22 05.37.59.excalidraw.md",
+    "os/2024-08-22.md",
+    "os/Process Scheduling/P S.md",
+    "os/Process Management/pm.excalidraw.md",
+    "os/Process Management/OS  P. M.md",
+    "TO DO LIST.md",
     "DS/sub_notes/Bubble sort.md",
+    "DS/Pasted_image/Pasted image 20240928044235.png",
+    "DS/Pasted_image/photo_6318590066234082057_x.jpg",
+    "DS/Pasted_image/photo_6318590066234082058_x.jpg",
+    "DS/Pasted_image/Pasted image 20240928035433.png",
+    "Pasted image 20240928035341.png",
+    "Pasted image 20240928035336.png",
+    "Pasted image 20240928035336 1.png",
     "DS/sub_notes/Binary search.md",
+    "DS/sub_notes/linear search.md",
+    "Notes ds.md",
+    "DS/CORE.md",
+    "DS/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md",
+    "DM/module2/MODULE II.md",
     "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+    "DS/sub_notes/Shell sort.md",
     "DS/2024-09-06.md",
     "DS/2024-09-05.md",
-    "DS/sub_notes/linear search.md",
     "DS/sub_notes/Quick sort.md",
     "DS/sub_notes/Singly linked list.md",
     "DS/sub_notes",
@@ -173,34 +215,14 @@
     "HackerRank/2022btabhyas/Assignment 1.md",
     "HackerRank/2022btabhyas",
     "2024-09-17.md",
-    "DM/module2/MODULE II.md",
     "DM/CHAPTER-2/KDD Process.md",
-    "DM/CHAPTER-1/Data mining Archetecture.md",
-    "DS/WhatsApp Image 2024-08-24 at 6.15.12 PM.jpeg",
-    "Sih first preference.md",
-    "TO DO LIST.md",
-    "DS/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md",
-    "DS/extra notes/Drawing 2024-08-25 04.27.15.excalidraw.md",
-    "DM/CORE.md",
     "DM/module2",
-    "Highlights for Java Ebook .md",
-    "Extract Transform & load.md",
-    "sql/NOTES.md",
-    "Doubly-linked-list-in-DS-1.webp",
-    "Pasted image 20240902194248.png",
-    "cs50Week3Slide042.png",
-    "Pasted Image 20240826190918_971.jpg",
-    "sql/pasted_Image/Pasted image 20240902055429.png",
     "sql/pasted_Image",
     "DM/CHAPTER-2",
     "DM/CHAPTER-1",
     "DM/Untitled",
     "DM",
     "certifications/cs50p",
-    "os/pasted_image/Pasted Image 20240822055522_264.png",
-    "os/pasted_image/Pasted Image 20240822055422_075.png",
-    "os/Process Scheduling/pasted image/Pasted image 20240820144637.png",
-    "os/Process Scheduling/pasted image/Pasted image 20240820144531.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "os/Untitled 2.canvas",

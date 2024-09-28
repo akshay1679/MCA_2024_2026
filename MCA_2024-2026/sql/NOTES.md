@@ -37,7 +37,7 @@ Two main issues to deal with:
 ---
 ### ACID properties
 
-Consider the transaction shown in the above slide
+Consider the transaction shown in the above slide 
 1.  **Atomicity requirement** 
 	- If the transaction fails after step 3 and before step 6, money will be “lost” leading to an inconsistent database state
 	- Failure could be due to software or hardware

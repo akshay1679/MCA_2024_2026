@@ -1,4 +1,5 @@
-### Linear search
+# Linear search  
+#Linear_search
 
 ```
 #include <cs50.h>
@@ -25,8 +26,8 @@ int main(void)
 ```
 
 
-
-#### Algorithm
+---
+## Algorithm
 
 ==linearsearch(arr,key,size)==
 
@@ -40,32 +41,45 @@ return -1
 }
 ```
 
-Q. apply linearsarch in the given array and identify the no of comparisons performed for each given value ?
 
 # linear search images
+#complete
 
-==linear search has constant complexity with respect to size==
+![[Pasted image 20240927183746.png]]
 
-#### Best case -> O(1)
+- ==linear search has constant complexity with respect to size==
+- used to search on unsorted array
+---
+## Best case -> O(1)
+
 **scenario** ==> element to be searched is in the first position 
-- here the number of comparisons is independent of input size
+- Here the number of comparisons is independent of input size
 - ie number of comparisons is **constant** 
-- ==complexity = constant== 
+- ==Complexity = constant== 
 
+----
+## Worst case -> O(n)
 
-#### Worst case -> O(n)
 **scenario** ==>
     1. element to be searched is in the last position 
     2. Element to be searched is not in array
-- number  of comparison is the input size
-- if the input size is increased the number of comparison is also increased 
-- therefore they are proportional and comparison is linear.
-- complexity  = ==linear==.
+- Number  of comparison is the input size
+- If the input size is increased the number of comparison is also increased 
+- Therefore they are proportional and comparison is linear.
+- ==Complexity  = linear==.
+- no of comparison = no of element
+
+---
 
 Q. Write the search algorithm to search a particular name in a given rank list?
 
 Ans: Using linear search  
 and also write the algorithm
 
-
 If the name is found return the rank of the name else the value -1 is returned indicating an unsuccessful search.
+
+Q. apply linearsarch in the given array and identify the no of comparisons performed for each given value ?
+
+![[Pasted image 20240927185750.png]]
+
+

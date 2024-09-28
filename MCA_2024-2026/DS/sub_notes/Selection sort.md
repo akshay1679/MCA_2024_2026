@@ -1,4 +1,27 @@
-In this type of sorting the smallest element is found in each pass and placed according to the array
+# Selection sort -> O($n^2$)
+
+
+Here the algorithm finds the lowest element in an array and moves it  to the front of an array 
+
+---
+## Working 
+
+| 20  | 12  | 10  | 15  |  2  |
+| :-: | :-: | :-: | :-: | :-: |
+
+We first set the first element as minimum.then compare  it with the second element. If the second element is smaller then it is set as minimum . We repeat it till the min is found and it is swapped to the first position. (till n-1 indexes)
+
+![[Pasted image 20240928122632.png]]
+
+![[Pasted image 20240928122713.png]]
+
+![[Pasted image 20240928122743.png]]
+
+complexity = O($n^2$)
+
+---
+
+
 
 ```
 #include <stdio.h>

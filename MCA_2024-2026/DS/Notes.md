@@ -1,6 +1,6 @@
 ## Data Structure
 
-**def** -> organised collection of data along with their permissible operations
+**def** -> Organised collection of data along with their permissible operations.
 ### Classification of data structure
 
 1. **Arrangement**
@@ -14,8 +14,8 @@
 	- dynamic -> can alter the size 
 
 ### Arrays
-1. Elements are arranged in linear fashion 
-2. Homogenous collection of values stored under a single name continuously in memory
+1. Elements are arranged in **linear fashion**
+2. Homogeneous collection of values stored under a single name in continuous  memory.
 3. Elements are accessed with respect to location ie: indexed 
 4. ==Operations== :- 
 	1. insertion
@@ -23,16 +23,27 @@
 	3. Search
 	4. merge/split
 	5. sort
-5. in array we know the address of first value so we can access the next element since it is continuous
-6. the first address of the array is called the ==base address== ,the consecutive address are accessed by incrementing from the base address.
-7. The index starts from a[0]
+6. In array we know the address of first value so we can access the next element since it is continuous
+7. The first address of the array is called the ==base address== ,the consecutive address are accessed by incrementing from the base address.
+8. The index starts from a[0]
 #### Insertion into array
 #### **Insert at the end :**
+
 * Find the last last occupied index and add 1 to the index and insert new value as long as the the new index is < the size of the array
 * If the value is to be added to a pre occupied index shift all the values in the indexes from the particular index to the next index . The shifting should be started from the last occupied index 
 
-
 #### Insertion into a particular position in array
+
+
+|  a  |  d  |  b  |  e  |     |     |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  0  |  1  |  2  |  3  |  4  |  5  |
+
+==>
+
+|  a  |  c  |  d  |  b  |  e  |     |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  0  |  1  |  2  |  3  |  4  |  5  |
 
 step 1: start
 step 2:traverse the array from the position to check if the its full if full overflow exit
@@ -47,6 +58,8 @@ step 4: else find the closest index that
 3. Else for (i=(size-1 ) to pos)
 4. Arr`[i] = arr[i-1]`
 5. Arr`[pos]= value `
+
+
 ### Time complexity
 
   ![[cs50Week3Slide042.png]]
@@ -72,7 +85,10 @@ It’s the shape of the curve that shows the efficiency of an algorithm. Some co
 1. upper bound --> O
 2. lower bound --> Ω
 3. if upper bound == lower bound --> Θ
+---
+![[photo_6318590066234082058_x.jpg]]
 
+![[photo_6318590066234082057_x.jpg]]
 ---
 ## Searching
 - basic operation in search is comparison to perform continuous comparison we need traversal
@@ -111,10 +127,5 @@ Bubble, insertion ,selection, shell
 ### 5. Quick sort
 
 --> [[Quick sort]]
-
-
-
-
-
 
 

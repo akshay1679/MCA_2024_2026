@@ -23,11 +23,11 @@
             "id": "5213465ff5d8f16e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DS/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+                "page": 1,
+                "zoom": 1
               }
             }
           },
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +68,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#include",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -161,24 +160,26 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5213465ff5d8f16e",
+  "active": "988bd2c7cc562ab5",
   "lastOpenFiles": [
-    "java/notes 1.md",
-    "sql/NOTES.md",
-    "DS/sub_notes/Insertion sort.md",
-    "DS/sub_notes/Shell sort.md",
-    "DS/sub_notes/Singly linked list.md",
-    "DS/sub_notes/Double Linked List.md",
-    "DS/sub_notes/Bubble sort.md",
     "DS/sub_notes/Selection sort.md",
-    "DS/sub_notes/Quick sort.md",
+    "DS/Notes.md",
+    "DM/CHAPTER-1/Notes.md",
+    "DS/sub_notes/Insertion sort.md",
+    "DS/sub_notes/Bubble sort.md",
     "DS/sub_notes/Binary search.md",
     "DS/sub_notes/linear search.md",
+    "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+    "DS/sub_notes/Shell sort.md",
+    "DS/sub_notes/Quick sort.md",
+    "TO DO LIST.md",
+    "DS/sub_notes/Singly linked list.md",
+    "sql/NOTES.md",
+    "java/notes 1.md",
+    "DS/sub_notes/Double Linked List.md",
     "DS/sub_notes",
-    "DS/Notes.md",
     "java/notes.md",
     "Notes ds.md",
-    "TO DO LIST.md",
     "DS/Singly linked list.md",
     "DS/Quick sort.md",
     "2024-09-17.md",
@@ -190,7 +191,6 @@
     "DS/2024-09-06.md",
     "DM/module2/MODULE II.md",
     "DM/module2",
-    "Highlights for Java Ebook .md",
     "java/Extra_note/JAVA_E-BOOK/Java Ebook .pdf",
     "sql/pasted_Image/Pasted image 20240902055429.png",
     "sql/pasted_Image/Pasted image 20240902194248.png",
