@@ -15,13 +15,13 @@
 ## Types of Schedulers
 
 **Long Term Scheduler**
-	Selects processes that are ready to execute and loads them into ready queue.
-executable process --> ready state\redy queue 
+-  Selects processes that are ready to execute and loads them into ready queue.
+executable process --> ready state/redy queue 
 **Short Term Scheduler**
-	Selects process from the ready queue and allocates CPU to it
+- Selects process from the ready queue and allocates CPU to it
 	ready queue --> CPU
 **Medium Term Scheduler**
-	Selects which swapped out process is to be loaded next into the ready queue
+- Selects which swapped out process is to be loaded next into the ready queue
 Swap out process one thiriche cpu konde verunne
 
 ## Dispatcher

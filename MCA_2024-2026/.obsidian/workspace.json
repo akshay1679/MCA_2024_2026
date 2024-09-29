@@ -13,36 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/introduction/OS intro.md",
+                "file": "sql/commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "de7720407d054755",
+            "id": "2d5b5accdbd8af6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/Process Scheduling/P S.md",
+                "file": "sql/CORE.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8775195a8f1d4650",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
+                "file": "sql/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
+                "file": "sql/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md"
+                "file": "sql/commands.md"
               }
             }
           }
@@ -174,44 +163,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8775195a8f1d4650",
+  "active": "ce967e8212b1ffef",
   "lastOpenFiles": [
+    "DS/sub_notes/linear search.md",
+    "DS/Notes.md",
+    "sql/commands.md",
+    "sql/CORE.md",
+    "sql/NOTES.md",
+    "sql.md",
+    "sql To Do List.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Notes ds.md",
+    "os/pasted_image/Pasted Image 20240928172908_517.png",
+    "Memory spooling.md",
+    "DS TO DO LIST.md",
+    "DM/2024-09-17.md",
+    "os/introduction/OS intro.md",
     "os/Process Scheduling/P S.md",
+    "DS/sub_notes/Shell sort.md",
+    "DS/sub_notes/Quick sort.md",
+    "DS/sub_notes/Selection sort.md",
     "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
     "os/CORE.md",
-    "os/introduction/OS intro.md",
     "os/introduction/Drawing 2024-08-20 08.59.13.excalidraw.md",
     "os/pasted_image/Pasted Image 20240929092546_824.png",
     "os/Lecture_notes/2024-08-22 05.37.59.excalidraw.md",
     "os/2024-08-22.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "os/Process Management/pm.excalidraw.md",
-    "DS/Notes.md",
-    "Pasted Image 20240928172908_517.png",
     "os/Process Management/OS  P. M.md",
-    "Memory spooling.md",
     "DS/sub_notes/Insertion sort.md",
-    "DS/sub_notes/Selection sort.md",
     "DS/Pasted_image/Pasted image 20240928122743.png",
     "DS/Pasted_image/Pasted image 20240928122713.png",
     "DS/Pasted_image/Pasted image 20240928122632.png",
-    "TO DO LIST.md",
-    "DS/sub_notes/Bubble sort.md",
     "DS/Pasted_image/Pasted image 20240928044235.png",
     "DS/Pasted_image/photo_6318590066234082057_x.jpg",
     "DS/Pasted_image/photo_6318590066234082058_x.jpg",
     "DS/Pasted_image/Pasted image 20240928035433.png",
     "Pasted image 20240928035341.png",
-    "DS/sub_notes/Binary search.md",
-    "DS/sub_notes/linear search.md",
-    "Notes ds.md",
-    "DS/CORE.md",
-    "DS/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md",
-    "DM/module2/MODULE II.md",
     "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
-    "DS/sub_notes/Shell sort.md",
-    "DS/2024-09-06.md",
     "DS/sub_notes",
     "HackerRank/2022btabhyas",
     "DM/module2",

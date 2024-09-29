@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/Process Management/OS  P. M.md",
-                "mode": "preview",
+                "file": "sql/commands.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "os/Process Management/OS  P. M.md",
+            "file": "sql/commands.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "os/Process Management/OS  P. M.md",
+            "file": "sql/commands.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "os/Process Management/OS  P. M.md"
+            "file": "sql/commands.md"
           }
         }
       }
@@ -148,9 +148,12 @@
   },
   "active": "988bd2c7cc562ab5",
   "lastOpenFiles": [
-    "os/Process Management/pm.excalidraw.md",
-    "os/Process Management/OS  P. M.md",
+    "sql/NOTES.md",
+    "os/Process Scheduling/P S.md",
     "os/CORE.md",
+    "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
+    "os/Process Management/OS  P. M.md",
+    "os/Process Management/pm.excalidraw.md",
     "DS/Notes.md",
     "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
     "os/Untitled.md",
@@ -158,7 +161,6 @@
     "os/introduction/Drawing 2024-08-20 08.59.13.excalidraw.md",
     "DS/sub_notes/linear search.md",
     "TO DO LIST.md",
-    "os/Process Scheduling/P S.md",
     "DS/sub_notes/Shell sort.md",
     "DS/sub_notes/Selection sort.md",
     "DM/CHAPTER-1/Notes.md",
@@ -167,7 +169,6 @@
     "DS/sub_notes/Binary search.md",
     "DS/sub_notes/Quick sort.md",
     "DS/sub_notes/Singly linked list.md",
-    "sql/NOTES.md",
     "java/notes 1.md",
     "DS/sub_notes/Double Linked List.md",
     "DS/sub_notes",
