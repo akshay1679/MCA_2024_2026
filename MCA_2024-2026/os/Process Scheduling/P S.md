@@ -16,10 +16,13 @@
 
 **Long Term Scheduler**
 	Selects processes that are ready to execute and loads them into ready queue.
+executable process --> ready state\redy queue 
 **Short Term Scheduler**
 	Selects process from the ready queue and allocates CPU to it
+	ready queue --> CPU
 **Medium Term Scheduler**
 	Selects which swapped out process is to be loaded next into the ready queue
+Swap out process one thiriche cpu konde verunne
 
 ## Dispatcher
 
@@ -56,14 +59,15 @@ Fair Allocation of CPU to processes.
 * Calls when Process moves from
 
 	Running -> ready
-	Running -> Termination
+	Running -> Termination                        refer the diagram [[Drawing 2024-08-20 14.29.30.excalidraw]]
 	Running -> Wait
 
 ## Pre-emptive & Non Pre-emptive Scheduling
 
 1. Under non preemptive scheduling, once the CPU has been allocated to a process, the process keeps the CPU until it releases the CPU either by terminating or by switching to wait state.  
+on non preemptive process pidiche vekkum cpu ne until process theerunnade vare
 
-2. A scheduling is said to be Preemptive, when a process  returns the CPU if its time slice is over.
+3. A scheduling is said to be Preemptive, when a process  returns the CPU if its time slice is over.
 
 ## FCFS (First Come First Serve)
 

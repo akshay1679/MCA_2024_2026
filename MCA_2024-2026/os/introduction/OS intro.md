@@ -1,12 +1,22 @@
-
+w
 ## What is an Operating System?
 
 1. A program that acts as an intermediary between a user of a computer and the computer hardware
 
-2. Operating system goals:
+2. Operating system ==goals==:
 	1. Execute user programs and make solving user problems easier
 	2. Make the computer system convenient to use
 	3. Use the computer hardware in an efficient manner
+
+An **Operating System (OS)** is system software that manages computer hardware and software resources, providing services for computer programs. It acts as an intermediary between users and the hardware. The primary functions of an OS include:
+
+1. **Resource Management:** Manages CPU, memory, disk space, and other hardware.
+2. **File Management:** Handles the creation, deletion, and access of files on storage devices.
+3. **Process Management:** Manages the execution of multiple processes by scheduling and coordinating them.
+4. **Security:** Protects system resources and data from unauthorized access.
+5. **User Interface:** Provides a way for users to interact with the system, either via command-line interfaces or graphical user interfaces (GUI).
+
+Popular examples include Windows, Linux, and macOS.
 
 ---
 ## OS Def :
@@ -24,16 +34,16 @@
 1. Computer system can be divided into four components:
 
 	1. Hardware – provides basic computing resources
-	+ CPU, memory, I/O devices
+		+ CPU, memory, I/O devices
 	
 	2. Operating system
-	+ Controls and coordinates use of hardware among various applications and users
+		+ Controls and coordinates use of hardware among various applications and users
 	
 	3. Application programs – define the ways in which the system resources are used to solve the computing problems of the users
-	+ Word processors, compilers, web browsers, database systems, video games
+		+ Word processors, compilers, web browsers, database systems, video games
 	
 	4. Users
-	+ People, machines, other computers
+		+ People, machines, other computers
 
 ---
 
@@ -66,7 +76,7 @@
 ### 4-I/O system management
 
 1. A general device driver interface		
-2. Memory management component including buffering, caching, and spooling
+2. Memory management component including buffering, caching, and spooling (not needed --> [[Memory spooling]] refers to the process of temporarily storing data or instructions in a buffer, or spool, in memory before they are processed)
 ### 5-Secondary Storage management
 
 1. Free space management

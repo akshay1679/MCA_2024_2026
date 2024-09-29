@@ -4,42 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "f8db8de932c7fad8",
+        "id": "280741717b6ce9e6",
         "type": "tabs",
         "children": [
           {
-            "id": "48418d57807375e7",
+            "id": "ce967e8212b1ffef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Notes.md",
+                "file": "os/introduction/OS intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac7d6b46290eaac7",
+            "id": "de7720407d054755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/sub_notes/Insertion sort.md",
+                "file": "os/Process Scheduling/P S.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32e0ddcaa6832784",
+            "id": "8775195a8f1d4650",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "DS/sub_notes/Selection sort.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/sub_notes/Selection sort.md",
+                "file": "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/sub_notes/Selection sort.md",
+                "file": "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/sub_notes/Selection sort.md"
+                "file": "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md"
               }
             }
           }
@@ -176,19 +174,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32e0ddcaa6832784",
+  "active": "8775195a8f1d4650",
   "lastOpenFiles": [
-    "DS/sub_notes/Insertion sort.md",
-    "DS/Notes.md",
-    "DS/sub_notes/Selection sort.md",
-    "Pasted image 20240928122743.png",
-    "Pasted image 20240928122713.png",
-    "Pasted image 20240928122632.png",
+    "os/Process Scheduling/P S.md",
+    "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
+    "os/CORE.md",
+    "os/introduction/OS intro.md",
+    "os/introduction/Drawing 2024-08-20 08.59.13.excalidraw.md",
+    "os/pasted_image/Pasted Image 20240929092546_824.png",
     "os/Lecture_notes/2024-08-22 05.37.59.excalidraw.md",
     "os/2024-08-22.md",
-    "os/Process Scheduling/P S.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "os/Process Management/pm.excalidraw.md",
+    "DS/Notes.md",
+    "Pasted Image 20240928172908_517.png",
     "os/Process Management/OS  P. M.md",
+    "Memory spooling.md",
+    "DS/sub_notes/Insertion sort.md",
+    "DS/sub_notes/Selection sort.md",
+    "DS/Pasted_image/Pasted image 20240928122743.png",
+    "DS/Pasted_image/Pasted image 20240928122713.png",
+    "DS/Pasted_image/Pasted image 20240928122632.png",
     "TO DO LIST.md",
     "DS/sub_notes/Bubble sort.md",
     "DS/Pasted_image/Pasted image 20240928044235.png",
@@ -196,8 +203,6 @@
     "DS/Pasted_image/photo_6318590066234082058_x.jpg",
     "DS/Pasted_image/Pasted image 20240928035433.png",
     "Pasted image 20240928035341.png",
-    "Pasted image 20240928035336.png",
-    "Pasted image 20240928035336 1.png",
     "DS/sub_notes/Binary search.md",
     "DS/sub_notes/linear search.md",
     "Notes ds.md",
@@ -207,15 +212,8 @@
     "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
     "DS/sub_notes/Shell sort.md",
     "DS/2024-09-06.md",
-    "DS/2024-09-05.md",
-    "DS/sub_notes/Quick sort.md",
-    "DS/sub_notes/Singly linked list.md",
     "DS/sub_notes",
-    "DS/sub_notes/Double Linked List.md",
-    "HackerRank/2022btabhyas/Assignment 1.md",
     "HackerRank/2022btabhyas",
-    "2024-09-17.md",
-    "DM/CHAPTER-2/KDD Process.md",
     "DM/module2",
     "sql/pasted_Image",
     "DM/CHAPTER-2",

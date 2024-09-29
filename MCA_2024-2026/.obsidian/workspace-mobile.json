@@ -13,33 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Notes.md",
+                "file": "os/Process Management/OS  P. M.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "5213465ff5d8f16e",
+            "id": "0f5185b8b01c6c76",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
-                "page": 1,
-                "zoom": 1
-              }
-            }
-          },
-          {
-            "id": "8b52e0a4a55b97cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DS/Notes.md",
-                "mode": "preview",
-                "source": false
+                "file": "os/Process Management/pm.excalidraw.md"
               }
             }
           }
@@ -109,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DS/Notes.md",
+            "file": "os/Process Management/OS  P. M.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DS/Notes.md",
+            "file": "os/Process Management/OS  P. M.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DS/Notes.md"
+            "file": "os/Process Management/OS  P. M.md"
           }
         }
       }
@@ -162,17 +148,24 @@
   },
   "active": "988bd2c7cc562ab5",
   "lastOpenFiles": [
-    "DS/sub_notes/Selection sort.md",
+    "os/Process Management/pm.excalidraw.md",
+    "os/Process Management/OS  P. M.md",
+    "os/CORE.md",
     "DS/Notes.md",
+    "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+    "os/Untitled.md",
+    "os/introduction/OS intro.md",
+    "os/introduction/Drawing 2024-08-20 08.59.13.excalidraw.md",
+    "DS/sub_notes/linear search.md",
+    "TO DO LIST.md",
+    "os/Process Scheduling/P S.md",
+    "DS/sub_notes/Shell sort.md",
+    "DS/sub_notes/Selection sort.md",
     "DM/CHAPTER-1/Notes.md",
     "DS/sub_notes/Insertion sort.md",
     "DS/sub_notes/Bubble sort.md",
     "DS/sub_notes/Binary search.md",
-    "DS/sub_notes/linear search.md",
-    "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
-    "DS/sub_notes/Shell sort.md",
     "DS/sub_notes/Quick sort.md",
-    "TO DO LIST.md",
     "DS/sub_notes/Singly linked list.md",
     "sql/NOTES.md",
     "java/notes 1.md",
@@ -182,14 +175,6 @@
     "Notes ds.md",
     "DS/Singly linked list.md",
     "DS/Quick sort.md",
-    "2024-09-17.md",
-    "Sih first preference.md",
-    "Excalidraw/Drawing 2024-09-11 17.46.50.excalidraw.md",
-    "Singly linked list.md",
-    "2024-09-05.md",
-    "DS/2024-09-05.md",
-    "DS/2024-09-06.md",
-    "DM/module2/MODULE II.md",
     "DM/module2",
     "java/Extra_note/JAVA_E-BOOK/Java Ebook .pdf",
     "sql/pasted_Image/Pasted image 20240902055429.png",

@@ -89,6 +89,7 @@ It’s the shape of the curve that shows the efficiency of an algorithm. Some co
 ![[photo_6318590066234082058_x.jpg]]
 
 ![[photo_6318590066234082057_x.jpg]]
+
 ---
 ## Searching
 - basic operation in search is comparison to perform continuous comparison we need traversal

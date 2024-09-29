@@ -2,31 +2,31 @@
 - [ ] _*Data Structures Using C*_
 - [ ] Mid term Exam portion_
 
-- [x] Introduction to Data structures (Definition, types, classification)
+- [ ] Introduction to Data structures (Definition, types, classification)
 
-- [x] *Array data structures* (operations)
+- [ ] *Array data structures* (operations)
 	- [ ] search
 	- [ ] sort
-	- [x] traverse
-	- [x] insert
+	- [ ] traverse
+	- [ ] insert
 	- [ ] split
 	- [ ] merge 
 	- [ ] delete
 - [ ] Search & Sort Algorithm 
-- [x] Linear search (
-	- [x] algorithm/
-	- [x] psuedo code,
-	- [x] problems)
-- [x]  binary search (
-	- [x] algorithm/
-	- [x] psuedo code,
-	- [x] problems)
-- [x] Bubble sort, (
-	- [x] algorithm/
-	- [x] psuedo code
-	- [x] problems)
+- [ ] Linear search (
+	- [ ] algorithm/
+	- [ ] psuedo code,
+	- [ ] problems)
+- [ ]  binary search (
+	- [ ] algorithm/
+	- [ ] psuedo code,
+	- [ ] problems)
+- [ ] Bubble sort, (
+	- [ ] algorithm/
+	- [ ] psuedo code
+	- [ ] problems)
 - [ ] Insertion sort,(
-	- [x] algorithm/
+	- [ ] algorithm/
 	- [ ] psuedo code, 
 	- [ ] problems)
 - [ ] selection sort,(
