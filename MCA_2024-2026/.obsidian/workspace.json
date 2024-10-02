@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "280741717b6ce9e6",
+        "id": "dbc43f28e2c0880a",
         "type": "tabs",
         "children": [
           {
-            "id": "ce967e8212b1ffef",
+            "id": "5a0a457e31e5cfdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sql/commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d5b5accdbd8af6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sql/CORE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sql/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sql/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sql/commands.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,67 +130,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce967e8212b1ffef",
+  "active": "5a0a457e31e5cfdc",
   "lastOpenFiles": [
-    "DS/sub_notes/linear search.md",
-    "DS/Notes.md",
-    "sql/commands.md",
+    "java/notes_java.md",
+    "java/pasted_images/Pasted image 20241001123127.png",
+    "TO DS DO LIST.md",
+    "Adv DBMS.md",
+    "To do list java.md",
+    "java/ppt/5. OOP Using Java - Classes - Objects - Methods - Constructors - Overloading.pdf",
+    "java/core.md",
+    "java/pasted_images",
+    "java/CORE.md",
+    "Pasted image 20241001123102.png",
+    "To Do List sql.md",
+    "To Do list DM.md",
+    "java/notes 1.md",
+    "java/ppt/1. OOP Using JAVA-Introduction.pdf",
+    "java/ppt/2. OOP Using JAVA-FEATURES.pdf",
+    "java/ppt/4. OOP Using Java - Arrays.pdf",
+    "java/ppt/3. OOPS Uing JAVA-Control-Flow-Statements.pdf",
     "sql/CORE.md",
+    "os/introduction/OS intro.md",
+    "os/Process Management/pm.excalidraw.md",
+    "java/ppt",
+    "sql/commands.md",
+    "If p is true then.md",
+    "Excalidraw/Drawing 2024-09-30 11.34.03.excalidraw.md",
+    "sql/Adv DBMS-Unit 5.pdf",
     "sql/NOTES.md",
+    "os/CORE.md",
+    "DS/Notes.md",
+    "os/Process Management/OS  P. M.md",
+    "to do list sql.md",
+    "DS/sub_notes/linear search.md",
     "sql.md",
-    "sql To Do List.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Notes ds.md",
     "os/pasted_image/Pasted Image 20240928172908_517.png",
     "Memory spooling.md",
-    "DS TO DO LIST.md",
-    "DM/2024-09-17.md",
-    "os/introduction/OS intro.md",
-    "os/Process Scheduling/P S.md",
-    "DS/sub_notes/Shell sort.md",
-    "DS/sub_notes/Quick sort.md",
-    "DS/sub_notes/Selection sort.md",
-    "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
-    "os/CORE.md",
-    "os/introduction/Drawing 2024-08-20 08.59.13.excalidraw.md",
     "os/pasted_image/Pasted Image 20240929092546_824.png",
-    "os/Lecture_notes/2024-08-22 05.37.59.excalidraw.md",
-    "os/2024-08-22.md",
-    "os/Process Management/pm.excalidraw.md",
-    "os/Process Management/OS  P. M.md",
-    "DS/sub_notes/Insertion sort.md",
     "DS/Pasted_image/Pasted image 20240928122743.png",
     "DS/Pasted_image/Pasted image 20240928122713.png",
     "DS/Pasted_image/Pasted image 20240928122632.png",
     "DS/Pasted_image/Pasted image 20240928044235.png",
     "DS/Pasted_image/photo_6318590066234082057_x.jpg",
     "DS/Pasted_image/photo_6318590066234082058_x.jpg",
-    "DS/Pasted_image/Pasted image 20240928035433.png",
-    "Pasted image 20240928035341.png",
     "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
     "DS/sub_notes",
-    "HackerRank/2022btabhyas",
-    "DM/module2",
-    "sql/pasted_Image",
-    "DM/CHAPTER-2",
-    "DM/CHAPTER-1",
-    "DM/Untitled",
-    "DM",
-    "certifications/cs50p",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "os/Untitled 2.canvas",

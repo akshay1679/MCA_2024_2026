@@ -179,3 +179,118 @@ The `IS NULL` operator is used to test for empty values (NULL values).
 The `IS NOT NULL` operator is used to test for non-empty values (NOT NULL values).
 
 The following SQL lists all customers with a value in the "Address" field:
+`SELECT CustomerName, ContactName, Address  FROM Customers  WHERE Address IS NOT NULL;`
+
+
+## SQL UPDATE Statement
+
+The `UPDATE` statement is used to modify the existing records in a table.
+
+`UPDATE _table_name_  SET _column1_ = _value1_, _column2_ = _value2_, ...  WHERE _condition_;`
+
+|CustomerID|CustomerName|ContactName|Address|City|PostalCode|Country|
+|---|---|---|---|---|---|---|
+|1|Alfreds Futterkiste|Maria Anders|Obere Str. 57|Berlin|12209|Germany|
+|2|Ana Trujillo Emparedados y helados|Ana Trujillo|Avda. de la Constitución 2222|México D.F.|05021|Mexico|
+|3|Antonio Moreno Taquería|Antonio Moreno|Mataderos 2312|México D.F.|05023|Mexico|
+|4|Around the Horn|Thomas Hardy|120 Hanover Sq.|London|WA1 1DP|UK|
+|5|Berglunds snabbköp|Christina Berglund|Berguvsvägen 8|Luleå|S-958 22|Sweden|
+
+`UPDATE Customers  SET ContactName = 'Alfred Schmidt', City= 'Frankfurt'  WHERE CustomerID = 1;`
+
+|CustomerID|CustomerName|ContactName|Address|City|PostalCode|Country|
+|---|---|---|---|---|---|---|
+|1|Alfreds Futterkiste|Alfred Schmidt|Obere Str. 57|Frankfurt|12209|Germany|
+|2|Ana Trujillo Emparedados y helados|Ana Trujillo|Avda. de la Constitución 2222|México D.F.|05021|Mexico|
+|3|Antonio Moreno Taquería|Antonio Moreno|Mataderos 2312|México D.F.|05023|Mexico|
+|4|Around the Horn|Thomas Hardy|120 Hanover Sq.|London|WA1 1DP|UK|
+|5|Berglunds snabbköp|Christina Berglund|Berguvsvägen 8|Luleå|S-958 22|Sweden|
+
+### UPDATE Multiple Records
+
+It is the `WHERE` clause that determines how many records will be updated.
+
+The following SQL statement will update the ContactName to "Juan" for all records where country is "Mexico":
+
+`UPDATE Customers  SET ContactName='Juan'  WHERE Country='Mexico';`
+
+***Be careful when updating records. If you omit the `WHERE` clause, ALL records will be updated!***
+
+## The SQL DELETE Statement
+
+The `DELETE` statement is used to delete existing records in a table.
+
+`DELETE FROM _table_name_ WHERE _condition_;`
+
+`DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';`
+
+### Delete a Table
+
+To delete the table completely, use the `DROP TABLE` statement:
+`DROP TABLE Customers;`
+
+## The SQL SELECT TOP Clause
+
+The `SELECT TOP` clause is used to specify the number of records to return.
+
+The `SELECT TOP` clause is useful on large tables with thousands of records. Returning a large number of records can impact performance.
+
+`SELECT TOP 3 * FROM Customers;
+
+## LIMIT
+
+`SELECT * FROM Customers  LIMIT 3;`
+
+## SQL Aggregate Functions
+
+An aggregate function is a function that performs a calculation on a set of values, and returns a single value.
+
+Aggregate functions are often used with the `GROUP BY` clause of the `SELECT` statement. The `GROUP BY` clause splits the result-set into groups of values and the aggregate function can be used to return a single value for each group.
+
+The most commonly used SQL aggregate functions are:
+
+- `MIN()` - returns the smallest value within the selected column
+- `MAX()` - returns the largest value within the selected column
+- `COUNT()` - returns the number of rows in a set
+- `SUM()` - returns the total sum of a numerical column
+- `AVG()` - returns the average value of a numerical column
+
+Aggregate functions ignore null values (except for `COUNT()`).
+
+
+## SQL MIN() and MAX() Functions
+
+Find the lowest price in the Price column:
+
+`SELECT MIN(Price) FROM Products;`
+
+Find the highest price in the Price column:
+
+`SELECT MAX(Price) FROM Products;`
+
+## Set Column Name (Alias)
+
+When you use `MIN()` or `MAX()`, the returned column will not have a descriptive name. To give the column a descriptive name, use the `AS` keyword:
+
+### Example
+
+`SELECT MIN(Price) AS SmallestPrice FROM Products;`
+
+## The SQL COUNT() Function
+
+The `COUNT()` function returns the number of rows that matches a specified criterion.
+
+`SELECT COUNT(*)  FROM Products;`
+
+### Specify Column
+
+You can specify a column name instead of the asterix symbol `(*)`.
+
+If you specify a column name instead of `(*)`, NULL values will not be counted.
+
+`SELECT COUNT(ProductName) FROM Products;`
+`SELECT COUNT(ProductID)  FROM Products  WHERE Price > 20;
+### Ignore Duplicates
+
+`SELECT COUNT(DISTINCT Price) FROM Products;`
+

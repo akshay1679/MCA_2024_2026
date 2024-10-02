@@ -4,32 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8a84f3374811302e",
+        "id": "363fe7984b18d976",
         "type": "tabs",
         "children": [
           {
-            "id": "988bd2c7cc562ab5",
+            "id": "b3140f024f73d027",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc258db61a076855",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sql/commands.md",
-                "mode": "source",
+                "file": "Memory spooling.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f5185b8b01c6c76",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "os/Process Management/pm.excalidraw.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sql/commands.md",
+            "file": "Memory spooling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sql/commands.md",
+            "file": "Memory spooling.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,12 +123,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sql/commands.md"
+            "file": "Memory spooling.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,36 +145,42 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "988bd2c7cc562ab5",
+  "active": "cc258db61a076855",
   "lastOpenFiles": [
-    "sql/NOTES.md",
-    "os/Process Scheduling/P S.md",
-    "os/CORE.md",
-    "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
-    "os/Process Management/OS  P. M.md",
-    "os/Process Management/pm.excalidraw.md",
-    "DS/Notes.md",
-    "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
-    "os/Untitled.md",
-    "os/introduction/OS intro.md",
-    "os/introduction/Drawing 2024-08-20 08.59.13.excalidraw.md",
-    "DS/sub_notes/linear search.md",
-    "TO DO LIST.md",
-    "DS/sub_notes/Shell sort.md",
-    "DS/sub_notes/Selection sort.md",
-    "DM/CHAPTER-1/Notes.md",
-    "DS/sub_notes/Insertion sort.md",
-    "DS/sub_notes/Bubble sort.md",
-    "DS/sub_notes/Binary search.md",
-    "DS/sub_notes/Quick sort.md",
-    "DS/sub_notes/Singly linked list.md",
-    "java/notes 1.md",
-    "DS/sub_notes/Double Linked List.md",
-    "DS/sub_notes",
+    "TO DS DO LIST.md",
+    "java/notes_java.md",
     "java/notes.md",
-    "Notes ds.md",
-    "DS/Singly linked list.md",
-    "DS/Quick sort.md",
+    "java/notes 1.md",
+    "DS/sub_notes/Selection sort.md",
+    "DS/Notes.md",
+    "DS/CORE.md",
+    "1. OOP Using JAVA-Introduction.pdf",
+    "os/Process Management/pm.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-30 11.34.03.excalidraw.md",
+    "os/Process Management/OS  P. M.md",
+    "Untitled/cs50p/notes.md",
+    "2024-10-01.md",
+    "4. OOP Using Java - Arrays.pdf",
+    "3. OOPS Uing JAVA-Control-Flow-Statements.pdf",
+    "5. OOP Using Java - Classes - Objects - Methods - Constructors - Overloading.pdf",
+    "2. OOP Using JAVA-FEATURES.pdf",
+    "sql/CORE.md",
+    "sql/NOTES.md",
+    "os/Untitled.md",
+    "os/introduction/Drawing 2024-08-20 08.59.13.excalidraw.md",
+    "os/CORE.md",
+    "os/introduction/OS intro.md",
+    "os/Process Scheduling/P S.md",
+    "Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
+    "DS/WhatsApp Image 2024-08-24 at 6.15.12 PM.jpeg",
+    "sql To Do List.md",
+    "DM/CHAPTER-2/KDD Process.md",
+    "DM/CHAPTER-1/Notes.md",
+    "DM/CHAPTER-1/Data mining Archetecture.md",
+    "If p is true then.md",
+    "sql/commands.md",
+    "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
+    "DS/sub_notes",
     "DM/module2",
     "java/Extra_note/JAVA_E-BOOK/Java Ebook .pdf",
     "sql/pasted_Image/Pasted image 20240902055429.png",
@@ -184,7 +189,6 @@
     "DS/Pasted_image/cs50Week3Slide042.png",
     "DS/Pasted_image",
     "DS/Pasted_image/Doubly-linked-list-in-DS-1.webp",
-    "os/pasted_image/Pasted Image 20240822055422_075.png",
-    "DS_m/Data structures using C, Leena Miss Notes till today 24-08-24.pdf"
+    "os/pasted_image/Pasted Image 20240822055422_075.png"
   ]
 }
