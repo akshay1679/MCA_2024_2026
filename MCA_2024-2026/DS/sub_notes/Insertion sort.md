@@ -1,7 +1,7 @@
 **Def** ->
 	Select the values from each index and move the  values to the right till values to the left of key is less than itself 
 
-```
+```c
 #include <stdio.h>
 
 void insertionSort(int arr[], int n) {

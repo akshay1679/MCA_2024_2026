@@ -19,11 +19,13 @@
             "id": "cc258db61a076855",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Memory spooling.md",
-                "mode": "preview",
-                "source": false
+                "file": "java/ppt/6. OOP Using JAVA-Inheritance.pdf",
+                "page": 18,
+                "left": 0,
+                "top": 525,
+                "zoom": 0.3787878787878788
               }
             }
           }
@@ -94,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Memory spooling.md",
+            "file": "java/ppt/6. OOP Using JAVA-Inheritance.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Memory spooling.md",
+            "file": "java/ppt/6. OOP Using JAVA-Inheritance.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Memory spooling.md"
+            "file": "java/ppt/6. OOP Using JAVA-Inheritance.pdf"
           }
         }
       }
@@ -147,6 +149,14 @@
   },
   "active": "cc258db61a076855",
   "lastOpenFiles": [
+    "java/ppt/8. OOP Using JAVA-Package-Access-Final (Copy).pdf",
+    "java/ppt/7. OOP Using JAVA-Polymorphism (Copy).pdf",
+    "java/ppt/6. OOP Using JAVA-Inheritance.pdf",
+    "java/ppt/5. OOP Using Java - Classes - Objects - Methods - Constructors - Overloading.pdf",
+    "java previoues qp.md",
+    "java/ppt/4. OOP Using Java - Arrays.pdf",
+    "java/ppt/1. OOP Using JAVA-Introduction.pdf",
+    "Memory spooling.md",
     "TO DS DO LIST.md",
     "java/notes_java.md",
     "java/notes.md",
@@ -176,18 +186,10 @@
     "sql To Do List.md",
     "DM/CHAPTER-2/KDD Process.md",
     "DM/CHAPTER-1/Notes.md",
-    "DM/CHAPTER-1/Data mining Archetecture.md",
-    "If p is true then.md",
-    "sql/commands.md",
-    "DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
-    "DS/sub_notes",
-    "DM/module2",
-    "java/Extra_note/JAVA_E-BOOK/Java Ebook .pdf",
     "sql/pasted_Image/Pasted image 20240902055429.png",
     "sql/pasted_Image/Pasted image 20240902194248.png",
     "DS/Pasted_image/Pasted Image 20240826190918_971.jpg",
     "DS/Pasted_image/cs50Week3Slide042.png",
-    "DS/Pasted_image",
     "DS/Pasted_image/Doubly-linked-list-in-DS-1.webp",
     "os/pasted_image/Pasted Image 20240822055422_075.png"
   ]
