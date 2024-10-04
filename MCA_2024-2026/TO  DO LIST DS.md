@@ -7,39 +7,64 @@
 - [ ] *Array data structures* (operations)
 	- [ ] search
 	- [ ] sort
-	- [ ] traverse
-	- [ ] insert
+	- [x] traverse
+	- [x] insert
 	- [ ] split
 	- [ ] merge 
-	- [ ] delete
+	- [x] delete
 - [ ] Search & Sort Algorithm 
-- [ ] Linear search (
-	- [ ] algorithm/
-	- [ ] psuedo code,
-	- [ ] problems)
+- [x] Linear search (
+	- [x] algorithm/
+	- [x] psuedo code,
+	- [x] problems)
 - [ ]  binary search (
 	- [ ] algorithm/
-	- [ ] psuedo code,
-	- [ ] problems)
+		- [ ] recursive
+		- [ ] non recursive
+	- [x] psuedo code,
+	- [x] problems)
 - [ ] Bubble sort, (
-	- [ ] algorithm/
-	- [ ] psuedo code
+	- [x] algorithm
+	- [ ]  Algorithm features
+		- [ ] adaptive 
+		- [ ] inplace 
+		- [ ] stable
+		- [ ] graph
+	- [x] psuedo code
 	- [ ] problems)
 - [ ] Insertion sort,(
 	- [ ] algorithm/
 	- [ ] psuedo code, 
 	- [ ] problems)
+	- [ ]  Algorithm features
+		- [ ] adaptive 
+		- [ ] inplace 
+		- [ ] stable
+		- [ ] graph
 - [ ] selection sort,(
 	- [ ] algorithm/
 	- [ ] psuedo code,
 	- [ ] problems)
+	- [ ]  Algorithm features
+		- [ ] adaptive 
+		- [ ] inplace 
+		- [ ] stable
+		- [ ] graph
 - [ ] shell sort (
 	- [ ] algorithm/
 	- [ ] psuedo code, 
 	- [ ] problems)
 *Linked list*
 - [ ] Singly linked list 
+	- [ ] Create, 
+	- [ ] Traverse, 
+	- [ ] insert, 
+	- [ ] delete
 - [ ] Doubly linked list
+	- [ ] Create, 
+	- [ ] Traverse, 
+	- [ ] insert, 
+	- [ ] delete
 - [ ] Circular -linear only (doubly❌)
 	- [ ] Create, 
 	- [ ] Traverse, 

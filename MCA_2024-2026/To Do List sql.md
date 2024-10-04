@@ -13,3 +13,63 @@ Unit:5
 3. [ ] Intelligent Databases
 4. [ ] Temporal Databases
 5. [ ] Deductive Databases
+
+-  [ ] SQL Commands
+	- [ ] delete
+	- [ ] select top
+	- [ ] aggrigate
+	- [ ] min  and max
+	- [ ] count
+	- [ ] sum
+	- [ ] avg
+	- [ ] like
+	- [ ] while cards
+	- [ ] in
+	- [ ] bitween
+	- [ ] alliyas
+	- [ ] join
+	- [ ] inner join
+	- [ ] left join
+	- [ ] right
+	- [ ] self join
+	- [ ] join
+	- [ ] full join
+	- [ ] union
+	- [ ] having
+	- [ ] group by
+	- [ ] any,all
+	- [ ] select into
+	- [ ] insert into select
+	- [ ] case
+	- [ ] null functions
+	- [ ] comments
+	- [ ] operators
+- [ ] database
+	- [ ] create db
+	- [ ] drop db
+	- [ ] create table
+	- [ ] drop table
+	- [ ] alter table
+	- [ ] constrains
+	- [ ] unique
+	- [ ] not null
+	- [ ] primary key
+	- [ ] foreign key
+	- [ ] check
+	- [ ] default
+	- [ ] index
+	- [ ] auto increment
+	- [ ] dates
+	- [ ] views
+	- [ ] datatypes
+	- [ ] commit
+	- [ ] rollback
+	- [ ] primary
+	- [ ] foreign
+	- [ ] set 
+	- [ ] unique
+	- [ ] not null
+- [ ] ddl command
+- [ ] dml command
+- [ ] dcl command
+- [ ] 

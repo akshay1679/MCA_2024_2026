@@ -1,4 +1,3 @@
-
 ## Data Structure
 
 **def** -> Organised collection of data along with their permissible operations.
@@ -59,23 +58,30 @@ step 4: else find the closest index that
 3. Else for (i=(size-1 ) to pos)
 4.         Arr`[i] = arr[i-1]`
 5. Arr`[pos]= value `
-#### Deletion at specific position:-
 
-```c
-If (pos > 0 && pos < size)
+
+#### deletion at specific position:-
+
+If (pos > size 11 pas <=0)
+
 {
+
 printf ("invalid position")
+
 }
+
 else {
-for (i=pos-1;i<size-i;i++)
+
+for (i=pos=1;i<size-ijitt)
+
 {
-a[i] = a[i+1]
-}
-Size -- ;
-```
 
+a[] = a[i+1]
 
-#### Deletion at specific position:-
+3
+
+Size --
+
 ### Time complexity
 
   ![[cs50Week3Slide042.png]]

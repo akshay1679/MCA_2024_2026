@@ -1,7 +1,7 @@
 # Linear search  
 #Linear_search
 
-```
+```c
 #include <cs50.h>
 #include <stdio.h>
 
@@ -31,7 +31,7 @@ int main(void)
 
 ==linearsearch(arr,key,size)==
 
-```
+```c
 linearsearch(arr,key,size)
 {
 for(i = 0 to size-1 )

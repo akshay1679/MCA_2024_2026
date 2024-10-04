@@ -23,7 +23,7 @@ complexity = O($n^2$)
 
 
 
-```
+```c
 #include <stdio.h>
 
 void selectionSort(int arr[], int n) {
@@ -71,7 +71,7 @@ int main() {
 2. In each iteration of the outer loop, it selects the minimum element from the unsorted part of the array and swaps it with the element at the beginning of the unsorted part.
 3. The process is repeated until the entire array is sorted.
 
-```
+```c
 #include <stdio.h>
 
 // Function to swap two elements

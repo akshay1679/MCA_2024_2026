@@ -4,59 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a024fcc77fad0b",
+        "id": "b26234ae47219cd1",
         "type": "tabs",
         "children": [
           {
-            "id": "4eb715923aadbccd",
+            "id": "37c78d06b0cdb602",
             "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "java/ppt/6. OOP Using JAVA-Inheritance.pdf",
-                "page": 1,
-                "zoom": 1
-              }
-            }
-          },
-          {
-            "id": "fa072c15587ef061",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Notes.md",
-                "mode": "preview",
+                "file": "To Do List sql.md",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "1bfc64974ecd1ab4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "java/ppt/7. OOP Using JAVA-Polymorphism (Copy).pdf",
-                "page": 1,
-                "zoom": 1
-              }
-            }
-          },
-          {
-            "id": "dfcf4de771c1ca51",
+            "id": "bdc7aca74481d69b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java previoues qp.md",
+                "file": "sql/commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/Notes.md",
+                "file": "To Do List sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/Notes.md",
+                "file": "To Do List sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/Notes.md"
+                "file": "To Do List sql.md"
               }
             }
           }
@@ -188,45 +165,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa072c15587ef061",
+  "active": "37c78d06b0cdb602",
   "lastOpenFiles": [
-    "java/ppt/8. OOP Using JAVA-Package-Access-Final (Copy).pdf",
-    "java/ppt/7. OOP Using JAVA-Polymorphism (Copy).pdf",
+    "sql/commands.md",
+    "To Do List sql.md",
+    "sql/CORE.md",
+    "sql/NOTES.md",
+    "To do list java.md",
+    "sql/Adv DBMS-Unit 5.pdf",
+    "DS/Notes.md",
+    "DS/sub_notes/Singly linked list.md",
+    "TO  DO LIST DS.md",
+    "DS/sub_notes/Selection sort.md",
+    "DS/sub_notes/Insertion sort.md",
+    "DS/sub_notes/Bubble sort.md",
+    "DS/sub_notes/Binary search.md",
+    "DS/sub_notes/linear search.md",
+    "DS/Notes.sync-conflict-20241003-214419-U5HNCMN.md",
+    "DS/sub_notes/Double Linked List.md",
+    "DS/CORE.md",
     "java/ppt/6. OOP Using JAVA-Inheritance.pdf",
+    "java previoues qp.md",
+    "java/ppt/7. OOP Using JAVA-Polymorphism (Copy).pdf",
+    "java/ppt/8. OOP Using JAVA-Package-Access-Final (Copy).pdf",
     "java/ppt/4. OOP Using Java - Arrays.pdf",
     "java_oops.md",
     "java.md",
     "If p is true then.md",
-    "java previoues qp.md",
     "java/ppt/5. OOP Using Java - Classes - Objects - Methods - Constructors - Overloading.pdf",
-    "To do list java.md",
     "java/ppt/3. OOPS Uing JAVA-Control-Flow-Statements.pdf",
     "java/ppt/2. OOP Using JAVA-FEATURES.pdf",
     "java/ppt/1. OOP Using JAVA-Introduction.pdf",
-    "TO  DO LIST DS.md",
     "java/notes_java.md",
     "java/notes 1.md",
-    "DS/sub_notes/Insertion sort.md",
-    "DS/Notes.md",
     "java/ppt/8. OOP Using JAVA-Package-Access-Final.pdf",
     "java/core.md",
-    "To Do List sql.md",
     "to do list sql.md",
     "java/pasted_images/Pasted image 20241001123127.png",
     "Adv DBMS.md",
-    "java/pasted_images",
     "java/CORE.md",
     "Pasted image 20241001123102.png",
-    "To Do list DM.md",
-    "sql/CORE.md",
-    "os/introduction/OS intro.md",
-    "os/Process Management/pm.excalidraw.md",
-    "sql/commands.md",
-    "Excalidraw/Drawing 2024-09-30 11.34.03.excalidraw.md",
-    "sql/NOTES.md",
-    "os/CORE.md",
-    "os/Process Management/OS  P. M.md",
-    "DS/sub_notes/linear search.md",
     "os/pasted_image/Pasted Image 20240928172908_517.png",
     "os/pasted_image/Pasted Image 20240929092546_824.png",
     "DS/Pasted_image/Pasted image 20240928122743.png",

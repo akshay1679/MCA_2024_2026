@@ -8,7 +8,7 @@
 **def** -->Binary search is applied for sorted element after each comparison the no of steps keeps decreasing starting point is mid
 
 ## Binary search algo non recursive
-```
+```c
 int binary_s(int arr[], int key, int low, int high)
 {
     while (low <= high) {
@@ -36,7 +36,7 @@ Worst case scenario is log2n
 
 ## Binary search algo recursive
 
-```
+```c
 int binary_s(int arr[], int key, int low, int high)
 {
     if (low <= high) {
@@ -83,7 +83,7 @@ int binary_s(int arr[], int key, int low, int high)
 # binary search graph 
 #complete
 
-```
+```c
 #include <stdio.h>
 
 // Function to perform Binary Search
@@ -125,7 +125,7 @@ int main() {
 ```
 
 
-```
+```c
 #include <stdio.h>
 
 int binary_s(int arr[], int key, int low, int high)

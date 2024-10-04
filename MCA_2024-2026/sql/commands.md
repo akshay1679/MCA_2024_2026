@@ -43,7 +43,7 @@ The `WHERE` clause is used to filter records.
 
 It is used to extract only those records that fulfill a specified condition
 
-``SELECT * FROM Customers WHERE Country='Mexico';
+	``SELECT * FROM Customers WHERE Country='Mexico';
 
 ## Text Fields vs. Numeric Fields
 
@@ -293,4 +293,5 @@ If you specify a column name instead of `(*)`, NULL values will not be counted.
 ### Ignore Duplicates
 
 `SELECT COUNT(DISTINCT Price) FROM Products;`
+
 

@@ -24,18 +24,18 @@ Then
 ![[Pasted image 20240928032303.png]]
 ## Algorithm for bubble sort
 
-```
+```c
 bubble_sort(arr,n)
 {
 for(int i = 0;i<n-1,i++)
 {
 for(int j = 0;j<n-i-1;j++)
 {
-if(arr[i]>arr[i+1])
+if(arr[j]>arr[j+1])
 {
-temp = arr[i];
-arr[i] = arr[i+1];
-arr[i+1]= temp;
+temp = arr[j];
+arr[j] = arr[j+1];
+arr[j+1]= temp;
 }
 }
 }
@@ -46,7 +46,7 @@ arr[i+1]= temp;
 To prevent the loop to run multiple time even if the array is sorted we use a flag method 
 to check if swapping has happened
 
-```
+```c
 bubble_sort(arr,n)
 {
 for(int i = 0;i<n-1,i++)
@@ -110,7 +110,7 @@ break;
 
 ---
 
-```
+```c
 #include <stdio.h>
 
 // Function to perform Bubble Sort
