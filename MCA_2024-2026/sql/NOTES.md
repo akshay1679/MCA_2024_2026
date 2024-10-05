@@ -49,7 +49,7 @@ Consider the transaction shown in the above slide
 
 ### Transaction Processing
 
-- Consistency requirement in above example:
+- ==Consistency requirement in== above example:
 	 -  The sum of A and B is unchanged by the execution of the transaction
 - In general, consistency requirements include 
 	-  Explicitly specified integrity constraints such as primary keys and foreign keys
@@ -63,7 +63,7 @@ Consider the transaction shown in the above slide
 ---
 
 ### Transaction Processing
-**Isolation requirement** —> if between steps 3 and 6 (of the fund transfer transaction) , another transaction **T2** is allowed to access the partially updated database, it will see an inconsistent database (the sum  A + B  will be less than it should be).
+**==Isolation requirement==** —> if between steps 3 and 6 (of the fund transfer transaction) , another transaction **T2** is allowed to access the partially updated database, it will see an inconsistent database (the sum  A + B  will be less than it should be).
 
 | T1          | T2                           |
 | ----------- | ---------------------------- |
@@ -82,14 +82,14 @@ Isolation can be ensured trivially by running transactions **serially**
 
 ### States of a transaction
 
-**Active** – the initial state; the transaction stays in this state while it is executing
-**Partially committed** – after the final statement has been executed.
-**Failed** -- after the discovery that normal execution can no longer proceed.
-**Aborted** – after the transaction has been rolled back and the database restored to its state prior to the start of the transaction.  Two options after it has been aborted:
+==**Active**== – the initial state; the transaction stays in this state while it is executing
+**==Partially committed==** – after the final statement has been executed.
+==**Failed**== -- after the discovery that normal execution can no longer proceed.
+==**Aborted**== – after the transaction has been rolled back and the database restored to its state prior to the start of the transaction.  Two options after it has been aborted:
 - Restart the transaction
 	 - can be done only if no internal logical error
 - Kill the transaction
-**Committed** – after successful completion.
+==**Committed**== – after successful completion.
 
 ![[Pasted image 20240902055429.png]]
 
@@ -98,8 +98,8 @@ Isolation can be ensured trivially by running transactions **serially**
 ### Introduction to Concurrency Control
 
 Multiple transactions are allowed to run concurrently in the system.  Advantages are:
-1. **Increased processor and disk utilization**, leading to better transaction throughpute.g. one transaction can be using the CPU while another is reading from or writing to the disk.
-2. **Reduced average response time** for transactions: short transactions need not wait behind long ones.
+1. ==**Increased processor and disk== utilization**, leading to better transaction throughpute.g. one transaction can be using the CPU while another is reading from or writing to the disk.
+2. ==**Reduced average response time**== for transactions: short transactions need not wait behind long ones.
 
 ### Deadlock
 

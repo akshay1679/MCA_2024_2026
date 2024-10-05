@@ -236,6 +236,7 @@ The `SELECT TOP` clause is used to specify the number of records to return.
 The `SELECT TOP` clause is useful on large tables with thousands of records. Returning a large number of records can impact performance.
 
 `SELECT TOP 3 * FROM Customers;
+`SELECT TOP 3 * FROM Customers ORDER BY CustomerName DESC;`
 
 ## LIMIT
 
@@ -294,4 +295,102 @@ If you specify a column name instead of `(*)`, NULL values will not be counted.
 
 `SELECT COUNT(DISTINCT Price) FROM Products;`
 
+#Important_study
 
+```plsql
+SELECT COUNT(*) AS [Number of records], CategoryID
+FROM Products
+GROUP BY CategoryID;
+```
+
+
+![[WhatsApp Image 2024-10-04 at 11.22.18 PM.jpeg]]
+
+SELECT AVG(Price) AS [average price]
+FROM Products;
+
+square bracket used for double word no need of [ ] if it is a  single word
+
+Return all products with a higher price than the average price:
+```plsql
+SELECT * FROM Products  
+WHERE price > (SELECT AVG(price) FROM Products);
+```
+
+## Using the [] Wildcard
+
+The `[]` wildcard returns a result if _any_ of the characters inside gets a match.
+
+Return all customers starting with either "b", "s", or "p":
+
+```plsql
+SELECT * FROM Customers  
+WHERE CustomerName LIKE '[bsp]%';
+```
+
+## Using the - Wildcard
+
+The `-` wildcard allows you to specify a range of characters inside the `[]` wildcard.
+
+Return all customers starting with "a", "b", "c", "d", "e" or "f":
+
+```plsql
+SELECT * FROM Customers  
+WHERE CustomerName LIKE '[a-f]%';
+```
+
+## The SQL IN Operator
+```plsql
+SELECT * FROM Customers  
+WHERE Country IN ('Germany', 'France', 'UK');
+```
+
+## NOT IN
+
+```plsql
+SELECT * FROM Customers  
+WHERE Country NOT IN ('Germany', 'France', 'UK');
+```
+
+Return all customers that have an order in the [**Orders**](https://www.w3schools.com/sql/trysql.asp?filename=trysql_orders) table:
+
+```plsql
+SELECT * FROM Customers  
+WHERE CustomerID IN (SELECT CustomerID FROM Orders);
+```
+
+# SQL Aliases
+
+```plsql
+SELECT CustomerID AS ID  
+FROM Customers;
+```
+
+Using \[square brackets] for aliases with space characters:
+```plsql
+SELECT ProductName AS [My Great Products]  
+FROM Products;
+```
+
+SQL Joins
+# SQL Joins
+
+[❮ Previous](https://www.w3schools.com/sql/sql_alias.asp)[Next ❯](https://www.w3schools.com/sql/sql_join_inner.asp)
+
+```plsql
+SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate  
+FROM Orders  
+INNER JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
+```
+
+
+- `(INNER) JOIN`: Returns records that have **matching values in both tables**
+- `LEFT (OUTER) JOIN`: Returns all records from the left table, and the matched records from the right table
+- `RIGHT (OUTER) JOIN`: Returns all records from the right table, and the matched records from the left table
+- `FULL (OUTER) JOIN`: Returns all records when there is a match in either left or right table
+
+
+```run-python
+print("apple")
+print("Vault path:", @vault_path)
+```

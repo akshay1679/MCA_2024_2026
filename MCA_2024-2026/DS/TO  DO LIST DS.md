@@ -1,0 +1,80 @@
+
+- [ ] _*Data Structures Using C*_
+- [ ] Mid term Exam portion_
+
+- [ ] Introduction to Data structures (Definition, types, classification)
+
+- [ ] *Array data structures* (operations)
+	- [ ] search
+	- [ ] sort
+	- [x] traverse
+	- [x] insert
+	- [ ] split
+	- [ ] merge 
+	- [x] delete
+- [ ] Search & Sort Algorithm 
+- [x] Linear search (
+	- [x] algorithm/
+	- [x] psuedo code,
+	- [x] problems)
+- [ ]  binary search (
+	- [ ] algorithm/
+		- [ ] recursive
+		- [ ] non recursive
+	- [x] psuedo code,
+	- [x] problems)
+- [ ] Bubble sort, (
+	- [x] algorithm
+	- [ ]  Algorithm features
+		- [ ] adaptive 
+		- [ ] inplace 
+		- [ ] stable
+		- [ ] graph
+	- [x] psuedo code
+	- [ ] problems)
+- [ ] Insertion sort,(
+	- [ ] algorithm/
+	- [ ] psuedo code, 
+	- [ ] problems)
+	- [ ]  Algorithm features
+		- [ ] adaptive 
+		- [ ] inplace 
+		- [ ] stable
+		- [ ] graph
+- [ ] selection sort,(
+	- [ ] algorithm/
+	- [ ] psuedo code,
+	- [ ] problems)
+	- [ ]  Algorithm features
+		- [ ] adaptive 
+		- [ ] inplace 
+		- [ ] stable
+		- [ ] graph
+- [ ] shell sort (
+	- [ ] algorithm/
+	- [ ] psuedo code, 
+	- [ ] problems)
+*Linked list*
+- [ ] Singly linked list 
+	- [ ] Create, 
+	- [ ] Traverse, 
+	- [ ] insert, 
+	- [ ] delete
+- [ ] Doubly linked list
+	- [ ] Create, 
+	- [ ] Traverse, 
+	- [ ] insert, 
+	- [ ] delete
+- [ ] Circular -linear only (doubly❌)
+	- [ ] Create, 
+	- [ ] Traverse, 
+	- [ ] insert, 
+	- [ ] delete
+- [ ] *Stack* Operations
+- [ ] *Queue*
+1. Linear
+   1. Circular 
+- [ ] Double ended queue(Operations)
+- [ ] what is abstract data type (adt)
+- [ ] Priority queue( theory only, definition, why priority queue?,no operations)
+- [ ] write a search algo to search a particular name in a rank list (linear search)

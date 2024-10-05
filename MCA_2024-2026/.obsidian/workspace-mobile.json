@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "363fe7984b18d976",
+        "id": "6e1c21131c7489a6",
         "type": "tabs",
         "children": [
           {
-            "id": "b3140f024f73d027",
+            "id": "e3d324d0dd0c177c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cc258db61a076855",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DS/sub_notes/Selection sort.md",
-                "mode": "source",
-                "source": false
+                "file": "DM/class_notes/D_M_PART3.pdf",
+                "page": 14,
+                "left": 0,
+                "top": 717,
+                "zoom": 0.504201680672269
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DS/sub_notes/Selection sort.md",
+            "file": "DM/class_notes/D_M_PART3.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DS/sub_notes/Selection sort.md",
+            "file": "DM/class_notes/D_M_PART3.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DS/sub_notes/Selection sort.md"
+            "file": "DM/class_notes/D_M_PART3.pdf"
           }
         }
       }
@@ -145,21 +138,35 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cc258db61a076855",
+  "active": "e3d324d0dd0c177c",
   "lastOpenFiles": [
+    "sql/To Do List sql 1.md",
+    "Untitled.md",
+    "DM/class_notes/D_M_PART2.pdf",
+    "DM/class_notes/D_M_part1.pdf",
+    "sql/NOTES.md",
+    "sql/commands.md",
+    "DM/class_notes/D_M_PART3.pdf",
+    "DM/class_notes",
+    "sql/Adv DBMS-Unit 5.pdf",
+    "sql/CORE.md",
+    "To Do List sql.md",
+    "To Do list DM.md",
+    "DS/sub_notes/Selection sort.md",
     "DS/Notes.md",
     "DS/sub_notes/Insertion sort.md",
+    "DS/CORE.md",
     "DS/sub_notes/Binary search.md",
-    "DS/Notes.sync-conflict-20241003-214419-U5HNCMN.md",
     "DS/sub_notes/Bubble sort.md",
+    "DS/sub_notes/linear search.md",
+    "DS/extra notes/Drawing 2024-08-26 19.07.28.excalidraw.md",
+    "TO  DO LIST DS.md",
+    "DS/Notes.sync-conflict-20241003-214419-U5HNCMN.md",
     "java/ppt/8. OOP Using JAVA-Package-Access-Final (Copy).pdf",
     "java/ppt/7. OOP Using JAVA-Polymorphism (Copy).pdf",
     "java/ppt/6. OOP Using JAVA-Inheritance.pdf",
     "java/ppt/1. OOP Using JAVA-Introduction.pdf",
     "java/ppt/5. OOP Using Java - Classes - Objects - Methods - Constructors - Overloading.pdf",
-    "java/ppt/4. OOP Using Java - Arrays.pdf",
-    "java/ppt/2. OOP Using JAVA-FEATURES.pdf",
-    "java/ppt/3. OOPS Uing JAVA-Control-Flow-Statements.pdf",
     "java previoues qp.md",
     "java_oops.md",
     "If p is true then.md",
@@ -169,20 +176,6 @@
     "Memory spooling.md",
     "TO DS DO LIST.md",
     "java/notes.md",
-    "java/notes 1.md",
-    "DS/sub_notes/Selection sort.md",
-    "DS/CORE.md",
-    "1. OOP Using JAVA-Introduction.pdf",
-    "os/Process Management/pm.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-30 11.34.03.excalidraw.md",
-    "os/Process Management/OS  P. M.md",
-    "Untitled/cs50p/notes.md",
-    "2024-10-01.md",
-    "4. OOP Using Java - Arrays.pdf",
-    "sql/CORE.md",
-    "sql/NOTES.md",
-    "os/Untitled.md",
-    "os/introduction/Drawing 2024-08-20 08.59.13.excalidraw.md",
     "DS/WhatsApp Image 2024-08-24 at 6.15.12 PM.jpeg",
     "sql/pasted_Image/Pasted image 20240902055429.png",
     "sql/pasted_Image/Pasted image 20240902194248.png",
