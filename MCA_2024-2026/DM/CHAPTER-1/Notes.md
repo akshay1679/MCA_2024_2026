@@ -21,11 +21,10 @@ Example of data:-
 
 **Data Mining** --> Data should be converted into knowledge
 **DEF** --> ==Extraction of knowledge from large amount of data==
-data mining is the process of extraction of knowledge or insights from large amount of data using various statistical and computational techniques .
+data mining is the process of extraction of ==knowledge== or insights from large amount of data using various statistical and computational techniques .
 data mining has a wide range of applications across various industries including marketing,finance,healthcare and telecommunication.
 It is the process of extracting information to identify patterns trends and useful data that would allow the business to take data driven decisions from huge set of data
 
-Decision making 
-
+Decision making
 
 
