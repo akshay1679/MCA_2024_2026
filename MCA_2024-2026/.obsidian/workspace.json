@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "91a6c2fea781a062",
+        "id": "421c51fdb65e0d20",
         "type": "tabs",
         "children": [
           {
-            "id": "cef0fdf50a9fd5b9",
+            "id": "27b1f70d38f08a9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "courses/cs50x/week1/lecture_1.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f22173ef5246001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/cs50x/week2/lecture_2.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/cs50x/week1/lecture_1.md",
+                "file": "courses/cs50x/week2/lecture_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/cs50x/week1/lecture_1.md",
+                "file": "courses/cs50x/week2/lecture_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/cs50x/week1/lecture_1.md"
+                "file": "courses/cs50x/week2/lecture_2.md"
               }
             }
           }
@@ -152,8 +165,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cef0fdf50a9fd5b9",
+  "active": "9f22173ef5246001",
   "lastOpenFiles": [
+    "Pasted image 20241011092607.png",
+    "courses/cs50x/week2/lecture_2.md",
+    "Pasted image 20241008231518.png",
+    "courses/cs50x/week1/lecture_1.md",
+    "courses/cs50x/week2",
+    "Untitled 2.md",
     "courses/cs50x/week1",
     "Memory spooling.md",
     "dm.md",
@@ -163,7 +182,6 @@
     "os/introduction/Drawing 2024-08-20 08.59.13.excalidraw.md",
     "os/introduction/OS intro.md",
     "Untitled.md",
-    "Pasted image 20241008231518.png",
     "Untitled 1.md",
     "Classical problems 1.pptx",
     "Classical problems.pptx",
@@ -180,17 +198,12 @@
     "DM/CHAPTER-1/Data mining Archetecture.md",
     "sql/To Do List sql 1.md",
     "DM/class_notes",
-    "courses/cs50x/week1/lecture_1.md",
     "courses/cs50w/Untitled 1.md",
     "courses/Untitled.md",
-    "courses/cs50x",
-    "courses/cs50w",
     "DS/TO  DO LIST DS.md",
     "sql/To Do List sql.md",
     "java/To do list java.md",
     "java/2024-10-01.md",
-    "java/java.md",
-    "Adv DBMS.md",
     "sql/pasted_Image/WhatsApp Image 2024-10-04 at 11.22.18 PM.jpeg",
     "java/pasted_images/Pasted image 20241001123127.png",
     "Pasted image 20241001123102.png",
@@ -199,7 +212,6 @@
     "DS/Pasted_image/Pasted image 20240928122743.png",
     "DS/Pasted_image/Pasted image 20240928122713.png",
     "DS/Pasted_image/Pasted image 20240928122632.png",
-    "DS/Pasted_image/Pasted image 20240928044235.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "os/Untitled 2.canvas",
