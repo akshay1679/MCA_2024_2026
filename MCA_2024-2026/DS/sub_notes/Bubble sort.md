@@ -110,7 +110,7 @@ break;
 
 ---
 
-```c
+```run-c
 #include <stdio.h>
 
 // Function to perform Bubble Sort

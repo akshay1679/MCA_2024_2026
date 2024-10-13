@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "a7637addfbc265f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "caaf1488f94b1324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8db3dec7595380e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCA_2024-2026/DS/sub_notes/Bubble sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06a41f721a485662",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2db0d9f6a556e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22cb213078b520f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16624908be184980",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "133040de0623604e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7afa5ab8a0baa9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ca0f4145647ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33fffcad83a145e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MCA_2024-2026/DS/sub_notes/Bubble sort.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1544fcf012f01894",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MCA_2024-2026/DS/sub_notes/Bubble sort.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3435af2ee3e8649c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8673282661a59c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MCA_2024-2026/DS/sub_notes/Bubble sort.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8db3dec7595380e8",
+  "lastOpenFiles": [
+    "MCA_2024-2026/DS/Notes.md",
+    "MCA_2024-2026/To Do list DM.sync-conflict-20241011-092734-S6KXOI7.md",
+    "MCA_2024-2026/Untitled 1.md"
+  ]
+}
