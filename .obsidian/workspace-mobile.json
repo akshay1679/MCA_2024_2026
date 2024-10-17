@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA_2024-2026/Machine learning.md",
-                "mode": "source",
+                "file": "MCA_2024-2026/DM/ml/Machine learning.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MCA_2024-2026/Machine learning.md",
+            "file": "MCA_2024-2026/DM/ml/Machine learning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "MCA_2024-2026/Machine learning.md",
+            "file": "MCA_2024-2026/DM/ml/Machine learning.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "MCA_2024-2026/Machine learning.md"
+            "file": "MCA_2024-2026/DM/ml/Machine learning.md"
           }
         }
       }
@@ -138,6 +138,19 @@
   },
   "active": "c28e93ef2307cd6c",
   "lastOpenFiles": [
+    "MCA_2024-2026/DS/Graph Data Structure.md",
+    "MCA_2024-2026/DM/ml/Machine learning.md",
+    "Graph Data Structure.md",
+    "MCA_2024-2026/DS/Pasted_image/graph-data-structure.webp",
+    "MCA_2024-2026/DS/Pasted_image/complete1 (2).png",
+    "MCA_2024-2026/DS/Pasted_image/pseudo-2.png",
+    "MCA_2024-2026/DS/Pasted_image/complete2-1.png",
+    "MCA_2024-2026/DS/Pasted_image/null-2.png",
+    "MCA_2024-2026/DS/Pasted_image/graph-23.png",
+    "MCA_2024-2026/DS/Pasted_image/simple1.png",
+    "MCA_2024-2026/DS/Pasted_image/simple2-1 1.png",
+    "MCA_2024-2026/DS/extra notes/trivial-.png",
+    "MCA_2024-2026/DS/Pasted_image/simplegraph.png",
     "README.md",
     "MCA_2024-2026/Untitled 1.md",
     "Untitled",

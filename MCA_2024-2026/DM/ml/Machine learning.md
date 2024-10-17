@@ -62,7 +62,7 @@ Key Concepts in Supervised Learning:
 
 ### Types of Supervised Learning Problems:
 
-1. Classification:
+1. **Classification**:
 
 The task of predicting a discrete label or category.
 **Example**: Identifying if an email is "spam" or "not spam."
@@ -70,7 +70,7 @@ The task of predicting a discrete label or category.
 
 
 
-2. Regression:
+2. **Regression**:
 
 The task of predicting a continuous value.
 **Example**: Predicting house prices based on features like size, location, and age.
@@ -81,15 +81,15 @@ The task of predicting a continuous value.
 
 ### Common Algorithms Used in Supervised Learning:
 
-1. Linear Regression:
+1. **Linear Regression**:
 
 Used for regression tasks where the relationship between the input and output is linear.
 
-2. Logistic Regression:
+2. **Logistic Regression:**
 
 A classification algorithm that uses a logistic function to model the probability of a binary outcome.
 
-3. Support Vector Machines (SVM):
+3. **Support Vector Machines (SVM**):
 
 Works well for both classification and regression tasks by finding the hyperplane that best separates the data into classes.
 

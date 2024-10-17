@@ -4,35 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "caaf1488f94b1324",
+        "id": "f9787089ebe174b0",
         "type": "tabs",
         "children": [
           {
-            "id": "8db3dec7595380e8",
+            "id": "788b0c8927cf1e01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA_2024-2026/os/CORE.md",
+                "file": "Python Data Structures and Algorithms.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Python Data Structures and Algorithms"
             }
           },
           {
-            "id": "eb8b28df2716db41",
+            "id": "e189a38c0a6f31f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCA_2024-2026/DM/ml/Machine learning.md",
+                "file": "MCA_2024-2026/sql/Parallel Database.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Parallel Database"
+            }
+          },
+          {
+            "id": "bfd3567ab9642af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCA_2024-2026/sql/Distributed Database.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distributed Database"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +86,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCA_2024-2026/DM/ml/Machine learning.md",
+                "file": "Python Data Structures and Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +129,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python Data Structures and Algorithms"
             }
           },
           {
@@ -115,10 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCA_2024-2026/DM/ml/Machine learning.md",
+                "file": "Python Data Structures and Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python Data Structures and Algorithms"
             }
           },
           {
@@ -129,7 +156,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCA_2024-2026/DM/ml/Machine learning.md"
-              }
+                "file": "Python Data Structures and Algorithms.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python Data Structures and Algorithms"
             }
           }
         ]
@@ -164,39 +195,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb8b28df2716db41",
+  "active": "22cb213078b520f9",
   "lastOpenFiles": [
+    "Untitled",
     "2024-10-15.md",
+    "Python Data Structures and Algorithms.md",
     "MCA_2024-2026/DS/lab/Lab sheet 22-Aug-2024.md",
-    "MCA_2024-2026/DS/Notes.sync-conflict-20241003-214419-U5HNCMN.md",
-    "MCA_2024-2026/DS/WhatsApp Image 2024-08-24 at 6.15.12 PM.jpeg",
+    "MCA_2024-2026/courses/Infosys_Springboard",
+    "MCA_2024-2026/sql/NOTES.md",
+    "MCA_2024-2026/sql/Parallel Database.md",
+    "MCA_2024-2026/sql/CORE.md",
+    "MCA_2024-2026/sql/Distributed Database.md",
+    "MCA_2024-2026/sql/To Do List sql 1.md",
+    "MCA_2024-2026/sql/To Do List sql.md",
+    "MCA_2024-2026/sql/commands.md",
+    "MCA_2024-2026/sql/Adv DBMS-Unit 5.pdf",
+    "MCA_2024-2026/DS/Graph Data Structure.md",
+    "README.md",
+    "MCA_2024-2026/Memory spooling.md",
+    "MCA_2024-2026/To Do list DM.md",
+    "MCA_2024-2026/Pasted image 20241011092607.png",
+    "MCA_2024-2026/Pasted image 20241008231518.png",
+    "MCA_2024-2026/DS/Pasted_image/graph-data-structure.webp",
     "Lab sheet 22-Aug-2024.pdf",
+    "MCA_2024-2026/DS/Pasted_image/complete1 (2).png",
+    "simple2-1.png",
+    "complete1.png",
+    "MCA_2024-2026/DS/Pasted_image/complete2-1.png",
+    "MCA_2024-2026/DS/Pasted_image/graph-23.png",
+    "MCA_2024-2026/DS/extra notes/trivial-.png",
+    "MCA_2024-2026/DS/Pasted_image/simplegraph.png",
+    "MCA_2024-2026/os/CORE.md",
+    "MCA_2024-2026/DS/CORE.md",
+    "MCA_2024-2026/DS/Notes.md",
+    "MCA_2024-2026/DS/sub_notes/Double Linked List.md",
+    "MCA_2024-2026/DS/Notes.sync-conflict-20241003-214419-U5HNCMN.md",
+    "MCA_2024-2026/DS/2024-09-06.md",
+    "MCA_2024-2026/DS/2024-09-05.md",
+    "MCA_2024-2026/DM/ml/Machine learning.md",
     "MCA_2024-2026/DS/Untitled 2.md",
     "MCA_2024-2026/DS/TO  DO LIST DS.md",
-    "MCA_2024-2026/DS/Notes.md",
-    "MCA_2024-2026/DS/2024-09-05.md",
     "MCA_2024-2026/DS/Data structures using C, Leena Miss Notes till today 24-08-24.pdf",
-    "MCA_2024-2026/DM/ml/pasted images/images.png",
     "MCA_2024-2026/Untitled.md",
     "MCA_2024-2026/DM/ml/pasted images",
     "MCA_2024-2026/DM/ml",
-    "MCA_2024-2026/DM/ml/pasted images/Unsupervised-Learning-1024x726.jpg",
-    "MCA_2024-2026/DM/ml/pasted images/2022_11_MicrosoftTeams-image-5.jpg",
-    "MCA_2024-2026/To Do list DM.md",
     "MCA_2024-2026/Untitled.canvas",
-    "MCA_2024-2026/To Do list DM.sync-conflict-20241011-092734-S6KXOI7.md",
-    "MCA_2024-2026/Pasted image 20241011092607.png",
-    "MCA_2024-2026/Pasted image 20241008231518.png",
-    "MCA_2024-2026/DM/2024-09-17.md",
-    "MCA_2024-2026/DM/module2/MODULE II.md",
-    "MCA_2024-2026/DM/ml/Machine learning.md",
-    "MCA_2024-2026/courses/reactjs/core.md",
     "MCA_2024-2026/DS/lab",
     "MCA_2024-2026/courses/reactjs/subnote",
-    "MCA_2024-2026/os/CORE.md",
-    "MCA_2024-2026/courses/reactjs",
-    "MCA_2024-2026/os/introduction/OS intro.md",
-    "MCA_2024-2026/sql/CORE.md",
-    "MCA_2024-2026/DS/sub_notes/Bubble sort.md"
+    "MCA_2024-2026/courses/reactjs"
   ]
 }
