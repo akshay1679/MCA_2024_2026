@@ -29,7 +29,7 @@ System.out.println(a);
 Boolean one = false
 ```
 
-4. ==if== usage
+4. ==if == usage
 ```run-java
  public class Student {    
  public static void main(String[] args) {    
@@ -479,6 +479,8 @@ System.out.println(i);  //printing the variable i
 }    
 
 ```
+
+
 2) Java Multi Line Comment
 
 ```run-java
