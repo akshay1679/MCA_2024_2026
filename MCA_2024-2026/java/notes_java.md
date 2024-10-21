@@ -168,6 +168,17 @@ A primitive data type specifies the size and type of variable values, and it has
 ![[Pasted image 20241001123127.png]]
 
 
+| **Data Type** | **Default Value** | **Default size** |
+| ------------- | ----------------- | ---------------- |
+| boolean       | false             | 1 bit            |
+| char          | '\u0000'          | 2 byte           |
+| byte          | 0                 | 1 byte           |
+| short         | 0                 | 2 byte           |
+| int           | 0                 | 4 byte           |
+| long          | 0L                | 8 byte           |
+| float         | 0.0f              | 4 byte           |
+| double        | 0.0d              | 8 byte           |
+
 Primitive number types are divided into two groups:
 
 **Integer types** stores whole numbers, positive or negative (such as 123 or -456), without decimals. Valid types are `byte`, `short`, `int` and `long`. Which type you should use, depends on the numeric value.
