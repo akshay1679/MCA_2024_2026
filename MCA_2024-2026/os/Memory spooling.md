@@ -6,4 +6,3 @@ For example:
 
 In essence, memory spooling helps coordinate and manage jobs that need to wait for slower resources or devices to become available, improving overall system efficiency.
 
-4o
