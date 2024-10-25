@@ -72,4 +72,15 @@
 - [ ] JAVA PACKAGE
 	- [ ] ACCESS MODIFIERS IN JAVA
 	- [ ] FINAL KEYWORD IN JAVA
-	- [ ] 
+
+
+
+----
+
+
+# important check list
+
+- [ ] usage of float
+- [ ] type casting 
+- [ ] Parse int from chatgpt
+- [ ] 

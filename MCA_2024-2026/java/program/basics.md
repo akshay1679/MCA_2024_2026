@@ -29,7 +29,7 @@ System.out.println(a);
 Boolean one = false
 ```
 
-4. ==if== usage
+4. ==if == usage
 ```run-java
  public class Student {    
  public static void main(String[] args) {    
@@ -479,6 +479,8 @@ System.out.println(i);  //printing the variable i
 }    
 
 ```
+
+
 2) Java Multi Line Comment
 
 ```run-java
@@ -495,4 +497,103 @@ public static void main(String[] args) {
 }    
 ```
 
+# topic 2
+
+1. Example of different types:
+
+```run-java
+public class Students {
+
+int id = 2024;
+
+String name = "akshays";
+
+public void display()
+
+{
+
+System.out.println("name :-" + " " +name +" " + "id :-" + " " +id);
+
+}
+
+public static void main(String[] args) {
+
+Students student = new Students();
+
+student.display();
+
+  
+
+}
+
+}
+```
+
+2. Example of primitive data types:
+
+```run-java
+public class DataTypesDemo {
+    public static void main(String[] args) {
+        int age = 30;
+        float price = 99.99f;
+        char grade = 'A';
+        boolean isJavaFun = true;
+
+        System.out.println("Age: " + age);
+        System.out.println("Price: " + price);
+        System.out.println("Grade: " + grade);
+        System.out.println("Is Java fun? " + isJavaFun);
+    }
+}
+
+```
+
+
+
+``float price = 99.99f;``
+
+
+3.Reference Data Types(array)
+
+```run-java
+public class ReferenceExample {
+
+public static void main(String[] args) {
+
+String name = "john";
+
+int id = 20;
+
+int m[] = {20,21,22,25};
+
+System.out.println(name);
+
+System.out.println(id);
+
+System.out.println(m[0]);
+
+}
+
+}
+```
+
+
+
+4. Type Casting and Type Conversion
+
+-  Implicit Type Casting (Widening)**
+
+```run-java
+int a = 50;
+double b = a;  // Implicit casting from int to double
+System.out.println(b);  // Output: 50.0
+```
+
+- Explicit Type Casting (Narrowing)
+
+```run-java
+double x = 9.99;
+int y = (int) x;  // Explicit casting from double to int
+System.out.println(y);  // Output: 9
+```
 

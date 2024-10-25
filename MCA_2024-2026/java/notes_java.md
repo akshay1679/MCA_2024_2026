@@ -428,3 +428,23 @@ System.out.println(cars.length);
 ```
 
 
+### **Common Errors in Basic Programs**
+
+- **Class name and filename mismatch:**
+    
+    text
+    
+    Copy code
+    
+    `Error: Main method not found in class HelloWorld.`
+    
+    - Ensure the filename matches the class name.
+- **Missing semicolon:**
+    
+    java
+    
+    Copy code
+    
+    `System.out.println("Hello, World!")`
+    
+    - This will cause a compilation error. Always end statements with a semicolon.
