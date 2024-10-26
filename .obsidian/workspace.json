@@ -6,6 +6,7 @@
       {
         "id": "715601b2d361ab56",
         "type": "tabs",
+        "dimension": 64.34426229508196,
         "children": [
           {
             "id": "6a0763fb08848c3c",
@@ -26,6 +27,7 @@
       {
         "id": "e7d0119b075c7c50",
         "type": "tabs",
+        "dimension": 35.65573770491803,
         "children": [
           {
             "id": "c77863c56443cffb",
@@ -189,10 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c77863c56443cffb",
+  "active": "6a0763fb08848c3c",
   "lastOpenFiles": [
-    "MCA_2024-2026/java/program/basics.md",
     "MCA_2024-2026/java/To do list java.md",
+    "MCA_2024-2026/java/program/basics.md",
     "MCA_2024-2026/java/core.md",
     "cs50_sql/Querying.md",
     "MCA_2024-2026/java/notes_java.md",

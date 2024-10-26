@@ -579,7 +579,7 @@ System.out.println(m[0]);
 
 
 
-4. Type Casting and Type Conversion
+4. ==Type Casting and Type Conversion==
 
 -  Implicit Type Casting (Widening)**
 
@@ -596,4 +596,114 @@ double x = 9.99;
 int y = (int) x;  // Explicit casting from double to int
 System.out.println(y);  // Output: 9
 ```
+
+## **2.4 Constants using `final` Keyword**run-java
+
+```run-java
+public class ConstantsDemo {
+public static void main(String[] args) {
+final float pi = 3.14f;
+System.out.println(pi);
+}
+}
+```
+
+
+## **2.5 Default Values of Variables**
+
+When you declare a variable inside a class but don't assign a value, it gets a **default value**:
+
+| **Data Type** | **Default Value** |
+| ------------- | ----------------- |
+| int           | 0                 |
+| float         | 0.0f              |
+| boolean       | false             |
+| char          | '\u0000'          |
+| Object        | `null`            |
+
+
+### **What is `parseInt` in Java?**
+
+In Java, **`Integer.parseInt(String s)`** is a **method** used to convert a **String** into an **integer (int)** value. If the string contains numeric characters, `parseInt` converts it to the corresponding integer.
+
+
+``int num = Integer.parseInt(String s);``
+
+```run-java
+public class ParseIntExample {
+public static void main(String[] args) {
+String str = "123";
+int num = Integer.parseInt(str);
+System.out.println(num);
+System.out.println("The number is: " + num); 
+System.out.println("After adding 10: " + (num + 10));
+}
+}
+```
+
+
+``int num = Integer.parseInt(str);``
+
+### **Using `parseInt()` with Command-Line Arguments**
+
+```run-java
+public class AddArguments {
+    public static void main(String[] args) {
+        if (args.length < 2) {
+            System.out.println("Please provide two numbers as arguments.");
+            return;
+        }
+
+        // Convert string inputs to integers
+        int num1 = Integer.parseInt(args[0]);
+        int num2 = Integer.parseInt(args[1]);
+
+        int sum = num1 + num2;
+        System.out.println("The sum is: " + sum);
+    }
+}
+
+```
+
+```java
+javac AddArguments.java
+java AddArguments.java 10 20
+```
+
+```java
+//out put
+sum is 30
+```
+
+``if (args.length < 2) ``
+
+### **Handling Errors with `parseInt()`**
+
+```run-java
+public class InvalidParseInt {
+    public static void main(String[] args) {
+        try {
+            String invalidStr = "abc";  // Non-numeric string
+            int num = Integer.parseInt(invalidStr);  // Will throw an exception
+        } catch (NumberFormatException e) {
+            System.out.println("Invalid input! Please provide a numeric string.");
+        }
+    }
+}
+```
+
+# **Topic 3: Operators in Java**
+
+
+
+
+|**Category**|**Operators**|**Description**|
+|---|---|---|
+|**Arithmetic Operators**|`+`, `-`, `*`, `/`, `%`|Perform mathematical operations|
+|**Relational (Comparison) Operators**|`==`, `!=`, `>`, `<`, `>=`, `<=`|Compare two values|
+|**Logical Operators**|`&&`, `||
+|**Assignment Operators**|`=`, `+=`, `-=`, `*=`, `/=`, `%=`|Assign values to variables|
+|**Unary Operators**|`+`, `-`, `++`, `--`, `!`|Operate on a single operand|
+|**Bitwise Operators**|`&`, `|`,` ^`,` ~`,` <<`,` >>`,` >>>`|
+|**Ternary Operator**|`? :`|A shorthand for `if-else`|
 
