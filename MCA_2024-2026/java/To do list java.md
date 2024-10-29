@@ -146,4 +146,5 @@
 - [ ] usage of float
 - [ ] type casting 
 - [ ] Parse int from chatgpt
+- [ ] boolean usage
 - [ ] 

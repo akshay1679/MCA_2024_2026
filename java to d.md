@@ -2,32 +2,32 @@
 ### **1. Basics of Java Programming**
 
 - [x] Installing JDK and setting up IDE (e.g., IntelliJ IDEA, Eclipse, or VSCode)
-- [ ] Structure of a Java program (main method, classes)
-- [ ] Syntax, keywords, and data types
+- [x] Structure of a Java program (main method, classes)
+- [x] Syntax, keywords, and data types
 
 ### **2. Variables and Data Types**
 
-- [ ] Primitive types: `int`, `float`, `double`, `char`, `boolean`, etc.
-- [ ] Reference types: Strings, Objects
-- [ ] Type casting and type conversion
+- [x] Primitive types: `int`, `float`, `double`, `char`, `boolean`, etc.
+- [x] Reference types: Strings, Objects
+- [x] Type casting and type conversion
 
 ### **3. Operators and Control Statements**
 
-- [ ] Arithmetic, relational, logical, and bitwise operators
-- [ ] Conditional statements: `if-else`, `switch-case`
-- [ ] Loops: `for`, `while`, `do-while`
-- [ ] Break, continue, and return statements
+- [x] Arithmetic, relational, logical, and bitwise operators
+- [x] Conditional statements: `if-else`, `switch-case`
+- [x] Loops: `for`, `while`, `do-while`
+- [x] Break, continue, and return statements
 
 ### **4. Arrays and Strings**
 
-- [ ] One-dimensional and multi-dimensional arrays
-- [ ] Common string operations using `String` class
-- [ ] StringBuilder and StringBuffer
+- [x] One-dimensional and multi-dimensional arrays
+- [x] Common string operations using `String` class
+- [x] StringBuilder and StringBuffer
 
 ### **5. Object-Oriented Programming (OOP) Concepts**
 
-- [ ] Classes and Objects
-- [ ] Constructors (default and parameterized)
+- [x] Classes and Objects
+- [x] Constructors (default and parameterized)
 - [ ] Encapsulation, inheritance, polymorphism, and abstraction
 - [ ] `this` and `super` keywords
 

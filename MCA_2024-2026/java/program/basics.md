@@ -696,6 +696,7 @@ public class InvalidParseInt {
 
 
 
+## **3.1 Types of Operators in Java**
 
 |**Category**|**Operators**|**Description**|
 |---|---|---|
@@ -706,4 +707,899 @@ public class InvalidParseInt {
 |**Unary Operators**|`+`, `-`, `++`, `--`, `!`|Operate on a single operand|
 |**Bitwise Operators**|`&`, `|`,` ^`,` ~`,` <<`,` >>`,` >>>`|
 |**Ternary Operator**|`? :`|A shorthand for `if-else`|
+
+## **Arithmetic Operators**
+
+
+1. These operators are used to perform **basic math operations** like addition, subtraction, multiplication, division, and modulo (remainder).
+
+```run-java
+public class ArithmeticOperators {
+public static void main(String args[])
+{
+int a=10,b=20;
+System.out.println("addition :- " + (a+b));
+System.out.println("Subtraction :- " + (a-b));
+System.out.println("multiplication :- " + (a*b));
+System.out.println("divition :- " + (a/b));
+System.out.println("mod :- " + (a%b));
+}
+}
+
+```
+
+## ** Relational (Comparison) Operators**
+
+```run-java
+public class RelationalOperators 
+
+{
+
+public static void main(String args[])
+
+{
+
+int a= 4,b = 6;
+System.out.println("if a == b "+(a==b));
+System.out.println("if a != b "+(a!=b));
+System.out.println("if a > b "+(a>b));
+System.out.println("if a < b "+(a<b));
+System.out.println("if a >= b "+(a>=b));
+System.out.println("if a <= b "+(a<=b));
+  
+}
+}
+```
+
+
+## **3.4 Logical Operators**
+
+|**Operator**|**Description**|**Example**|
+|---|---|---|
+|`&&`|Logical AND (both must be true)|`a > 0 && b < 10`|
+|`||`|
+|`!`|Logical NOT (inverts value)|`!(a > b)`|
+==this program wont work its because he input to the and operator is int it should be an expression or a bool==
+
+
+```run-java
+public class LogicalOperators {
+
+public static void main(String[] args) {
+
+int a = 10,b = 20;
+
+System.out.println("a&&b" + ( a && b ));
+
+}
+
+}
+```
+
+
+
+**explanation**
+
+Your code will not compile because logical operators like `&&` (logical AND) work with **boolean** expressions, not integers. Let's walk through how you can fix it.
+### Issue:
+
+- **`&&`** expects both operands to be boolean values (like `true` or `false`), but here you are passing integers (`a` and `b`).
+- Java won't implicitly convert integers to boolean.
+
+
+```run-java
+public class LogicalOperators {
+    public static void main(String[] args) {
+        int a = 10, b = 20;
+        
+        // Checking if both 'a' and 'b' are non-zero (true)
+        System.out.println("a > 0 && b > 0: " + (a > 0 && b > 0));
+    }
+}
+```
+
+```run-java
+public class LogicalOperators 
+{
+public static void main(String[] args) {
+int a = 10, b = 20;
+System.out.println("a != 0 && b != 0: " + (a != 0 && b != 0));
+}
+}
+```
+
+```run-java
+class LogicalOperators{
+public static void main(String args[])
+{
+int a = 10, b = 20;
+System.out.println("chek if a and b is greater than 0 "+(a > 0 && b > 0));
+}
+}
+```
+
+==usage of boolean==
+
+```run-java
+public class LogicalOperators {
+    public static void main(String[] args) {
+        boolean a = true, b = false;
+
+        System.out.println("a && b: " + (a && b));  // false
+        System.out.println("a || b: " + (a || b));  // true
+        System.out.println("!a: " + !a);            // false
+    }
+}
+
+```
+
+
+## **3.7 Ternary Operator**
+
+The ternary operator is a shorthand for **`if-else`** statements.
+
+`result = (condition) ? value1 : value2;`
+
+
+```run-java
+public class TernaryOperator {
+
+public static void main(String[] args) {
+
+int a = 10, b = 20;
+
+String result = (a > b)? "a is greater" : "b is greater";
+
+System.out.println(result);
+
+}
+
+  
+
+}
+```
+
+
+# **Topic 4: Control Flow Statements in Java**
+
+## **4.1 Types of Control Flow Statements**
+
+|**Category**|**Control Flow Statements**|**Description**|
+|---|---|---|
+|**Decision-making**|`if`, `if-else`, `if-else-if`, `switch`|Execute a block of code based on a condition|
+|**Looping**|`for`, `while`, `do-while`|Repeat a block of code multiple times|
+|**Branching**|`break`, `continue`, `return`|Control the flow within loops and methods|
+
+### **`if-else-if` Ladder**
+
+
+```run-java
+public class IfElseIfExample {
+    public static void main(String[] args) {
+        int marks = 85;
+
+        if (marks >= 90) {
+            System.out.println("Grade: A+");
+        } else if (marks >= 80) {
+            System.out.println("Grade: A");
+        } else if (marks >= 70) {
+            System.out.println("Grade: B");
+        } else {
+            System.out.println("Grade: C");
+        }
+    }
+}
+
+```
+
+### ** `switch` Statement**
+
+
+```run-java
+public class SwitchExample {
+public static void main(String[] args) {
+int day = 3;
+switch (day){
+case 1:
+System.out.println("monday");
+break;
+case 2:
+System.out.println("tuesday");
+break;
+case 3:
+System.out.println("wednesday");
+break;
+default:
+System.out.println("sorry wrong input");
+}
+  
+}
+}
+```
+
+
+
+## **4.3 Looping Statements**
+
+
+### **4.3.2 `while` Loop**
+
+```run-java
+public class WhileLoopExample {
+public static void main(String args[])
+{
+int m = 0;
+while (m < 10)
+{
+System.out.println("Value of m: " + m);
+m++;
+}
+}
+}
+
+```
+
+### **4.3.3 `do-while` Loop**
+
+```run-java
+public class DoWhileExample {
+    public static void main(String[] args) {
+        int i = 1;
+
+        do {
+            System.out.println("Count: " + i);
+            i++;
+        } while (i <= 5);
+    }
+}
+```
+
+## **4.4 Branching Statements**
+
+### **4.4.1 `break` Statement**
+
+```run-java
+public class BreakExample {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 5; i++) {
+            if (i == 3) {
+                break;  // Exit the loop when i is 3
+            }
+            System.out.println("Count: " + i);
+        }
+    }
+}
+
+```
+
+
+### **4.4.2 `continue` Statement**
+
+
+```java
+public class ContinueExample {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 5; i++) {
+            if (i == 3) {
+                continue;  // Skip when i is 3
+            }
+            System.out.println("Count: " + i);
+        }
+    }
+}
+
+```
+
+
+### **4.4.3 `return` Statement**
+
+```run-java
+public class ReturnExample {
+    public static void main(String[] args) {
+        System.out.println("Sum: " + add(5, 10));
+    }
+
+    public static int add(int a, int b) {
+        return a + b;  // Return the sum
+    }
+}
+
+```
+
+# **Topic 5: Classes and Objects in Java**
+
+## **5.1 What is a Class?**
+
+A **class** defines:
+
+- **Attributes** (fields/variables) that represent the state of the object.
+- **Methods** (functions) that define the behavior of the object.
+
+```java
+class ClassName {
+    // Attributes (fields)
+    DataType variableName;
+
+    // Methods (functions)
+    ReturnType methodName() {
+        // Code for the method
+    }
+}
+
+```
+
+```run-java
+class Car {
+    // Attributes (fields)
+    String brand;
+    int year;
+
+    // Method
+    void displayInfo() {
+        System.out.println("Brand: " + brand + ", Year: " + year);
+    }
+}
+
+```
+## **5.3 Constructors**
+
+A **constructor** is a special method used to **initialize objects**. It is called automatically when an object is created.
+
+- A constructor has the **same name as the class** and no return type.
+- You can have **multiple constructors** (constructor overloading) to initialize objects in different ways.
+
+### **Example: Constructor in Java**
+
+
+```run-java
+class Car {
+    String brand;
+    int year;
+
+    // Constructor
+    Car(String b, int y) {
+        brand = b;
+        year = y;
+    }
+
+    void displayInfo() {
+        System.out.println("Brand: " + brand + ", Year: " + year);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        // Creating objects using the constructor
+        Car myCar = new Car("Tesla", 2023);
+        myCar.displayInfo();  // Output: Brand: Tesla, Year: 2023
+    }
+}
+
+
+```
+
+
+my code
+
+
+```run-java
+class Car{
+
+String model;
+
+int year;
+
+String color;
+
+  
+
+Car(String a,int b,String c)
+
+{
+
+model = a;
+
+year = b;
+
+color = c;
+
+}
+
+  
+
+void displayInfo(){
+
+System.out.println("Model: "+model);
+
+System.out.println("Year: "+year);
+
+System.out.println("Color: "+color);
+
+}
+
+}
+
+  
+
+/**
+
+* Main
+
+*/
+
+public class Main {
+
+  
+
+public static void main(String[] args) {
+
+Car car1 = new Car("bmw",2024,"red");
+
+car1.displayInfo();
+
+}
+
+}
+```
+
+## **5.4 Methods in Java**
+
+A **method** is a block of code that performs a specific task. Methods are used to **reorganize code into reusable blocks**.
+
+### **Syntax of a Method:**
+
+```run-java
+ReturnType methodName(Parameters) {
+    // Method body
+    return value;  // (Optional: If the method has a return type)
+}
+
+```
+
+```run-java
+class Calculator {
+    // Method to add two numbers
+    int add(int a, int b) {
+        return a + b;
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Calculator calc = new Calculator();
+        int result = calc.add(5, 3);
+        System.out.println("Sum: " + result);  // Output: Sum: 8
+    }
+}
+
+```
+
+```run-java
+class Calculator{
+
+int add(int a,int b)
+
+{
+
+return a+b;
+
+}
+
+}
+
+  
+
+public class Main
+
+{
+
+public static void main(String[] args)
+
+{
+
+Calculator c = new Calculator();
+
+int result = c.add(10,12);
+
+System.out.println("Result is : "+result);
+
+}
+
+}
+```
+
+## **5.5 Access Modifiers**
+
+Java provides **access modifiers** to control access to the fields and methods of a class. They determine **how visible a member is** to other classes.
+
+| **Modifier** | **Description**                                      |
+| ------------ | ---------------------------------------------------- |
+| `public`     | Accessible from **anywhere**                         |
+| `private`    | Accessible **only within the same class**            |
+| `protected`  | Accessible within **the same package** or subclasses |
+| (default)    | Accessible **within the same package**               |
+
+### **Example: Using Access Modifiers:**
+
+```run-java
+class Car {
+    private String brand;  // Private field
+
+    // Public setter method
+    public void setBrand(String b) {
+        brand = b;
+    }
+
+    // Public getter method
+    public String getBrand() {
+        return brand;
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Car myCar = new Car();
+        myCar.setBrand("Tesla");
+        System.out.println("Car brand: " + myCar.getBrand());  // Output: Car brand: Tesla
+    }
+}
+
+```
+
+## **5.6 `this` Keyword**
+
+The `this` keyword refers to the **current object** of the class. It is used to:
+
+- **Differentiate between class attributes and parameters** when they have the same name.
+- **Invoke another constructor** from within a constructor.
+
+### **Example: Using `this` Keyword**
+
+```run-java
+class Car {
+    String brand;
+    int year;
+
+    // Constructor with 'this' keyword
+    Car(String brand, int year) {
+        this.brand = brand;
+        this.year = year;
+    }
+
+    void displayInfo() {
+        System.out.println("Brand: " + brand + ", Year: " + year);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Car myCar = new Car("Tesla", 2023);
+        myCar.displayInfo();  // Output: Brand: Tesla, Year: 2023
+    }
+}
+
+```
+
+```run-java
+class Car{
+
+String brand;
+
+String model;
+
+int year;
+
+  
+
+Car(String brand, String model, int year){
+
+this.brand = brand;
+
+this.year = year;
+
+this.model = model;
+
+  
+
+}
+
+}
+
+  
+
+class Main{
+
+public static void main(String[] args) {
+
+Car car1 = new Car("bmw","series 5",2020);
+
+System.out.println(car1.brand);
+
+System.out.println(car1.model);
+
+System.out.println(car1.year);
+
+}
+
+  
+
+}
+```
+
+## **5.7 Static Members**
+
+- **Static fields** and **methods** belong to the **class, not to objects**.
+- They can be accessed **without creating an object** of the class.
+
+### **Example: Static Method and Variable**
+
+```run-java
+class MathUtils {
+    static int square(int x) {
+        return x * x;
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Square of 4: " + MathUtils.square(4));  // Output: Square of 4: 16
+    }
+}
+
+```
+
+## **5.8 Example Program: Class with Constructor and Methods**
+
+```run-java
+class Student {
+    String name;
+    int rollNumber;
+
+    // Constructor
+    Student(String name, int rollNumber) {
+        this.name = name;
+        this.rollNumber = rollNumber;
+    }
+
+    // Method to display student info
+    void displayInfo() {
+        System.out.println("Name: " + name + ", Roll Number: " + rollNumber);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        // Create student objects
+        Student student1 = new Student("Alice", 101);
+        Student student2 = new Student("Bob", 102);
+
+        // Display student info
+        student1.displayInfo();  // Output: Name: Alice, Roll Number: 101
+        student2.displayInfo();  // Output: Name: Bob, Roll Number: 102
+    }
+}
+
+```
+
+```run-java
+class Student{
+
+String name;
+
+int age;
+
+String grade;
+
+  
+
+Student(String name, int age, String grade){
+
+this.name = name;
+
+this.grade = grade;
+
+this.age = age;
+
+}
+
+void display(){
+
+System.out.println("Name: " + name);
+
+System.out.println("Age: " + age);
+
+System.out.println("Grade: " + grade);
+
+  
+
+}
+
+}
+
+  
+  
+
+public class Main{
+
+public static void main(String[] args){
+
+Student stu = new Student("akshay",24,"b+");
+
+stu.display();
+
+}
+
+}
+```
+
+
+# **Topic 6: Inheritance in Java**
+
+- **Inheritance** allows a new class (subclass) to **reuse fields and methods** from an existing class (superclass).
+- A subclass can **add new fields and methods** or **override existing ones**.
+
+## **6.2 Types of Inheritance in Java**
+
+Java supports **four types** of inheritrance:
+
+1. **Single Inheritance:** One subclass inherits from one superclass.
+2. **Multilevel Inheritance:** A class inherits from a class, which in turn inherits from another class.
+3. **Hierarchical Inheritance:** Multiple subclasses inherit from a single superclass.
+4. **Hybrid Inheritance:** A combination of multiple inheritance types (but Java doesn’t directly support multiple inheritance with classes—only with interfaces).
+
+### **6.3 Example: Single Inheritance**
+
+
+
+![[1711532114phpfEGhVM.jpeg]]
+
+
+```run-java
+class Animal {
+    void eat() {
+        System.out.println("This animal eats food.");
+    }
+}
+
+class Dog extends Animal {
+    void bark() {
+        System.out.println("The dog barks.");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Dog myDog = new Dog();
+        myDog.eat();  // Inherited method from Animal
+        myDog.bark(); // Method from Dog class
+    }
+}
+
+```
+
+```run-java
+class Animal
+
+{
+
+void eat(){
+
+System.out.println("this animal needs to eat");
+
+}
+
+  
+  
+
+}
+
+  
+
+class Dog extends Animal{
+
+void bark()
+
+{
+
+System.out.println("the dog barks");
+
+}
+
+}
+
+  
+
+public class Main{
+
+public static void main(String[] args) {
+
+Dog dog = new Dog() ;
+
+dog.eat();
+
+dog.bark();
+
+}
+
+  
+
+}
+```
+
+
+
+
+### **6.4 Multilevel Inheritance
+
+![[Multilevel-Inheritance-in-Java-1.jpg.webp]]**
+
+```run-java
+class Animal {
+    void eat() {
+        System.out.println("Animals eat food.");
+    }
+}
+
+class Mammal extends Animal {
+    void walk() {
+        System.out.println("Mammals walk.");
+    }
+}
+
+class Dog extends Mammal {
+    void bark() {
+        System.out.println("Dogs bark.");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Dog myDog = new Dog();
+        myDog.eat();   // Inherited from Animal
+        myDog.walk();  // Inherited from Mammal
+        myDog.bark();  // Method from Dog
+    }
+}
+
+```
+
+
+
+### **6.5 Hierarchical Inheritance**
+
+
+```run-java
+class Animal {
+    void sound() {
+        System.out.println("Animals make sound.");
+    }
+}
+
+class Dog extends Animal {
+    void bark() {
+        System.out.println("The dog barks.");
+    }
+}
+
+class Cat extends Animal {
+    void meow() {
+        System.out.println("The cat meows.");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Dog myDog = new Dog();
+        Cat myCat = new Cat();
+
+        myDog.sound();
+        myDog.bark();
+
+        myCat.sound();
+        myCat.meow();
+    }
+}
+
+```
+
 
