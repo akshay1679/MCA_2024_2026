@@ -1,5 +1,5 @@
 1. Introduction  --> [[OS intro]]   ||  Introduction (PDF)  [[Introduction.pdf]]
 2. process management --> [[OS  P. M]]  ||  process management (PDF)-->[[Process_Management.pdf]]
-3. process Scheduling --> [[P S]]  ||   process Scheduling (PDF) --> [[Process_Scheduling.pdf]]
+3. process Scheduling --> [[P S]]  ||   process Scheduling (PDF) --> [[MCA_2024-2026/os/pdf/Process_Scheduling.pdf]]
 4. Process Synchronization -->     ||Process Synchronization (PDF) -->[[Process_Synchronization.pdf]]
 5. deadlock -->   || deadlock (PDF) --> [[Deadlocks.pdf]]

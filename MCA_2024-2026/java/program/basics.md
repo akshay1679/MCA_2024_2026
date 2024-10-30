@@ -1603,3 +1603,38 @@ public class Main {
 ```
 
 
+## **6.6 Overriding Methods in Inheritance**
+
+
+**Method overriding** occurs when a subclass provides a **specific implementation of a method** already defined in the superclass.
+
+**Rules for Overriding:**
+
+- The method in the child class must have the **same name and parameters** as in the parent class.
+- The **return type** must be compatible.
+- The **access level** cannot be more restrictive than the parent class method.
+
+### **Example: Method Overriding**
+
+```java
+class Animal {
+    void sound() {
+        System.out.println("Animals make some sound.");
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    void sound() {
+        System.out.println("The dog barks.");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Animal myDog = new Dog();
+        myDog.sound();  // Calls the overridden method in Dog class
+    }
+}
+
+```

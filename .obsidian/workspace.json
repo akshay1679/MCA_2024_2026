@@ -4,56 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "0a3fca0fe4bb7682",
+        "id": "2a014c4b51980d67",
         "type": "tabs",
         "children": [
           {
-            "id": "35e3ab3481ea5647",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "SQL_NEW_Demand Paging/7.2 Demand Paging.pdf",
-                "page": 2,
-                "left": -36,
-                "top": 115,
-                "zoom": 0.42109375
-              },
-              "icon": "lucide-file-text",
-              "title": "7.2 Demand Paging"
-            }
-          },
-          {
-            "id": "8b066e7d0420a2f6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MCA_2024-2026/os/pdf/Process_Management.pdf",
-                "page": 1,
-                "left": -21,
-                "top": 814,
-                "zoom": 0.7067708333333333
-              },
-              "icon": "lucide-file-text",
-              "title": "Process_Management"
-            }
-          },
-          {
-            "id": "7c65ea0c69909225",
+            "id": "9e7cdbd41e270368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEAD LOCKS.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DEAD LOCKS"
+              "title": "README"
+            }
+          },
+          {
+            "id": "4428af9ff548dfe5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MCA_2024-2026/os/pdf/Deadlocks.pdf",
+                "page": 14,
+                "left": -99,
+                "top": 23,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Deadlocks"
+            }
+          },
+          {
+            "id": "0b5ffee76497efb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to do list OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to do list OS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a7afa5ab8a0baa9e",
@@ -183,8 +183,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -197,68 +197,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "whisper:Open recording controls": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "whisper:Open recording controls": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35e3ab3481ea5647",
+  "active": "4428af9ff548dfe5",
   "lastOpenFiles": [
-    "SQL_NEW_Demand Paging/7.4 Page Replacement.pdf",
-    "SQL_NEW_Demand Paging/7.5 FIFO Page Replacement.pdf",
-    "SQL_NEW_Demand Paging/7.6 Optimal Page Replacement.pdf",
-    "SQL_NEW_Demand Paging/7.7 LRU Page Replacement.pdf",
-    "SQL_NEW_Demand Paging/7.2 Demand Paging.pdf",
-    "c MCQs.md",
-    "SQL_NEW_Demand Paging/Memory Management.pdf",
-    "SQL_NEW_Demand Paging/Fixed Partitioned Memory Management - 2.pdf",
-    "SQL_NEW_pdf/Fixed Partitioned Memory Management - 2.pdf",
-    "SQL_NEW_Demand Paging/Paging And Segmentation.pdf",
-    "SQL_NEW_Demand Paging/Variable Partion Multi Programming - 3.pdf",
+    "dm-lab notes.md",
+    "Java doubt in Java.md",
+    "README.md",
+    "to do list OS.md",
+    "MCA_2024-2026/os/pdf/Deadlocks.pdf",
+    "data.csv",
+    "d.csv",
+    "languages basics.md",
+    "MCA_2024-2026/java/program/java to d.md",
+    "MCA_2024-2026/java/program/lab_exam/java lab exam.md",
+    "MCA_2024-2026/java/program/lab_exam",
+    "MCA_2024-2026/java/java previoues qp.md",
+    "MCA_2024-2026/java/java_oops.md",
+    "MCA_2024-2026/java/java.md",
+    "MCA_2024-2026/java/core.md",
+    "MCA_2024-2026/java/2024-10-01.md",
+    "MCA_2024-2026/java/program/basics.md",
+    "MCA_2024-2026/java/program/lab_assignment/notes 1.md",
+    "MCA_2024-2026/java/program/lab_assignment/JAVA  CONSTRUCTORS ASSIGNMENT-3.md",
+    "MCA_2024-2026/DM/module3/module 3.md",
+    "MCA_2024-2026/java/program/lab_assignment",
+    "MCA_2024-2026/DM/module3",
+    "MCA_2024-2026/practice_mcq/c MCQs.md",
+    "Adv DBMS.md",
+    "6127394224048553043.jpg",
+    "MCA_2024-2026/practice_mcq",
+    "DEAD LOCKS.md",
+    "MCA_2024-2026/java/pasted_images/Pasted image 20241001123127.png",
+    "MCA_2024-2026/java/pasted_images/Multilevel-Inheritance-in-Java-1.jpg.webp",
+    "MCA_2024-2026/java/pasted_images/1711532114phpfEGhVM.jpeg",
+    "Process_Scheduling.pdf",
+    "Advanced OS  - Introduction.pdf",
+    "MCA_2024-2026/os/pdf/Process_Synchronization.pdf",
     "MCA_2024-2026/os/Process Management/OS  P. M.md",
     "MCA_2024-2026/os/Process Management/pm.excalidraw.md",
     "MCA_2024-2026/os/CORE.md",
-    "DEAD LOCKS.md",
     "MCA_2024-2026/os/introduction/OS intro.md",
     "MCA_2024-2026/courses/cs50_sql/Querying.md",
-    "module 3.md",
-    "6127394224048553043.jpg",
-    "1711532114phpfEGhVM.jpeg",
-    "README.md",
-    "Multilevel-Inheritance-in-Java-1.jpg.webp",
-    "languages basics.md",
-    "java to d.md",
-    "java lab exam.md",
-    "Java doubt in Java.md",
     "[[Adv DBMS-Unit 2.pdf.md",
-    "MCA_2024-2026/java/program/basics.md",
-    "MCA_2024-2026/sql/CORE.md",
-    "MCA_2024-2026/sql/basic.md",
-    "MCA_2024-2026/sql/Transaction and ACID properties.md",
-    "MCA_2024-2026/sql/Unit - 3 Complex Data Types.md",
-    "MCA_2024-2026/sql/Unit-2Parallel Databases.md",
-    "MCA_2024-2026/sql/Distributed Database.md",
-    "Adv DBMS.md",
-    "MCA_2024-2026/sql/Parallel Database.md",
-    "MCA_2024-2026/HackerRank/python/Best Questions.md",
-    "MCA_2024-2026/HackerRank/2022btabhyas/Assignment 1.md",
     "MCA_2024-2026/Hackaton/pasted images/image-15.webp",
     "MCA_2024-2026/Hackaton/pasted images/PIC16F877A-Microcontroller.png",
     "MCA_2024-2026/Hackaton/pasted images/PIC16F877A INPUT PIN CCT.png",
     "MCA_2024-2026/Hackaton/pasted images/8d2330b2-dfad-4bb6-a7c1-af103cd0ccd1.jpg",
     "MCA_2024-2026/Pasted image 20241011092607.png",
     "MCA_2024-2026/Pasted image 20241008231518.png",
-    "MCA_2024-2026/DS/Pasted_image/graph-data-structure.webp",
     "MCA_2024-2026/Untitled.canvas"
   ]
 }
