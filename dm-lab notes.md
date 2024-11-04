@@ -246,4 +246,97 @@ f1.rename(columns = {"Pulse":"pulse_new","Maxpulse":"max_pulse"},inplace = True)
 print(f1)
 ```
 
-**Q** . 
+**Q** . ```python
+# Import necessary libraries
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the dataset (replace 'your_dataset.csv' with the actual dataset path)
+df = pd.read_csv('your_dataset.csv')
+
+# a) Print the entire dataset
+print("Entire Dataset:")
+print(df)
+
+# b) Display the size of the dataset (rows × columns)
+print("\nSize of the dataset:", df.shape)
+
+# c) Print the first 10 rows
+print("\nFirst 10 rows of the dataset:")
+print(df.head(10))
+
+# d) Print the last 10 rows
+print("\nLast 10 rows of the dataset:")
+print(df.tail(10))
+
+# e) Display the information about the dataset
+print("\nInformation about the dataset:")
+print(df.info())
+
+# f) Display the statistical view of the dataset
+print("\nStatistical Summary:")
+print(df.describe())
+
+# g) Display the datatypes of each column
+print("\nData Types of Each Column:")
+print(df.dtypes)
+
+# h) Print the null values of all columns
+print("\nNull Values in Each Column:")
+print(df.isnull().sum())
+
+# i) Display the number of unique values in the dataset
+print("\nNumber of Unique Values in Each Column:")
+print(df.nunique())
+
+# j) Print the percentage of null values in each column
+print("\nPercentage of Null Values in Each Column:")
+print((df.isnull().sum() / len(df)) * 100)
+
+# k) Display the mean of a numeric column (replace 'numeric_column' with your actual column name)
+print("\nMean of a Numeric Column:")
+print(df['numeric_column'].mean())
+
+# l) Fill the missing values with the mean of the column
+df['numeric_column'].fillna(df['numeric_column'].mean(), inplace=True)
+print("\nDataset after Filling Missing Values:")
+print(df)
+
+# m) Sort the dataset based on the third column
+df_sorted = df.sort_values(by=df.columns[2])
+print("\nDataset Sorted by Third Column:")
+print(df_sorted)
+
+# n) Rename the second column to 'new_column_name'
+df.rename(columns={df.columns[1]: 'new_column_name'}, inplace=True)
+print("\nDataset after Renaming the Second Column:")
+print(df)
+
+# o) Print the categorical and numerical columns
+categorical_cols = df.select_dtypes(include=['object']).columns
+numerical_cols = df.select_dtypes(include=['number']).columns
+print("\nCategorical Columns:", list(categorical_cols))
+print("Numerical Columns:", list(numerical_cols))
+
+# p) Delete the last 2 columns and display the new size
+df_dropped = df.iloc[:, :-2]
+print("\nDataset after Dropping Last 2 Columns:")
+print(df_dropped)
+print("New Size of the Dataset:", df_dropped.shape)
+
+# q) Plot a boxplot for any numerical column
+plt.figure(figsize=(8, 6))
+plt.boxplot(df['numeric_column'].dropna(), vert=False)
+plt.title('Boxplot for Numeric Column')
+plt.show()
+
+# r) Drop outliers using IQR (Interquartile Range)
+Q1 = df[numerical_cols].quantile(0.25)
+Q3 = df[numerical_cols].quantile(0.75)
+IQR = Q3 - Q1
+
+df_no_outliers = df[~((df[numerical_cols] < (Q1 - 1.5 * IQR)) | 
+                      (df[numerical_cols] > (Q3 + 1.5 * IQR))).any(axis=1)]
+print("\nDataset after Dropping Outliers:")
+print(df_no_outliers)
+```
