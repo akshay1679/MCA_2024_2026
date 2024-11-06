@@ -8,22 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9822493d89954c0f",
+            "id": "ab840d77e615815c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MCA_2024-2026/os/OS_NEW_Demand Paging/7.5 FIFO Page Replacement.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 544,
-                "zoom": 1.4135416666666667
+                "file": "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_4.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "7.5 FIFO Page Replacement"
+              "icon": "lucide-file",
+              "title": "program_4"
+            }
+          },
+          {
+            "id": "32c85a33478f7271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCA_2024-2026/java/program/lab_exam/java lab exam 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "java lab exam 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,8 +195,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9822493d89954c0f",
+  "active": "22cb213078b520f9",
   "lastOpenFiles": [
+    "MCA_2024-2026/java/program/lab_exam/java lab exam.md",
+    "MCA_2024-2026/java/program/lab_exam/java lab exam 2.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_4.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_3.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_2.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_1/program_1.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_1/program_6.md",
+    "JAVA LAB PROGRAMS - 1.pdf",
+    "JAVA LAB PROGRAMS - 2.pdf",
+    "Java doubt in Java.md",
+    "Lab Cycle-II.pdf",
+    "MCA_2024-2026/os/OS_NEW_Demand Paging/7.5 FIFO Page Replacement.pdf",
     "MCA_2024-2026/os/OS_NEW_Demand Paging/7.4 Page Replacement.pdf",
     "MCA_2024-2026/os/OS_NEW_Demand Paging/7.2 Demand Paging.pdf",
     "MCA_2024-2026/os/OS_NEW_pdf/Paging And Segmentation.pdf",
@@ -192,18 +217,12 @@
     "MCA_2024-2026/os/pdf/Process_Synchronization.pdf",
     "MCA_2024-2026/Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
     "MCA_2024-2026/os/Process Scheduling/P S.md",
-    "MCA_2024-2026/os/pdf/Process_Scheduling.pdf",
     "MCA_2024-2026/sql/Parallel Database.md",
     "MCA_2024-2026/sql/Distributed Database.md",
     "MCA_2024-2026/sql/CORE.md",
     "MCA_2024-2026/sql/basic.md",
-    "MCA_2024-2026/sql/Untitled/Adv DBMS-Unit 5.pdf",
-    "MCA_2024-2026/sql/Untitled/Adv DBMS-Unit 3.pdf",
-    "MCA_2024-2026/sql/Untitled/Adv DBMS-Unit 2.pdf",
     "MCA_2024-2026/sql/Transaction and ACID properties.md",
     "dm-lab notes.md",
-    "Java doubt in Java.md",
-    "MCA_2024-2026/java/program/lab_exam/java lab exam.md",
     "MCA_2024-2026/java/program/lab_assignment/JAVA  CONSTRUCTORS ASSIGNMENT-3.md",
     "hacker rank questions.md",
     "MCA_2024-2026/DS/lab/Lab sheet 22-Aug-2024.md",
@@ -211,15 +230,9 @@
     "To do list OS.md",
     "README.md",
     "MCA_2024-2026/DS/lab/c_prog/lab_sheet_4/program_1.md",
-    "Untitled/trashed-1732749297-20241006_192614285 (1).pdf",
     "MCA_2024-2026/DS/lab/c_prog/lab_sheet_3/program_1.md",
-    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_2.md",
-    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_4.md",
     "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_5.md",
     "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_6.md",
-    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_7.md",
-    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_8.md",
-    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_2/program_9.md",
     "6127394224048553043.jpg",
     "MCA_2024-2026/java/pasted_images/Pasted image 20241001123127.png",
     "MCA_2024-2026/java/pasted_images/Multilevel-Inheritance-in-Java-1.jpg.webp",

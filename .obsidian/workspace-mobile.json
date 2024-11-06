@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47284fbb35309b4e",
+        "id": "019c15180699f477",
         "type": "tabs",
         "children": [
           {
-            "id": "e67ec8e8d888ecf4",
+            "id": "f5eaed45564d0473",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MCA_2024-2026/os/pdf/Deadlocks.pdf",
+                "file": "MCA_2024-2026/os/pdf/Process_Synchronization.pdf",
                 "page": 1,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
-              "title": "Deadlocks"
+              "title": "Process_Synchronization"
             }
           }
         ]
@@ -153,53 +153,53 @@
       "whisper:Open recording controls": false
     }
   },
-  "active": "e67ec8e8d888ecf4",
+  "active": "f5eaed45564d0473",
   "lastOpenFiles": [
+    "MCA_2024-2026/os/pdf/Process_Scheduling.pdf",
+    "MCA_2024-2026/os/pdf/Process_Synchronization.pdf",
+    "MCA_2024-2026/os/pdf/Classical problems.pdf",
+    "dm-lab notes.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_1/program_6.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_1/program_5.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_1/program_4.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_1/program_3.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_1/program_2.md",
+    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_1/program_1.md",
+    "Lab Cycle-II.pdf",
+    "SQL_LAB_SHEET_2.md",
+    "MCA_2024-2026/DM/ml/Machine learning.md",
+    "MCA_2024-2026/DM/2024-09-17.md",
+    "MCA_2024-2026/DM/module2/MODULE II.md",
+    "MCA_2024-2026/DM/module3/module 3.md",
+    "SQL_LAB_SHEET_1.md",
+    "MCA_2024-2026/os/pdf/Deadlocks.pdf",
     "MCA_2024-2026/os/OS_NEW_Demand Paging/7.2 Demand Paging.pdf",
     "MCA_2024-2026/os/OS_NEW_Demand Paging/7.4 Page Replacement.pdf",
     "MCA_2024-2026/os/OS_NEW_Demand Paging/7.6 Optimal Page Replacement.pdf",
     "MCA_2024-2026/os/OS_NEW_pdf/Fixed Partitioned Memory Management - 2.pdf",
-    "MCA_2024-2026/os/pdf/Process_Synchronization.pdf",
     "MCA_2024-2026/os/OS_NEW_pdf/Variable Partion Multi Programming - 3.pdf",
     "MCA_2024-2026/os/pdf/Process_Management.pdf",
-    "MCA_2024-2026/os/pdf/Deadlocks.pdf",
     "to do list OS.md",
     "MCA_2024-2026/java/program/basics.md",
-    "dm-lab notes.md",
     "module 3.md",
     "java lab exam.md",
-    "MCA_2024-2026/DM/ml/Machine learning.md",
     "Untitled.md",
     "Untitled 1.md",
-    "pdf/Deadlocks.pdf",
     "1711532114phpfEGhVM.jpeg",
     "Multilevel-Inheritance-in-Java-1.jpg.webp",
-    "MCA_2024-2026/DM/class_notes/D_M_part1.pdf",
     "MCA_2024-2026/DM/CHAPTER-1/Notes.md",
     "MCA_2024-2026/DM/CHAPTER-1/Data mining Archetecture.md",
     "Java doubt in Java.md",
     "MCA_2024-2026/sql/Distributed Database.md",
     "MCA_2024-2026/sql/Parallel Database.md",
     "MCA_2024-2026/DS/Graph Data Structure.md",
-    "MCA_2024-2026/hackaton/iot.md",
-    "Iot.md",
-    "MCA_2024-2026/java/program/basics.sync-conflict-20241021-140557-S6KXOI7.md",
-    "MCA_2024-2026/os/Memory spooling.md",
-    "MCA_2024-2026/courses/Infosys_Springboard/Python Data Structures and Algorithms.md",
-    "MCA_2024-2026/DM/To Do list DM.md",
     "image-15.webp",
-    "MCA_2024-2026/hackaton",
-    "MCA_2024-2026/java/program/notes 1.md",
-    "Graph Data Structure.md",
     "MCA_2024-2026/DS/Pasted_image/graph-data-structure.webp",
     "MCA_2024-2026/DS/Pasted_image/complete1 (2).png",
     "MCA_2024-2026/DS/Pasted_image/pseudo-2.png",
     "MCA_2024-2026/DS/Pasted_image/complete2-1.png",
     "MCA_2024-2026/DS/Pasted_image/null-2.png",
     "MCA_2024-2026/DS/Pasted_image/graph-23.png",
-    "MCA_2024-2026/DS/Pasted_image/simple1.png",
-    "README.md",
-    "MCA_2024-2026/Untitled 1.md",
-    "MCA_2024-2026/Machine learning.md"
+    "MCA_2024-2026/DS/Pasted_image/simple1.png"
   ]
 }

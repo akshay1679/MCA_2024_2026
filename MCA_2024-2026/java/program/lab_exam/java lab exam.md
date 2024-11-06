@@ -123,63 +123,113 @@ public class MatrixAddition {
 ### 7. **BankAccount Class with Constructors and Methods**
 
 ```java
-class BankAccount {
-    private String accountNumber;
-    private double balance;
-    private String accountHolderName;
+import java.util.Scanner;
 
-    // Constructor 1: Only account number
-    public BankAccount(String accountNumber) {
-        this.accountNumber = accountNumber;
-        this.balance = 0;
-    }
+class BankAccount { // Renamed from Bankaccount to BankAccount to follow Java naming conventions
 
-    // Constructor 2: Account number and initial balance
-    public BankAccount(String accountNumber, double balance) {
-        this.accountNumber = accountNumber;
-        this.balance = balance;
-    }
+private String name;
 
-    // Constructor 3: Account number, balance, and account holder's name
-    public BankAccount(String accountNumber, double balance, String accountHolderName) {
-        this(accountNumber, balance);
-        this.accountHolderName = accountHolderName;
-    }
+private Double balance; // Corrected spelling from balence to balance
 
-    // Methods to deposit, withdraw, and display balance
-    public void deposit(double amount) {
-        balance += amount;
-    }
+private String accountNumber;
 
-    public void withdraw(double amount) {
-        if (amount <= balance) {
-            balance -= amount;
-        } else {
-            System.out.println("Insufficient balance.");
-        }
-    }
+  
 
-    public void displayBalance() {
-        System.out.println("Account Balance: " + balance);
-    }
+public BankAccount(String name) {
+
+this.name = name;
+
+this.balance = (double) 0; // Initialize balance to 0 to prevent null pointer issues
+
 }
 
-public class TestBankAccount {
-    public static void main(String[] args) {
-        BankAccount acc1 = new BankAccount("12345");
-        BankAccount acc2 = new BankAccount("67890", 5000);
-        BankAccount acc3 = new BankAccount("11223", 8000, "John Doe");
+  
 
-        acc1.deposit(1000);
-        acc1.displayBalance();
-        acc3.withdraw(3000);
-        acc3.displayBalance();
-    }
+public BankAccount(double balance, String name) {
+
+this.name = name;
+
+this.balance = balance;
+
 }
 
+  
+
+public BankAccount(double balance, String name, String accountNumber) {
+
+this.name = name;
+
+this.balance = balance;
+
+this.accountNumber = accountNumber;
+
+}
+
+  
+
+public void withdraw(double amount) {
+
+if (balance >= amount) {
+
+balance = balance - amount;
+
+} else {
+
+System.out.println("Insufficient balance");
+
+}
+
+}
+
+  
+
+public void deposit(double amount) {
+
+balance += amount;
+
+}
+
+  
+
+public void display() {
+
+System.out.println("Balance = " + balance);
+
+}
+
+}
+
+  
+
+public class ArrayOperations{
+
+public static void main(String []args) {
+
+BankAccount acc1 = new BankAccount("Akshay");
+
+BankAccount acc2 = new BankAccount(1000.0, "Akshay");
+
+BankAccount acc3 = new BankAccount(1000.0, "Akshay", "1234567890"); // Renamed from acc2 to acc3 to avoid duplicate variable name
+
+  
+
+acc1.deposit(1000);
+
+acc1.display();
+
+acc2.deposit(3000);
+
+acc2.display();
+acc3.display();
+}
+}
 ```
 
+==mistakes==
 
+```java
+this.balance = (double) 0; // Initialize balance to 0 to prevent null pointer issues
+```
 ### 8. **Array of Employee Objects**
 
 ```java
