@@ -9,7 +9,7 @@ acceptDetails() – to enter marks and other details
 checkPass() – returns true if marks > 40, else false.
 Create 3 Student objects, and test these methods.
 
-```java
+```run-java
 import java.util.Scanner;
 
 class Student {
@@ -455,8 +455,3 @@ public class InterfaceTest {
 ```
 
 
-**3. Employee Array**
-
-java
-
-Copy code

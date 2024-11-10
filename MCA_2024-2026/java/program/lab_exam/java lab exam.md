@@ -53,6 +53,31 @@ public class MultiplicationTable {
 
 ```
 
+
+### 4 Write a program to reverse a number using while loop.
+
+```java
+import java.util.Scanner;
+
+public class ReverseNumber {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter a number: ");
+        int number = scanner.nextInt();
+        
+        int reversedNumber = 0;
+        while (number != 0) {
+            int digit = number % 10;      // Extract last digit
+            reversedNumber = reversedNumber * 10 + digit;  // Append digit to reversed number
+            number /= 10;                 // Remove last digit from original number
+        }
+        
+        System.out.println("Reversed Number: " + reversedNumber);
+    }
+}
+
+```
+
 ### 5. Maximum, Minimum, and Sum of an Array
 
 ```java
@@ -92,7 +117,7 @@ public class MatrixAddition {
         Scanner sc = new Scanner(System.in);
         int[][] matrix1 = new int[2][2];
         int[][] matrix2 = new int[2][2];
-        int[][] result = new int[2][2];
+
 
         System.out.println("Enter elements of first matrix:");
         for (int i = 0; i < 2; i++)
@@ -104,14 +129,10 @@ public class MatrixAddition {
             for (int j = 0; j < 2; j++)
                 matrix2[i][j] = sc.nextInt();
 
-        for (int i = 0; i < 2; i++)
-            for (int j = 0; j < 2; j++)
-                result[i][j] = matrix1[i][j] + matrix2[i][j];
-
         System.out.println("Resulting matrix:");
         for (int i = 0; i < 2; i++) {
             for (int j = 0; j < 2; j++) {
-                System.out.print(result[i][j] + " ");
+                System.out.print(matrix1[i][j] + matrix2[i][j] + " ");
             }
             System.out.println();
         }
@@ -120,105 +141,58 @@ public class MatrixAddition {
 
 ```
 
+
 ### 7. **BankAccount Class with Constructors and Methods**
 
 ```java
 import java.util.Scanner;
-
 class BankAccount { // Renamed from Bankaccount to BankAccount to follow Java naming conventions
-
 private String name;
-
 private Double balance; // Corrected spelling from balence to balance
-
 private String accountNumber;
-
   
-
 public BankAccount(String name) {
-
 this.name = name;
-
 this.balance = (double) 0; // Initialize balance to 0 to prevent null pointer issues
-
 }
-
   
-
 public BankAccount(double balance, String name) {
-
 this.name = name;
-
 this.balance = balance;
-
 }
-
   
-
 public BankAccount(double balance, String name, String accountNumber) {
-
 this.name = name;
-
 this.balance = balance;
-
 this.accountNumber = accountNumber;
-
 }
-
   
-
 public void withdraw(double amount) {
-
 if (balance >= amount) {
-
 balance = balance - amount;
-
 } else {
-
 System.out.println("Insufficient balance");
-
 }
-
 }
-
   
-
 public void deposit(double amount) {
-
 balance += amount;
-
 }
-
   
-
 public void display() {
-
 System.out.println("Balance = " + balance);
-
 }
-
 }
-
   
-
 public class ArrayOperations{
-
 public static void main(String []args) {
-
 BankAccount acc1 = new BankAccount("Akshay");
-
 BankAccount acc2 = new BankAccount(1000.0, "Akshay");
-
 BankAccount acc3 = new BankAccount(1000.0, "Akshay", "1234567890"); // Renamed from acc2 to acc3 to avoid duplicate variable name
 
-  
-
 acc1.deposit(1000);
-
 acc1.display();
-
 acc2.deposit(3000);
-
 acc2.display();
 acc3.display();
 }
