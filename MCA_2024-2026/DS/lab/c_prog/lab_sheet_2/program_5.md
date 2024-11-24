@@ -34,3 +34,30 @@ int main() {
     return 0;
 }
 ```
+
+
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char name[] = "ChatGPT";
+    char ch;
+    printf("Enter a character to search: ");
+    scanf(" %c", &ch); // Note the space before %c to consume any newline characters.
+
+    // Using strchr to find the character in the string
+    char *position = strchr(name, ch);
+
+    if (position != NULL) {
+        int index = (int)(position - name); // Calculate the index
+        printf("Character '%c' found at index %d.\n", ch, index);
+    } else {
+        printf("Character '%c' not found in the name.\n", ch);
+    }
+
+    return 0;
+}
+
+```
