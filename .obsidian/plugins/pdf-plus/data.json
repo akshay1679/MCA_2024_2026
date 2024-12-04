@@ -80,7 +80,7 @@
     "Yellow": "#ffd000",
     "Red": "#ea5252",
     "Note": "#086ddd",
-    "Important": "#bb61e5"
+    "Important": "#480c64"
   },
   "defaultColor": "",
   "defaultColorPaletteItemIndex": 0,
@@ -110,8 +110,8 @@
   "recordPDFInternalLinkHistory": true,
   "alwaysRecordHistory": true,
   "renderMarkdownInStickyNote": false,
-  "enablePDFEdit": false,
-  "author": "",
+  "enablePDFEdit": true,
+  "author": "akshay",
   "writeHighlightToFileOpacity": 0.2,
   "defaultWriteFileToggle": false,
   "syncWriteFileToggle": true,
@@ -120,7 +120,7 @@
   "warnEveryAnnotationDelete": false,
   "warnBacklinkedAnnotationDelete": true,
   "enableAnnotationContentEdit": true,
-  "enableEditEncryptedPDF": false,
+  "enableEditEncryptedPDF": true,
   "pdfLinkColor": "#04a802",
   "pdfLinkBorder": false,
   "replaceContextMenu": true,

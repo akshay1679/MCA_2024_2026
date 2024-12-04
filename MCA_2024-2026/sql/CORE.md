@@ -1,6 +1,7 @@
 notes => [[Transaction and ACID properties]]
 sql commands --> [[basic]]
 
+
 ## unit 5
 
 [[Adv DBMS]]
@@ -9,14 +10,26 @@ Distributed Database ==>  [[Distributed Database]]
 
 Parallel Database   ==> [[Parallel Database]]
 
-
 Parallel Databases(sir note) --> [[Unit-2Parallel Databases]]
 
+---
 
-Unit - 3 Complex Data Types --> [[Unit - 3 Complex Data Types]]
+PDF
 
-[[Adv DBMS-Unit 2.pdf]]
+Unit-2 [[Adv DBMS-Unit 2.pdf]]
+[[Adv DBMS-Unit 2 note]]
 
-[[Adv DBMS-Unit 3.pdf]]
+Complex Data Types Unit - 3 [[Adv DBMS-Unit 3.pdf]]
 
-[[Adv DBMS-Unit 5.pdf]]
+JSON & XML Databases  Unit - 4 [[Adv DBMS-Unit 4.pdf]]
+
+INTELLIGENT DATABASES Unit - 5 [[Adv DBMS-Unit 5.pdf]]
+
+---
+
+![[Syllabus.jpeg]]
+
+
+notes
+
+[[unit1]]

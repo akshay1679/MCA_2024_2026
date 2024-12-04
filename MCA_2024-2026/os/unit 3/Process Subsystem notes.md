@@ -104,3 +104,4 @@ The process table contains the information required by the kernel
 	- **Current Directory and Root**: Define the file system context of the process, maintaining paths to the working directory and root directory.
 
 
+[[System Calls notes]]
