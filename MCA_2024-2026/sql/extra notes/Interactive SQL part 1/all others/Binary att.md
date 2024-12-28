@@ -1,1 +1,0 @@
-The BINARY attribute means that column values are sorted and compared in case- | sensitive fashion using the underlying character code values rather then a lexical ordering. BINARY doesn't affect how the column is stored or retrieved.

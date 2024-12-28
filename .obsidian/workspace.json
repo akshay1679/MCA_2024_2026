@@ -4,26 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "994c5c6b76b69cee",
+        "id": "d113d968ef4de2a2",
         "type": "tabs",
         "children": [
           {
-            "id": "58cd70c1baa2ed89",
+            "id": "72418cf21d0665df",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MCA_2024-2026/sql/pdf/Adv DBMS-Unit 2.pdf",
-                "page": 1,
-                "left": -29,
-                "top": 544,
-                "zoom": 0.55
+                "file": "MCA_2024-2026/LeetCode/prb_2 Add Two Numbers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Adv DBMS-Unit 2"
+              "icon": "lucide-file",
+              "title": "prb_2 Add Two Numbers"
+            }
+          },
+          {
+            "id": "761fc333fb8a06cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manhattan distance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manhattan distance"
+            }
+          },
+          {
+            "id": "e5a542e09e362902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manhattan distance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manhattan distance"
+            }
+          },
+          {
+            "id": "e663a7d032f04bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCA_2024-2026/LeetCode/prb_1 Two sum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "prb_1 Two sum"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#dfs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5026054382324,
-    "collapsed": true
+    "width": 262.5004348754883
   },
   "right": {
     "id": "a7afa5ab8a0baa9e",
@@ -183,53 +223,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58cd70c1baa2ed89",
+  "active": "e5a542e09e362902",
   "lastOpenFiles": [
-    "MCA_2024-2026/sql/pdf/Adv DBMS-Unit 2 note.md",
-    "MCA_2024-2026/sql/pdf/Adv DBMS-Unit 2.pdf",
-    "MCA_2024-2026/os/unit 3/Process Subsystem.pdf",
-    "MCA_2024-2026/sql/pdf/Adv DBMS-Unit 3.pdf",
-    "hacker rank questions.md",
-    "dm-lab notes.md",
+    "All hash tag and keys.md",
+    "ad_4nxf7tzbgnr4agwisfup5dsnjdlgr8ljkdagxx3eignuhrtz9wkgnw5zotv4nzcesskhp2kahluoy5v64ka27raez21gk365_3jkpc7qgxjp_d-u9j4sdiiaf_7z1barfpafugokizbrifquazqgep5fgyz0g.avif",
+    "MCA_2024-2026/courses/cs50AI/pasted image/Pasted image 20241223145256.png",
+    "MCA_2024-2026/courses/cs50AI/pasted image/Pasted image 20241223145207.png",
+    "MCA_2024-2026/courses/cs50AI/pasted image/Pasted image 20241223095433.png",
+    "Manhattan distance.md",
+    "MCA_2024-2026/courses/cs50AI/notes/week_0.md",
+    "MCA_2024-2026/courses/cs50AI/pasted image/Pasted image 20241222072742.png",
+    "MCA_2024-2026/courses/cs50AI/pasted image/Pasted image 20241222064524.png",
+    "MCA_2024-2026/courses/cs50AI/pasted image/ad_4nxf7tzbgnr4agwisfup5dsnjdlgr8ljkdagxx3eignuhrtz9wkgnw5zotv4nzcesskhp2kahluoy5v64ka27raez21gk365_3jkpc7qgxjp_d-u9j4sdiiaf_7z1barfpafugokizbrifquazqgep5fgyz0g.avif",
+    "MCA_2024-2026/courses/cs50AI/pasted image/Pasted image 20241228141255.jpg",
+    "MCA_2024-2026/LeetCode/prb_2 Add Two Numbers.md",
+    "MCA_2024-2026/LeetCode/prb_1 Two sum.md",
+    "MCA_2024-2026/courses/cs50AI/notes/week_1.md",
+    "MCA_2024-2026/LeetCode",
+    "MCA_2024-2026/courses/cs50AI/draw/Drawing 2024-12-22 19.20.04.excalidraw.md",
+    "sem_1/DS/sub_notes/linear search.md",
+    "MCA_2024-2026/courses/cs50AI/Core.md",
+    "MCA_2024-2026/courses/cs50AI/notes/week_2.md",
+    "MCA_2024-2026/courses/cs50AI/notes/week_6.md",
+    "MCA_2024-2026/courses/cs50AI/notes/week_5.md",
+    "MCA_2024-2026/courses/cs50AI/notes/week_4.md",
+    "MCA_2024-2026/courses/cs50AI/notes/week_3.md",
+    "MCA_2024-2026/courses/cs50AI/notes",
+    "core",
+    "MCA_2024-2026/courses/cs50AI/draw",
+    "MCA_2024-2026/courses/cs50AI/pasted image",
+    "Excalidraw/Drawing 2024-12-17 22.06.21.excalidraw.md",
+    "sem_1/Excalidraw/Drawing 2024-08-20 14.29.30.excalidraw.md",
+    "MCA_2024-2026/courses/cs50AI",
+    "cs50A",
     "MCA_2024-2026/practice_mcq/c MCQs.md",
-    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_6/cll.md",
-    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_6/cdll.md",
-    "MCA_2024-2026/DS/ds_note/20241123_194027498.pdf",
-    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_6",
-    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_6/Stack.md",
-    "MCA_2024-2026/DS/lab/c_prog/lab_sheet_6/Stack and queue 1.md",
-    "MCA_2024-2026/os/Lecture_notes/2024-08-22 05.37.59.excalidraw.md",
-    "MCA_2024-2026/os/2024-08-22.md",
-    "MCA_2024-2026/os/Untitled.md",
-    "MCA_2024-2026/sql/unit1.md",
-    "MCA_2024-2026/sql/lab_sheet/SQL_LAB_SHEET_1.md",
-    "Highlights for OOP Using JAVA-EXCEPTIONS.md",
-    "Highlights for 1. OOP Using JAVA-Introduction.md",
-    "JAVA LAB PROGRAMS - 1.pdf",
-    "MCA_2024-2026/sql/lab_sheet/SQL_LAB_SHEET_2.md",
-    "MCA_2024-2026/sql/lab_sheet",
-    "To do list OS.md",
-    "Unit 2.md",
-    "MCA_2024-2026/sql/Transaction and ACID properties.md",
-    "MCA_2024-2026/sql/Unit-2Parallel Databases.md",
-    "MCA_2024-2026/sql/Parallel Database.md",
-    "MCA_2024-2026/sql/CORE.md",
-    "MCA_2024-2026/sql/pdf/Adv DBMS-Unit 5.pdf",
-    "MCA_2024-2026/sql/Distributed Database.md",
-    "MCA_2024-2026/sql/pdf/Adv DBMS-Unit 4.pdf",
-    "MCA_2024-2026/sql/Syllabus.jpeg",
-    "Adv DBMS.md",
-    "java exam.md",
-    "MCA_2024-2026/DS/ds_note",
-    "6127394224048553043.jpg",
-    "MCA_2024-2026/java/pasted_images/Pasted image 20241001123127.png",
-    "MCA_2024-2026/java/pasted_images/Multilevel-Inheritance-in-Java-1.jpg.webp",
-    "MCA_2024-2026/java/pasted_images/1711532114phpfEGhVM.jpeg",
-    "MCA_2024-2026/Hackaton/pasted images/image-15.webp",
-    "MCA_2024-2026/Hackaton/pasted images/PIC16F877A-Microcontroller.png",
-    "MCA_2024-2026/Hackaton/pasted images/PIC16F877A INPUT PIN CCT.png",
-    "MCA_2024-2026/Hackaton/pasted images/8d2330b2-dfad-4bb6-a7c1-af103cd0ccd1.jpg",
-    "MCA_2024-2026/Pasted image 20241011092607.png",
+    "sem_1/DS/Graph Data Structure.md",
+    "sem_1/ORDM.md",
+    "sem_1/Lab Cycle-II.pdf",
+    "sem_1/hacker rank questions.md",
+    "sem_1/FILE MANAGEMENT notes.md",
+    "sem_1/dm-lab notes.md",
+    "sem_1/data.csv",
+    "sem_1/d.csv",
+    "sem_1/all sql commands.md",
+    "sem_1/Untitled 3.md",
+    "sem_1/Untitled 2.md",
+    "sem_1/Untitled.canvas",
+    "Untitled.canvas",
+    "sem_1/DS/Pasted_image/simplegraph.png",
+    "sem_1/DS/Pasted_image/simple2-1 1.png",
     "MCA_2024-2026/Untitled.canvas"
   ]
 }
