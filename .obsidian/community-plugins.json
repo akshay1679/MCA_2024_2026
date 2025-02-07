@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-annotator",
   "obsidian-latex-suite",
   "pdf-plus",
   "obsidian-extract-pdf-highlights",
@@ -9,5 +8,6 @@
   "obsidian-extract-pdf-annotations",
   "execute-code",
   "whisper",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "highlightr-plugin"
 ]
