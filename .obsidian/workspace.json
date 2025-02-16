@@ -4,57 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "23fd6f41269e75d5",
+        "id": "3cd2576ae196b838",
         "type": "tabs",
         "children": [
           {
-            "id": "26bddf2691869696",
+            "id": "08938b7ff8c3cf21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem_2/Software_engineering/Scrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scrum"
+            }
+          },
+          {
+            "id": "ea2079c47808b172",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN.pdf"
+                "file": "sem_2/Software_engineering/UNIT-2-Process Models.pdf",
+                "page": 65,
+                "left": -15,
+                "top": 487,
+                "zoom": 1.0046875
               },
               "icon": "lucide-file-text",
-              "title": "ANN"
+              "title": "UNIT-2-Process Models"
             }
           }
         ]
-      },
-      {
-        "id": "14fad217c60cd2e9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0f5f71c0d5c82cce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_rough_note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ANN_rough_note"
-            }
-          },
-          {
-            "id": "1d9b60225c42acd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ANN_note"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ANN",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,13 +197,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26bddf2691869696",
+  "active": "22cb213078b520f9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-31 07.40.06.excalidraw.md",
+    "sem_2/Software_engineering/Pasted image 20250209121657.png",
+    "sem_2/Software_engineering/Scrum.md",
+    "sem_2/Software_engineering/UNIT-2-Process Models.pdf",
+    "README.md",
+    "sem_2/Software_engineering/XP.pdf",
+    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_rough_note.md",
+    "sem_2/Software_engineering/UNIT-1.pdf",
+    "sem_2/Software_engineering/Syllabus.pdf",
+    "sem_2/Software_engineering/Pasted image 20250209121730.jpg",
+    "sem_2/Software_engineering/Pasted image 20250209121717.jpg",
+    "sem_2/Software_engineering/Drawing 2025-02-09 08.24.16.excalidraw.md",
+    "sem_2/Software_engineering/24CSA512SEDP-Syllabus.docx",
     "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN.pdf",
+    "Excalidraw/Drawing 2025-01-31 07.40.06.excalidraw.md",
     "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_note.md",
     "All hash tag and keys.md",
-    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_rough_note.md",
     "sem_2/Deep_learning/module1/Artificial Neural Networks",
     "sem_2/Deep_learning/module1/Introduction/01 Introduction1.pdf",
     "sem_2/Deep_learning/module1/Introduction",
@@ -232,7 +225,6 @@
     "MCA_2024-2026/icpc/Hulk.md",
     "MCA_2024-2026/icpc/Boy or Girl.md",
     "MCA_2024-2026/icpc/Watermelon.md",
-    "README.md",
     "MCA_2024-2026/icpc/Translation.md",
     "2d to 3d.md",
     "Unit-1.md",
@@ -240,17 +232,12 @@
     "packages used.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "MCA_2024-2026/icpc",
     "Untitled 2.md",
     "sem_2/Deep_learning/pasted_image/classification-1.png",
     "sem_2/Deep_learning/pasted_image/Getting-started-with-Classification.png",
     "sem_2/Deep_learning/pasted_image/regression.png",
     "sem_2/Deep_learning/pasted_image/Supervised-learning.png",
     "sem_2/Deep_learning/pasted_image/Unsupervised-learning.png",
-    "sem_2/Deep_learning/pasted_image",
-    "sem_2/DAA",
-    "sem_2/big data",
-    "sem_1/DS/ds_note/20241123_194027498.pdf",
     "MCA_2024-2026/courses/cs50p/Manhattan distance.md",
     "MCA_2024-2026/courses/cs50p/ad_4nxf7tzbgnr4agwisfup5dsnjdlgr8ljkdagxx3eignuhrtz9wkgnw5zotv4nzcesskhp2kahluoy5v64ka27raez21gk365_3jkpc7qgxjp_d-u9j4sdiiaf_7z1barfpafugokizbrifquazqgep5fgyz0g.avif",
     "MCA_2024-2026/LeetCode/prb_3_Longest_Substring_Without_Repeating_Characters.md",
@@ -258,12 +245,7 @@
     "MCA_2024-2026/courses/cs50p/Week 2.md",
     "MCA_2024-2026/courses/cs50p/Week 1.md",
     "MCA_2024-2026/courses/cs50p/Week 0.md",
-    "MCA_2024-2026/LeetCode/prb_2 Add Two Numbers.md",
-    "MCA_2024-2026/LeetCode/prb_4_Median_of_Two_Sorted_Arrays.md",
     "MCA_2024-2026/courses/cs50AI/pasted image/Pasted image 20241223145256.png",
-    "MCA_2024-2026/courses/cs50AI/pasted image/Pasted image 20241223145207.png",
-    "MCA_2024-2026/courses/cs50AI/pasted image/Pasted image 20241223095433.png",
-    "MCA_2024-2026/courses/cs50AI/pasted image/Pasted image 20241222072742.png",
     "sem_1/Untitled.canvas",
     "MCA_2024-2026/Untitled.canvas"
   ]
