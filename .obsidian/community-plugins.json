@@ -1,13 +1,13 @@
 [
-  "obsidian-git",
-  "obsidian-latex-suite",
-  "pdf-plus",
-  "obsidian-extract-pdf-highlights",
   "code-styler",
   "obsidian-editor-shortcuts",
-  "obsidian-extract-pdf-annotations",
-  "execute-code",
-  "whisper",
   "obsidian-excalidraw-plugin",
-  "highlightr-plugin"
+  "obsidian-extract-pdf-highlights",
+  "whisper",
+  "obsidian-latex-suite",
+  "highlightr-plugin",
+  "obsidian-git",
+  "obsidian-extract-pdf-annotations",
+  "obsidian-annotator",
+  "pdf-plus"
 ]

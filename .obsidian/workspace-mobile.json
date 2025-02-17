@@ -39,14 +39,16 @@
             "id": "ebba911aebfb6180",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "packages used.md",
-                "mode": "source",
-                "source": false
+                "file": "sem_2/04 Optimizers and Cost functions1.pdf",
+                "page": 1,
+                "left": 0,
+                "top": 476,
+                "zoom": 0.3125
               },
-              "icon": "lucide-file",
-              "title": "packages used"
+              "icon": "lucide-file-text",
+              "title": "04 Optimizers and Cost functions1"
             }
           }
         ],
@@ -65,7 +67,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -124,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "packages used.md",
+            "file": "Bios.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -184,10 +188,22 @@
   },
   "active": "ebba911aebfb6180",
   "lastOpenFiles": [
+    "sem_2/03 Gradient Descent.pdf",
+    "Bios.md",
+    "sem_2/05 Activation functions.pdf",
+    "sem_2/06 CNN.pdf",
+    "sem_2/04 Optimizers and Cost functions1.pdf",
+    "sem_1/06 CNN.pdf",
+    "sem_1/03 Gradient Descent.pdf",
+    "sem_1/5 Activation functions.pdf",
+    "sem_1/04 Optimizers and Cost functions1.pdf",
+    "Regression.md",
+    "Excalidraw/Drawing 2025-02-16 16.08.05.excalidraw.md",
+    "sem_2/Deep_learning/dl.pdf",
     "2d to 3d.md",
+    "packages used.md",
     "prb_3_Longest_Substring_Without_Repeating_Characters.md",
     "MCA_2024-2026/LeetCode/prb_1 Two sum.md",
-    "Untitled.md",
     "Week 0.md",
     "MCA_2024-2026/courses/cs50p/notes.md",
     "MCA_2024-2026/LeetCode/prb_2 Add Two Numbers.md",
@@ -209,21 +225,8 @@
     "MCA_2024-2026/DS/sub_notes/Binary search.md",
     "MCA_2024-2026/DS/sub_notes/linear search.md",
     "MCA_2024-2026/os/unit 3/The Unix Kernel Architecture.pdf",
-    "MCA_2024-2026/os/unit 1/Introduction.pdf",
-    "MCA_2024-2026/os/unit 2/OS_NEW_Demand Paging/7.6 Optimal Page Replacement.pdf",
-    "MCA_2024-2026/os/unit 2/OS_NEW_Demand Paging/7.7 LRU Page Replacement.pdf",
-    "MCA_2024-2026/os/unit 2/OS_NEW_Demand Paging/7.5 FIFO Page Replacement.pdf",
-    "MCA_2024-2026/os/unit 5/Distributed OS.pdf",
     "MCA_2024-2026/os/Memory spooling.md",
-    "MCA_2024-2026/os/unit 1/Deadlocks.pdf",
-    "MCA_2024-2026/os/unit 4/File Management.pdf",
-    "MCA_2024-2026/os/unit 3/Process Subsystem.pdf",
-    "MCA_2024-2026/os/unit 1/Classical problems.pdf",
     "MCA_2024-2026/os/unit 3/Process Subsystem notes.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled 3.md",
-    "FILE MANAGEMENT notes.md",
     "MCA_2024-2026/sql/Syllabus.jpeg",
     "1711532114phpfEGhVM.jpeg",
     "Multilevel-Inheritance-in-Java-1.jpg.webp",
