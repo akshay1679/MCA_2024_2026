@@ -1,1 +1,0 @@
-- in case of classification we are trying to find the line that paritions the datapoints
