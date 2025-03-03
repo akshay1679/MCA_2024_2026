@@ -93,21 +93,21 @@ A program is one of the stages involved in the development of the software, wher
 
   A software process is the set of ==activities== and ==associated outcome== that produce a software product. Software engineers mostly carry out these activities. These are four key process activities, which are common to all software processes. These activities are: 
  
- 1.<mark style="background: #FFB86CA6;">**Software specifications**</mark>: The <mark style="background: #FFB8EBA6;">functionality</mark> of the software and <mark style="background: #FFB8EBA6;">constraints</mark> on its operation must be defined. 
+ 1.**Software specifications**: The functionality of the software and constraints on its operation must be defined. 
 
 chatgpt: 
-Software specifications are a ==detailed plan== that<mark style="background: #FFB8EBA6;"> <u>describes what a software should do and how it should work</u></mark>. It includes the features, rules, and technical details needed to build the software correctly. Think of it like a blueprint for a house—it guides developers to create the right product as expected.
+Software specifications are a ==detailed plan== that <u>describes what a software should do and how it should work</u>. It includes the features, rules, and technical details needed to build the software correctly. Think of it like a blueprint for a house—it guides developers to create the right product as expected.
  
- 2.**<mark style="background: #FFB86CA6;">Software development</mark>**: The <mark style="background: #FFB8EBA6;">software to meet the requirement</mark> must be produced. 
+ 2.**Software development**: The software to meet the requirement must be produced. 
  
- 3.<mark style="background: #FFB86CA6;">**Software validation**</mark>: The software must be validated to ensure that <mark style="background: #FFB8EBA6;">it does what the customer wants.</mark> 
+ 3.**Software validation**: The software must be validated to ensure that <u> it does what the customer wants</u>. 
  
- 4.<mark style="background: #FFB86CA6;">**Software evolution**</mark>: The software <mark style="background: #FFB8EBA6;">must evolve to meet changing client needs</mark>.
+ 4.**Software evolution**: The software must evolve to meet changing client needs.
 
 ==S.D.V.E==
 ## The Software Process Model
 
-A **Software Process Model** is a <mark style="background: #FFB8EBA6;">structured approach to software development that defines the processes, activities, and tasks involved in building software</mark>. It provides a framework for planning, organizing, and managing software development projects.
+A software process model is a specified definition of a software process, which is presented from a particular perspective. 
 
 Process models may contain activities, which are part of the software process, software product, and the roles of people involved in software engineering
 

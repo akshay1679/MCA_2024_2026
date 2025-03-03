@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "10f53691e065e918",
+        "id": "93ffb74debeac743",
         "type": "tabs",
         "children": [
           {
-            "id": "d67893880480d913",
+            "id": "8c225005e20dbe7d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "sem_2/Deep_learning/Drawing 2025-02-16 16.08.05.excalidraw.md"
+                "file": "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-16 16.08.05.excalidraw"
+              "icon": "lucide-file",
+              "title": "Software Engineering and Design Patterns"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5086555480957
+    "width": 259.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a7afa5ab8a0baa9e",
@@ -159,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,54 +182,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d67893880480d913",
+  "active": "8c225005e20dbe7d",
   "lastOpenFiles": [
+    "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.sync-conflict-20250303-075241-NMDLGVH.md",
+    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.md",
+    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.pdf",
+    "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.pdf",
+    "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.md",
+    "MCA_2024-2026/courses/cs50AI/notes/week_0.md",
+    "cs50_AI_project.md",
+    "one month planning 26 feb.md",
+    "Excalidraw/Drawing 2025-02-26 13.01.40.excalidraw.md",
+    "Pasted image 20250226130909.png",
+    "Pasted image 20250226130555.png",
+    "Excalidraw/Drawing 2025-02-26 13.01.32.excalidraw.md",
+    "Unit 1.1 Machine learning.webp",
+    "sem_2/Machine_learning/lab",
+    "sem_2/Machine_learning/WhatsApp Image 2025-02-24 at 7.21.36 AM.jpeg",
+    "sem_2/Machine_learning/Unit 1.1/pasted_image",
+    "sem_2/Software_engineering/Pasted image 20250209121657.png",
+    "sem_2/Software_engineering/Syllabus.pdf",
+    "sem_2/Software_engineering/Syllabus.md",
+    "seminar.md",
+    "README.md",
+    "sem_2/Software_engineering/pasted_image/UNIT-1 1.webp",
+    "sem_2/Software_engineering/pasted_image/Software-Development-Life-Cycle.png",
+    "sem_2/Software_engineering/pasted_image/UNIT-1.webp",
+    "All hash tag and keys.md",
+    "Bios.md",
+    "sem_2/Machine_learning/unit 1/pasted_image/Pasted image 20250225195949.png",
+    "sem_2/Machine_learning/unit 1/pasted_image/Unit 1Machine Learning.webp",
+    "sem_2/Machine_learning/unit 1/pasted_image",
+    "sem_2/Deep_learning/module1/Introduction/machine learning.md",
+    "sem_2/Machine_learning/Unit 1.2/Unit 1.2 Machine learning.md",
+    "sem_2/Machine_learning/Unit 1.2/Unit 1.2 Machine learning.pdf",
+    "sem_2/Machine_learning/Unit 1.2",
+    "sem_2/Machine_learning/Unit 1.1",
+    "Excalidraw/Drawing 2025-02-25 19.56.41.excalidraw.md",
     "sem_2/Deep_learning/Deep lerning.md",
     "sem_2/Deep_learning/Drawing 2025-02-16 16.08.05.excalidraw.md",
-    "sem_2/Deep_learning/Classification.md",
-    "sem_2/Deep_learning/ANN.md",
-    "MCA_2024-2026/courses/cs50w/Week_0/Untitled 1.md",
-    "MCA_2024-2026/courses/cs50w/Week_0",
-    "sem_2/Software_engineering/UNIT-1/UNIT-1.pdf",
-    "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.md",
-    "sem_2/Software_engineering/Syllabus.pdf",
-    "sem_2/Software_engineering/Drawing 2025-02-09 08.24.16.excalidraw.md",
-    "sem_2/Software_engineering/pasted_image/Pasted image 20250209121657.png",
-    "sem_2/Software_engineering/UNIT-1",
-    "sem_2/Software_engineering/pasted_image",
-    "sem_2/Software_engineering/pasted_image/Pasted image 20250209121717.jpg",
-    "sem_2/Software_engineering/pasted_image/Pasted image 20250209121730.jpg",
-    "sem_2/Software_engineering/XP.pdf",
-    "sem_2/Software_engineering/UNIT-2-Process Models.pdf",
-    "README.md",
-    "Bios.md",
-    "All hash tag and keys.md",
     "sem_2/Deep_learning/Training Data set.md",
     "sem_2/Deep_learning/Testing Data set.md",
     "sem_2/Deep_learning/Regression.md",
-    "sem_2/Deep_learning/pasted_image/Unsupervised-learning.png",
-    "sem_2/Deep_learning/pdf/03 Gradient Descent.pdf",
-    "sem_2/Deep_learning/pasted_image/regression.png",
-    "sem_2/Deep_learning/pdf",
-    "sem_2/Deep_learning/pasted_image/Getting-started-with-Classification.png",
-    "sem_2/Deep_learning/pasted_image/classification-1.png",
-    "sem_2/Deep_learning/pdf/06 CNN.pdf",
-    "sem_2/Deep_learning/pasted_image/Pasted Image 20250217063822_717.png",
-    "sem_2/Deep_learning/pasted_image/Pasted Image 20250217063833_198.png",
-    "sem_2/Deep_learning/pasted_image/Pasted Image 20250217063845_260.png",
-    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_rough_note.md",
-    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_note.md",
-    "Excalidraw/Drawing 2025-01-31 07.40.06.excalidraw.md",
+    "sem_2/Deep_learning/Classification.md",
+    "sem_2/Deep_learning/ANN.md",
+    "sem_2/Machine_learning/unit 1",
+    "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.md",
+    "sem_2/Software_engineering/core.md",
     "sem_2/Software_engineering/Scrum.md",
-    "sem_2/Deep_learning/module1/Introduction/DL_notes_intro.md",
-    "sem_2/Deep_learning/module1/Introduction/machine learning.md",
-    "MCA_2024-2026/icpc/Word.md",
-    "MCA_2024-2026/icpc/Hulk.md",
-    "MCA_2024-2026/icpc/Boy or Girl.md",
-    "MCA_2024-2026/icpc/Watermelon.md",
-    "MCA_2024-2026/icpc/Translation.md",
-    "2d to 3d.md",
-    "Unit-1.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",

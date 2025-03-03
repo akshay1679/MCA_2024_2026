@@ -69,3 +69,6 @@ Example of cost function: Mean squared error , Cross-entropy loss (log loss)
 
  The key calculation involves calculating the gradients for each weight and bias in the network.
 
+
+
+

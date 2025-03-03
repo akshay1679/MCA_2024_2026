@@ -10,11 +10,14 @@
 - **Agent**
 	
     An entity that perceives its environment and acts upon that environment. 
+eg:
     In a navigator app, for example, the agent would be a representation of a car that needs to decide on which actions to take to arrive at the destination.
 
 - **State**
 
-	A configuration of an agent in its environment. For example, in a 15 puzzle, a state is any one way that all the numbers are arranged on the board.
+	A configuration of an agent in its environment. 
+	eg:
+	For example, in a 15 puzzle, a state is any one way that all the numbers are arranged on the board.
 
 
 - **Actions**
