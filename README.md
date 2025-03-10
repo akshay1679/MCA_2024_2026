@@ -10,3 +10,4 @@ c
 cpp
 r
 ai ml
+#linux_comands

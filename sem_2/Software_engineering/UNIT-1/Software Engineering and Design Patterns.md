@@ -111,11 +111,21 @@ A **Software Process Model** is a <mark style="background: #FFB8EBA6;">structure
 
 Process models may contain activities, which are part of the software process, software product, and the roles of people involved in software engineering
 
-1. **The waterfall approach:** This takes the above activities and produces them as separate process phases such as requirements specification, software design, implementation, testing, and so on. 
-2. **Evolutionary development:** This method interleaves the activities of specification, development, and validation. An initial system is rapidly developed from a very abstract specification. 
-3. **Formal transformation:** This method is based on producing a formal mathematical system specification and transforming this specification, using mathematical methods to a program. These transformations are 'correctness preserving.' This means that you can be sure that the developed programs meet its specification. 
-4. **System assembly from reusable components:** This method assumes the parts of the system already exist. The system development process target on integrating these parts rather than developing them from scratch
 
+1. **Waterfall Approach** – The development process happens step by step, like a staircase. First, you 
+	1. gather requirements, 
+	2. then design the system, 
+	3. write the code, test it, 
+	4. and finally deploy it. 
+	Each step must be completed before moving to the next.
+    
+2. **Evolutionary Development** –<mark style="background: #FFB8EBA6;"> Instead of finishing everything in one go, the software is built and improved gradually</mark>. 
+	1. A basic version is made quickly, 
+	2. and then features are added and refined over time based on feedback.
+    
+3. **Formal Transformation** – The software is created using mathematical rules to ensure it is 100% correct. The specifications are written in a precise mathematical form, and then they are converted into a working program step by step.
+    
+4. **System Assembly from Reusable Components** – Instead of building everything from scratch, existing software components are combined to create a new system, like assembling a puzzle using pre-made pieces.
 ## Software Crisis
 
 1.**Size**: Software is becoming more expensive and more complex with the growing complexity and expectation out of software. For example, the ==code in the consumer product is doubling every couple of years==. 
