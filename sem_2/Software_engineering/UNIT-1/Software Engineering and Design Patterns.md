@@ -6,7 +6,7 @@ Software is defined as a collection of ==programs==, ==procedures==, ==documenta
  A Software consists of data and the related documents.
  The Institute of Electrical and Electronic Engineers (IEEE) defines software as a ‘collection of computer programs, procedures, rules and associated documentation and data
 
- ==Software Engineering== is a systematic, disciplined, quantifiable study and approach to the design, development, operation, and maintenance of a software system.
+ ==Software Engineering== is a <mark style="background: #FFB8EBA6;">systematic, disciplined, quantifiable study and approach to the design, development, operation, and maintenance of a software system.</mark>
  
  Software engineering is a **systematic**  and **disciplined** approach towards the development of the software operation +and maintenance.
 
@@ -15,8 +15,8 @@ S D
 
 1.  manage Large software 
 2.  Scalability 
-3.  Cost Manage                                                          MSQ
-4.  manage dynamic nature of software 
+3.  Cost Manage                                                          MSCDQ
+4.  manage <mark style="background: #FFB8EBA6;">dynamic nature</mark> of software 
 5.  better quality
 
 
@@ -27,8 +27,8 @@ S D
 9. **Reusability** – A software product has good reusability if the different modules of the product can easily be reused to develop new products.0
 10. **Testability** – Here software facilitates both the ==establishment== of test criteria and the evaluation of the software with respect to those criteria. 
 11. **Reliability** – It is an attribute of software quality. <mark style="background: #FF5582A6;">The extent to which a program can be expected to perform its desired function,</mark> over an arbitrary time period. 
-12. **Portability** – In this case, the software can be transferred from one computer system or environment to another. 
-13. **Adaptability** – In this case, the software allows differing system constraints and the user needs to be satisfied by making changes to the software. 
+12. **Portability** – In this case, the software can be transferred from one computer system or environment to another. <mark style="background: #FFB8EBA6;">env change</mark>
+13. **Adaptability** – In this case, the software allows differing system constraints and the user needs to be satisfied by making changes to the software.  <mark style="background: #FFB8EBA6;">new env adaptable</mark>
 14. **Interoperability** – Capability of 2 or more functional units to process data cooperatively.
 
 ==M E C R T R P A I==
@@ -89,7 +89,7 @@ A program is one of the stages involved in the development of the software, wher
 ![[UNIT-1.webp]]
 
 
-## Software Processes
+## Software Processes   <mark style="background: #FF5582A6;">not needed</mark>
 
   A software process is the set of ==activities== and ==associated outcome== that produce a software product. Software engineers mostly carry out these activities. These are four key process activities, which are common to all software processes. These activities are: 
  
@@ -113,10 +113,10 @@ Process models may contain activities, which are part of the software process, s
 
 
 1. **Waterfall Approach** – The development process happens step by step, like a staircase. First, you 
-	1. gather requirements, 
-	2. then design the system, 
-	3. write the code, test it, 
-	4. and finally deploy it. 
+	1. gather <mark style="background: #ABF7F7A6;">requirements</mark>, 
+	2. then <mark style="background: #ABF7F7A6;">design</mark> the system, 
+	3. write the <mark style="background: #ABF7F7A6;">code</mark>, <mark style="background: #ABF7F7A6;">test</mark> it, 
+	4. and finally <mark style="background: #ABF7F7A6;">deploy</mark> it. 
 	Each step must be completed before moving to the next.
     
 2. **Evolutionary Development** –<mark style="background: #FFB8EBA6;"> Instead of finishing everything in one go, the software is built and improved gradually</mark>. 
@@ -124,20 +124,22 @@ Process models may contain activities, which are part of the software process, s
 	2. and then features are added and refined over time based on feedback.
     
 3. **Formal Transformation** – The software is created using mathematical rules to ensure it is 100% correct. The specifications are written in a precise mathematical form, and then they are converted into a working program step by step.
-    
+
+individual sadanathine points idum ennitte ade add up akkum using maths angane progress check cheyyum
+
 4. **System Assembly from Reusable Components** – Instead of building everything from scratch, existing software components are combined to create a new system, like assembling a puzzle using pre-made pieces.
-## Software Crisis
+## Software Crisis  ==imp==
 
-1.**Size**: Software is becoming more expensive and more complex with the growing complexity and expectation out of software. For example, the ==code in the consumer product is doubling every couple of years==. 
+1.**Size**: Software is becoming bigger and more complicated, making it harder and more expensive to develop. For example, the amount of code in consumer products is doubling every few years.
 
-2.**Quality**: ==Many software products have poor quality==, i.e., the software products defects after putting into use due to ==ineffective testing== technique. For example, Software testing typically finds 25 errors per 1000 lines of code. 
+2.**Quality**: Many software products have bugs or errors due to poor testing. On average, software testing finds 25 errors in every 1,000 lines of code.
 
 3.**Cost**: Software development is costly i.e. in terms of time taken to develop and the money involved. For ==example, Development of the FAA's Advanced Automation System cost over $700 per lines of code==. 
 
-4.**Delayed Delivery**: Serious schedule overruns are common. ==Very often the software takes longer than the estimated time to develop, which in turn leads to cost shooting up==. For example, one in four large-scale development projects is never completed.
+4.**Delayed Delivery**:Many software projects take longer than expected, leading to higher costs. In fact, one out of four large-scale projects is never completed. Serious schedule overruns are common. ==Very often the software takes longer than the estimated time to develop, which in turn leads to cost shooting up==. For example, one in four large-scale development projects is never completed.
 
 ==S.Q.C.DD==
-## Software Engineering - Layered technology
+## Software Engineering - Layered technology  ==imp==
 
  Software engineering is a fully layered technology. 
  To develop a software, we need to go from one layer to another. 
@@ -149,70 +151,72 @@ Process models may contain activities, which are part of the software process, s
 
  The layered technology consists of: 
 
-#### 1 Quality focus (M.I.U)
+#### 1 Quality focus (<mark style="background: #FF5582A6;">M.I.U</mark>)
 
 The characteristics of good quality software are: 
 1. Correctness of the functions required to be performed by the software. 
 2.  ==Maintainability== of the software 
-3.  ==Integrity== i.e. providing security so that the unauthorized user cannot access information or data. 
+3.  ==Integrity== i.e. providing security so that the unauthorized user cannot access information or data. <mark style="background: #FF5582A6;">prevent unauthorized user </mark>
 4. ==Usability== i.e. the efforts required to use or operate the software.
 
 
 
 
-####  2. Process 
+####  2. Process /base layer or foundation layer
 
-1. It is the ==base layer or foundation layer ==for the se. 
-2. The software process is the ==key to keep all levels together==.  
-3. It defines a framework that ==includes different activities and tasks==.  
+1. It is the base layer or foundation layer for the se. 
+2. The software process is the key to keep all levels together.  
+3. It defines a framework that includes different activities and tasks.  
 4. In short, ==it covers all activities, actions and tasks required to be carried out for software development==.
 
 
 ####  3. Methods 
 
-1. The method provides the answers of all 'how-to' that are asked during the process. 
-2. It provides the technical way to implement the software. 
-3. It includes collection of tasks starting from communication, requirement analysis, analysis and design modelling, program construction, testing and support.
+1. The method provides the answers of all '==how-to==' that are asked during the process. 
+2. It provides the ==technical way to implement the software==. 
+3. It includes collection of tasks starting from communication, requirement analysis, analysis and design modelling, program construction, testing and support.(==sdlc==)
 
 
 
 #### 4. Tools 
 1. The software engineering tool is an automated support for the software development.
-2. The tools are integrated i.e the information created by one tool can be used by the other tool. 
- For example: The Microsoft publisher can be used as a web designing tool.
+2. The <mark style="background: #FFB8EBA6;">tools are integrated </mark>i.e the information created by one tool can be used by the other tool. 
+ For example: The <mark style="background: #FFB8EBA6;">Microsoft publisher can be used as a web designing tool</mark>.
 
-## Software Process Framework 
+## Software Process Framework ==imp==
 
  The process of framework defines a small set of activities that are applicable to all types of projects.  The software process framework is a collection of task sets.  Task sets consist of a collection of small work tasks, project milestones, work productivity and software quality assurance points.
 
-## Umbrella activities 
+## Umbrella activities ==imp==
 
  Typical umbrella activities are: 
-1. Software project tracking and control 
-	1.  In this activity, the developing team accesses project plan and compares it with the predefined schedule. 
-	2.  If these project plans do not match with the predefined schedule, then the required actions are taken to maintain the schedule. 
-2. Risk management 
-	1.  Risk is an event that may or may not occur. 
-	2.  If the event occurs, then it causes some unwanted outcome. Hence, proper risk management is required.
-3. Software Quality Assurance (SQA) 
-	1.  SQA is the planned and systematic pattern of activities which are required to give a guarantee of software quality. For example, during the software development meetings are conducted at every stage of development to find out the defects and suggest improvements to produce good quality software. 
-4. Formal Technical Reviews (FTR) 
-	2.  FTR is a meeting conducted by the technical staff. 
-	3.  The motive of the meeting is to detect quality problems and suggest improvements. 
-	4.  The technical person focuses on the quality of the software from the customer point of view.  
-5. Measurement 
+<mark style="background: #FFB8EBA6;">1. Software project tracking and control </mark>
+	1.  In this activity, the developing team accesses project plan and compares it with the predefined schedule.  ==tracking==
+	2.  If these project plans do not match with the predefined schedule, then the required actions are taken to maintain the schedule.  ==control==
+<mark style="background: #FFB8EBA6;">2. Risk management </mark>
+	3.  Risk is an event that may or may not occur. 
+	4.  ==If the event occurs, then it causes some unwanted outcome.== Hence, ==proper risk management is required.==
+	
+<mark style="background: #FFB8EBA6;">3. Software Quality Assurance (SQA) </mark>
+		1.  SQA is the planned and systematic pattern of activities which are required to give a guarantee of software quality. ==For example, during the software development meetings are conducted at every stage of development to find out the defects and suggest improvements== to produce good quality software.  similar to scrum meeting
+<mark style="background: #FFB8EBA6;">4. Formal Technical Reviews (FTR) </mark>
+		2.  FTR is a meeting conducted by the ==technical staff==. 
+		3.  The motive of the meeting is to detect quality problems and suggest improvements. 
+		4.  The ==technical person focuses on the quality== of the software from the customer point of view.  
+5. <mark style="background: #FFB8EBA6;">Measurement</mark> 
 	1.  Measurement consists of the effort required to measure the software. 
 	2.  The software cannot be measured directly. It is measured by direct and indirect measures. 
-	3.  Direct measures like cost, lines of code, size of software etc. 
-	4.  Indirect measures such as quality of software which is measured by some other factor. Hence, it is an indirect measure of software.  
-6. Software Configuration Management (SCM) 
-	1.  It manages the effect of change throughout the software process.  
-7. Reusability management 
-	1.  It defines the criteria for reuse the product. 
-	2.  The quality of software is good when the components of the software are developed for certain application and are useful for developing other applications.  
-8. Work product preparation and production 
-	1.  It consists of the activities that are needed to create the documents, forms, lists, logs and user manuals for developing a software. 
-	2.  A software process is a collection of various activities.
+	3.  **Direct measures** like ==cost, lines of code, size of software== etc. 
+	4.  **Indirect measures** such as ==quality of software== which is measured by some other factor. Hence, it is an indirect measure of software.  
+<mark style="background: #FFB8EBA6;">6. Software Configuration Management (SCM) </mark>
+		1.  It manages the effect of change throughout the software process.
+==2. ooro stages ile changes manage cheyyunnade==
+<mark style="background: #FFB8EBA6;">7. Reusability management </mark>		2. ooro stages ile changes manage cheyyunnade
+		2.  It defines the criteria for reuse the product. 
+		3.  The quality of software is good when the components of the software are developed for certain application and are useful for developing other applications.  
+<mark style="background: #FFB8EBA6;">8. Work product preparation and production </mark>
+	5.  It consists of the activities that are needed to create the ==documents, forms, lists, logs and user manuals for developing a software.== 
+	6.  A software process is a collection of various activities.
 
 
 There are five generic process framework activities: 
@@ -224,12 +228,15 @@ There are five generic process framework activities:
 
 ---
 1. Communication: 
-	1. The software development starts with the communication between customer and developer. 
+	1. The software development starts with the ==communication between customer and developer==. 
 2. Planning: 
-	1. It consists of complete estimation, scheduling for project development and tracking. 
+	1. It consists of complete 
+		1. estimation, 
+		2. scheduling for project development and 
+		3. tracking. 
 3. Modeling: 
 	1. -  Modeling consists of complete requirement analysis and the design of the project like algorithm, flowchart etc. -  The algorithm is the step-by-step solution of the problem and the flow chart shows a complete flow diagram of a program. -  
-4. Construction: -  
+4. Construction:   
 	1. Construction consists of code generation and the testing part. -  Coding part implements the design details using an appropriate programming language. -  Testing is to check whether the flow of coding is correct or not. -  Testing also check that the program provides desired output. -  
 5. Deployment: 
 	2. -  Deployment step consists of delivering the product to the customer and take feedback from them. -  If the customer wants some corrections or demands for the additional capabilities, then the change is required for improvement in the quality of the software.
@@ -243,7 +250,57 @@ There are five generic process framework activities:
 -  During any life cycle stage, more than one activity may also be carried out.
 
 ## Need of SDLC 
--  Without using an exact life cycle model, the development of a software product would not be in a systematic and disciplined manner. When a team is developing a software product, there must be a clear understanding among team representative about when and what to do. 
--  A software life cycle model describes entry and exit criteria for each phase. A phase can begin only if its stage-entry criteria have been fulfilled. So without a software life cycle model, the entry and exit criteria for a stage cannot be recognized. Without software life cycle models, it becomes tough for software project managers to monitor the progress of the project
+-  Without using an exact life cycle model, the development of a software product <mark style="background: #FFB8EBA6;">would not be in a systematic and disciplined manner</mark>. When a team is developing a software product, there must be a clear understanding among team representative about when and what to do. 
+-  A software==life cycle model describes entry and exit criteria for each phase==. A phase can begin only if its stage-entry criteria have been fulfilled. So without a software life cycle model, the entry and exit criteria for a stage cannot be recognized. Without software life cycle models, it becomes tough for software project managers to monitor the progress of the project
 
 ![[Software-Development-Life-Cycle.png]]
+
+### **Software Development Life Cycle (SDLC) Stages**
+
+#### **1. Planning and Requirement Analysis**
+
+- This is the most crucial stage in the SDLC.
+- Senior team members perform requirement analysis with input from ==stakeholders== and domain experts.
+- ==Quality assurance planning and risk identification are conducted.==
+- Business analysts and project organizers hold meetings with clients to gather data about the product, its objectives, and the end users.
+
+#### **2. Defining Requirements**
+
+- ==After analyzing requirements==, the next step is to ==document them formally==.
+- The Software Requirement Specification ==(SRS)== document is created, detailing all necessary product requirements.
+- Stakeholders must approve the SRS before proceeding.
+
+#### **3. Designing the Software**
+
+- This phase involves converting ==requirements into a structured design.==
+- The design is based on inputs from requirement gathering and customer feedback.
+- Architectural==, high-level, and detailed designs are created== to guide development.
+
+#### **4. Developing the Project**
+
+- The actual coding process begins in this phase.
+- Developers write code following coding guidelines and best practices.
+- Programming tools such as compilers, interpreters, and debuggers are used for implementation.
+
+#### **5. Testing**
+
+- Once the code is generated, it undergoes various tests to ensure it meets the requirements.
+- Testing phases include:
+    - **Unit Testing** – Testing individual components.
+    - **Integration Testing** – Ensuring different modules work together.
+    - **System Testing** – Testing the complete system for compliance with requirements.
+    - **Acceptance Testing** – Verifying the product with end users.
+
+#### **6. Deployment**
+
+- Once the software is certified as bug-free, it is deployed.
+- The software may be released as is or with suggested enhancements.
+- Deployment marks the beginning of user accessibility and feedback collection.
+
+#### **7. Maintenance**
+
+- After deployment, real-world issues may arise that require resolution.
+- Maintenance includes bug fixes, updates, and feature enhancements.
+- This phase ensures the software remains functional and efficient over time.
+
+This structured approach ensures a smooth development process, resulting in high-quality software. 🚀

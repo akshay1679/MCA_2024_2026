@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25ba9d65fbcbd850",
+        "id": "afd00d1c01fa978f",
         "type": "tabs",
         "children": [
           {
-            "id": "c4cee5def19c86f9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.pdf",
-                "page": 11,
-                "left": -28,
-                "top": 133,
-                "zoom": 0.5671875
-              },
-              "icon": "lucide-file-text",
-              "title": "Unit 1_Machine Learning"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b11e2779449d6da4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0720a64b90a89a8f",
+            "id": "19d83269cfa793d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.md",
+                "file": "sem_2/Deep_learning/ANN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit 1_Machine Learning"
+              "title": "ANN"
             }
           }
         ]
@@ -100,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5026054382324,
-    "collapsed": true
+    "width": 259.5026054382324
   },
   "right": {
     "id": "a7afa5ab8a0baa9e",
@@ -204,53 +181,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0720a64b90a89a8f",
+  "active": "22cb213078b520f9",
   "lastOpenFiles": [
-    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.pdf",
-    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.md",
-    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.sync-conflict-20250310-165102-NMDLGVH.md",
-    "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.pdf",
-    "sem_2/Deep_learning/module1/Introduction/machine learning.md",
-    "sem_2/Machine_learning/Unit 1.2/Unit 1.2 Machine learning.pdf",
-    "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.md",
-    "sem_2/big data/ECard_EmpID_40231017 (3) (1).pdf",
-    "sem_2/big data/NoSQL_Dist - Distribution Models and Consistency.pdf",
-    "sem_2/big data/HADOOP- Big Data overview and Solutions.pdf",
-    "sem_2/big data/FBDA UNIT-3.pdf",
-    "sem_2/big data/ECard_EmpID_40231017 (3).pdf",
-    "sem_2/big data/CSE545 sp23 (1) What is Big Data 1-29.pdf",
-    "sem_2/big data/CS8091-BIGDATA-ANALYTICS-QUESTION-BANK_watermark.pdf",
-    "sem_2/big data/FBDA UNIT-3/FBDA UNIT-3.md",
-    "Untitled.md",
-    "Cloud and Data.md",
+    "sem_2/Deep_learning/lab",
+    "sem_2/Deep_learning/Regression.md",
+    "sem_2/Software_engineering/UNIT-2-Process Models.pdf",
+    "Highlights for UNIT-2-Process Models.md",
+    "UNIT-2-Process Models.md",
+    "UNIT-2-Process Models.webp",
+    "sem_2/Software_engineering/UNIT-1/UNIT-1.pdf",
+    "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.md",
+    "UNIT-1 1.webp",
+    "UNIT-1.webp",
     "sem_2/big data/Fraud and Big Data/Fraud and Big Data.md",
+    "sem_2/big data/Fraud and Big Data/Fraud and Big Data.pdf",
+    "Cloud_and_Data.md",
+    "sem_2/big data/bda syllabus.md",
+    "sem_2/big data/FBDA UNIT-3/FBDA UNIT-3.pdf",
+    "sem_2/big data/Cloud and Data/Cloud and Data.pdf",
+    "Cloud and Data.md",
+    "sem_2/big data/CH1PPT3/CH1PPT3.pdf",
+    "CH1PPT3.md",
     "sem_2/big data/CH1PPT3/CH1PPT3.md",
     "sem_2/big data/CH1PPT2/CH1PPT2.md",
+    "CH1PPT2 1.webp",
+    "sem_2/big data/CH1PPT2/CH1PPT2.pdf",
+    "CH1PPT2.webp",
+    "sem_2/big data/CH1PPT1/CH1PPT1.pdf",
     "sem_2/big data/CH1PPT1/CH1PPT1.md",
-    "linux comands.md",
-    "README.md",
-    "cs50_AI_project.md",
-    "target.md",
-    "python_practice.md",
-    "Unit 1_Machine Learning.webp",
-    "one month planning 26 feb.md",
-    "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.md",
-    "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.sync-conflict-20250303-075241-NMDLGVH.md",
-    "MCA_2024-2026/courses/cs50AI/notes/week_0.md",
-    "Excalidraw/Drawing 2025-02-26 13.01.40.excalidraw.md",
-    "Pasted image 20250226130909.png",
-    "Pasted image 20250226130555.png",
-    "Excalidraw/Drawing 2025-02-26 13.01.32.excalidraw.md",
-    "Unit 1.1 Machine learning.webp",
-    "sem_2/Machine_learning/WhatsApp Image 2025-02-24 at 7.21.36 AM.jpeg",
-    "sem_2/Software_engineering/Pasted image 20250209121657.png",
-    "sem_2/Software_engineering/Syllabus.md",
+    "sem_2/Machine_learning/Unit 1.2 Machine learning.md",
+    "sem_2/Machine_learning/pasted_image/Unit 1_Machine Learning 1.webp",
+    "Untitled 1.md",
+    "sem_2/Machine_learning/pasted_image/Unit 1_Machine Learning.webp",
     "seminar.md",
-    "sem_2/Software_engineering/pasted_image/UNIT-1 1.webp",
-    "sem_2/Software_engineering/pasted_image/Software-Development-Life-Cycle.png",
-    "sem_2/Software_engineering/pasted_image/UNIT-1.webp",
-    "All hash tag and keys.md",
-    "sem_2/Machine_learning/unit 1/pasted_image/Pasted image 20250225195949.png",
+    "target.md",
+    "README.md",
+    "python_practice.md",
+    "linux comands.md",
+    "one month planning 26 feb.md",
+    "cs50_AI_project.md",
+    "sem_2/Machine_learning/brain_map_Unit 1.1 Machine learning.md",
+    "sem_2/Machine_learning/pasted_image/Pasted image 20250226130555.png",
+    "sem_2/Machine_learning/pasted_image/Pasted image 20250226130909.png",
+    "sem_2/Machine_learning/pasted_image",
+    "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.pdf",
+    "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.md",
+    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.md",
+    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.sync-conflict-20250310-165102-NMDLGVH.md",
+    "Unit 1.1 Machine learning.webp",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",

@@ -34,7 +34,6 @@ To **process this BD**, <mark style="background: #FF5582A6;">Twitter</mark> uses
 
 
 ---
--  **Driving business strategies**: leveraging big data to gain competitive advantage to make data-driven decisions that drive growth, increase operational efficiency, and enhance customer satisfaction. 
 
 -  **Enhancing decision making**: enables proactive decision-making, helping businesses stay ahead of the curve and adapt to changing market dynamics. 
 
@@ -48,6 +47,9 @@ BD plays a crucial role in today’s digital world, helping businesses and organ
 ---
 
 ## **1. Driving Business Strategies**
+
+-  **Driving business strategies**: <mark style="background: #ABF7F7A6;">leveraging big data to gain competitive advantage to make data-driven decisions </mark>that drive growth, increase operational efficiency, and enhance customer satisfaction. 
+
 
 🔹 **Competitive Advantage** – Companies use BD to understand <mark style="background: #ABF7F7A6;">market trends</mark> and stay ahead of competitors.  
 🔹 **Data-Driven Decisions** – Instead of relying on guesswork, <mark style="background: #ABF7F7A6;">businesses analyze data to improve performance.</mark>
