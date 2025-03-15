@@ -86,7 +86,7 @@ A program is one of the stages involved in the development of the software, wher
     - **==Microwaves==**
     - **Industrial control systems**
 
-![[UNIT-1.webp]]
+![[UNIT-1 2.webp]]
 
 
 ## Software Processes   <mark style="background: #FF5582A6;">not needed</mark>
@@ -145,7 +145,7 @@ individual sadanathine points idum ennitte ade add up akkum using maths angane p
  To develop a software, we need to go from one layer to another. 
  All these layers are related to each other and each layer demands the fulfillment of the previous layer.
 
-![[UNIT-1 1.webp]]
+![[UNIT-1 1 1.webp]]
 
 
 
