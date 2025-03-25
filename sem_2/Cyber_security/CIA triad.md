@@ -49,7 +49,7 @@ Example: A cloud storage service maintains multiple redundant servers so users c
 
 Refers to ==verifying that users==, devices, or data sources are genuine and trustworthy.
 
-Ensures that an entity (user, system, or process) is who they claim to be.
+==Ensures that an entity (user, system, or process) is who they claim to be.==
 
 ==Prevents identity spoofing, fraud, or unauthorized access==.
 

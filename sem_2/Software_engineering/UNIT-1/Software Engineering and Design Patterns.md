@@ -21,17 +21,29 @@ S D
 
 
  Objectives of Software Engineering: 
-6. **Maintainability** – It should be feasible for the software to evolve to meet changing requirements. 
-7. **Efficiency** – The software should not make wasteful use of computing devices such as memory, processor cycles, etc. 
-8. **Correctness** – A software product is correct if the different requirements as specified in the SRS document have been ==correctly implemented==. 
-9. **Reusability** – A software product has good reusability if the different modules of the product can easily be reused to develop new products.0
-10. **Testability** – Here software facilitates both the ==establishment== of test criteria and the evaluation of the software with respect to those criteria. 
-11. **Reliability** – It is an attribute of software quality. <mark style="background: #FF5582A6;">The extent to which a program can be expected to perform its desired function,</mark> over an arbitrary time period. 
-12. **Portability** – In this case, the software can be transferred from one computer system or environment to another. <mark style="background: #FFB8EBA6;">env change</mark>
-13. **Adaptability** – In this case, the software allows differing system constraints and the user needs to be satisfied by making changes to the software.  <mark style="background: #FFB8EBA6;">new env adaptable</mark>
-14. **Interoperability** – Capability of 2 or more functional units to process data cooperatively.
+ 
+1.  **Portability** – In this case, the software can be transferred from one computer system or environment to another. <mark style="background: #FFB8EBA6;">env change</mark>
 
-==M E C R T R P A I==
+2. **Maintainability** – It should be feasible for the software to <mark style="background: #FFB8EBA6;">evolve to meet changing requirements</mark>. 
+
+3. **Efficiency** – The software should not make wasteful use of computing devices such as memory, processor cycles, etc. 
+
+4. **Correctness** – A software product is correct if the different requirements as specified in the SRS document have been ==correctly implemented==. 
+
+5. . **Adaptability** – In this case, the software allows differing system constraints and the user needs to be satisfied by making changes to the software.  <mark style="background: #FFB8EBA6;">new env adaptable</mark>
+
+6. **Reusability** – A software product has good reusability if the different modules of the product can easily be reused to develop new products.0
+
+7. **Testability** – Here software facilitates both the ==establishment== of test criteria and the evaluation of the software with respect to those criteria. 
+
+8.  **Interoperability** – Capability of 2 or more functional units to process data cooperatively.
+
+9. **Reliability** – It is an attribute of software quality. <mark style="background: #FF5582A6;">The extent to which a program can be expected to perform its desired function,</mark> over an arbitrary time period. 
+
+
+
+
+==P . M E C A R T  I R==
 
 ##  Program vs Software Product:
 

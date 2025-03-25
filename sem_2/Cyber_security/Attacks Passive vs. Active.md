@@ -68,7 +68,7 @@ Phishing & Social Engineering – Tricking users into revealing sensitive inform
 👉 Prevention Measures:
 ✅ ==Firewalls== and Intrusion Detection Systems (IDS/IPS).
 ✅ ==Strong authentication== and session encryption.
-✅ Regular security updates and patch management.
+✅ ==Regular security updates== and patch management.
 ✅ Web application security (WAF, secure coding practices).
 ✅ Employee awareness and phishing protection.
 
@@ -82,7 +82,7 @@ Phishing & Social Engineering – Tricking users into revealing sensitive inform
 
 Conclusion
 
-Both passive and active attacks pose serious threats to network security and data integrity. Implementing strong encryption, authentication mechanisms, firewalls, IDS/IPS, and employee training can help mitigate these risks.
+==Both passive and active attacks pose serious threats to network security and data integrity. Implementing strong encryption, authentication mechanisms, firewalls, IDS/IPS, and employee training can help mitigate these risks.==
 
 Would you like deeper insights into any specific attack types or security measures? 🚀
 

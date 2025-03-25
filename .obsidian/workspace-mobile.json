@@ -4,40 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "d6df9c8c46872b53",
+        "id": "105c0a9fe7032924",
         "type": "tabs",
         "children": [
           {
-            "id": "ef8aaf35a466c0f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAD"
-            }
-          },
-          {
-            "id": "5e5b9e80a564c63d",
+            "id": "5c00b8c7d619a2a5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem_2/Software_engineering/UNIT-2-Process Models.pdf",
-                "page": 20,
+                "file": "sem_2/DAA/DAA-Lect 1.pdf",
+                "page": 1,
                 "left": 0,
-                "top": 256,
+                "top": 252,
+                "zoom": 0.4166666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "DAA-Lect 1"
+            }
+          },
+          {
+            "id": "745d6de19494103a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem_2/Software_engineering/Requirement Analysis/UNIT-2 Requirement Analysis.pdf",
+                "page": 2,
+                "left": 0,
+                "top": 351,
                 "zoom": 0.3125
               },
               "icon": "lucide-file-text",
-              "title": "UNIT-2-Process Models"
+              "title": "UNIT-2 Requirement Analysis"
+            }
+          },
+          {
+            "id": "52e14656c52c5692",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem_2/DAA/DAA-Lect 2.pdf",
+                "page": 14,
+                "left": 0,
+                "top": 117,
+                "zoom": 0.4166666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "DAA-Lect 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RAD.md",
+            "file": "sem_2/Software_engineering/Requirement Analysis/UNIT-2 Requirement Analysis.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,24 +190,33 @@
       "whisper:Open recording controls": false
     }
   },
-  "active": "ef8aaf35a466c0f4",
+  "active": "745d6de19494103a",
   "lastOpenFiles": [
+    "sem_2/Software_engineering/models/Prototype.md",
+    "sem_2/Software_engineering/Syllabus.md",
+    "sem_2/Software_engineering/core.md",
+    "sem_2/Software_engineering/UNIT-2/Design Engineering/UNIT-2 Design Engineering.pdf",
+    "sem_2/Cyber_security/Encryption -Symmetric vs. Asymmetric Methods.md",
+    "sem_2/Cyber_security/CIA triad.md",
+    "sem_2/Cyber_security/Attacks Passive vs. Active.md",
+    "sem_2/Cyber_security/Web Security , TLS Protocol.md",
+    "sem_2/Cyber_security/Malware Definition, Types, Case Studies & Prevention.md",
+    "sem_2/Cyber_security/Vulnerabilities, Threats, and Attacks – How They Are Related.md",
+    "sem_2/DAA/DAA_2.md",
+    "sem_2/DAA/DAA.md",
+    "sem_2/DAA/DAA-Lect 2.pdf",
+    "Untitled.md",
+    "sem_2/DAA/Pasted images",
+    "sem_2/DAA/DAA-Lect 1.pdf",
     "sem_2/Software_engineering/UNIT-2-Process Models.pdf",
     "RAD.md",
     "Waterfall Model.md",
     "sem_2/Software_engineering/Scrum.md",
     "Prototype.md",
     "Cloud_and_Data.md",
-    "sem_2/Cyber_security/Web Security , TLS Protocol.md",
     "Web Security & TLS Protocol.md",
-    "sem_2/Cyber_security/Vulnerabilities, Threats, and Attacks – How They Are Related.md",
-    "sem_2/Cyber_security/Malware Definition, Types, Case Studies & Prevention.md",
-    "sem_2/Cyber_security/Encryption -Symmetric vs. Asymmetric Methods.md",
-    "sem_2/Cyber_security/Attacks Passive vs. Active.md",
-    "sem_2/Cyber_security/CIA triad.md",
     "sem_2/Software_engineering/UNIT-1/UNIT-1.pdf",
     "sem_2/Software_engineering/Syllabus.pdf",
-    "sem_2/Software_engineering/Syllabus.md",
     "Excalidraw/Drawing 2025-01-31 07.40.06.excalidraw.md",
     "sem_2/Software_engineering/XP.pdf",
     "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.md",
@@ -196,18 +224,10 @@
     "sem_2/big data/bda syllabus.md",
     "sem_2/Machine_learning/Unit 1.2/Unit 1.2 Machine learning.pdf",
     "sem_2/big data/Cloud and Data/Cloud and Data.pdf",
-    "sem_2/big data/CH1PPT3/CH1PPT3.pdf",
     "sem_2/big data/CH1PPT2/CH1PPT2.md",
     "CH1PPT3.md",
     "sem_2/big data/CH1PPT3/CH1PPT3.md",
-    "sem_2/big data/NoSQL_Dist - Distribution Models and Consistency.pdf",
-    "sem_2/big data/HADOOP- Big Data overview and Solutions.pdf",
-    "sem_2/big data/FBDA UNIT-3.pdf",
     "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.md",
-    "sem_2/big data/CH1PPT1/CH1PPT1.md",
-    "Untitled 2.md",
-    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.sync-conflict-20250310-165102-NMDLGVH.md",
-    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.md",
     "Pasted image 20241223145256.png",
     "Pasted image 20241223145207.png",
     "ad_4nxf7tzbgnr4agwisfup5dsnjdlgr8ljkdagxx3eignuhrtz9wkgnw5zotv4nzcesskhp2kahluoy5v64ka27raez21gk365_3jkpc7qgxjp_d-u9j4sdiiaf_7z1barfpafugokizbrifquazqgep5fgyz0g.avif",

@@ -2,32 +2,32 @@ The Prototype Development Model is a software development approach where a worki
 
 ## Phases of Prototype Development Model:
 
-1. Requirement Gathering – Basic requirements are collected from stakeholders.
+1. ==Requirement Gathering== – Basic requirements are collected from stakeholders.
 
 
-2. Quick Design – A rough design of the system is created.
+2. ==Quick Design== – A rough design of the system is created.
 
 
-3. Prototype Development – A basic working model (prototype) is built.
+3. ==Prototype Development== – A basic working model (prototype) is built.
 
 
-4. User Evaluation – Users review the prototype and provide feedback.
+4. ==User Evaluation== – Users review the prototype and provide feedback.
 
 
-5. Refinement – The prototype is refined based on user feedback.
+5. ==Refinement== – The prototype is refined based on user feedback.
 
 
-6. Final Product Development – Once the prototype is finalized, the actual system is developed.
+6. ==Final Product Development== – Once the prototype is finalized, the actual system is developed.
 
 
 
 ## Advantages:
 
-Helps clarify vague requirements.
+Helps clarify ==vague requirements==.
 
-Early user involvement improves customer satisfaction.
+==Early user involvement improves customer satisfaction==.
 
-Reduces risk by identifying issues early.
+Reduces risk by ==identifying issues early.==
 
 Faster development for complex projects.
 
