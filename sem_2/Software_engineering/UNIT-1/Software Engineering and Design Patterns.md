@@ -142,9 +142,9 @@ individual sadanathine points idum ennitte ade add up akkum using maths angane p
 4. **System Assembly from Reusable Components** – Instead of building everything from scratch, existing software components are combined to create a new system, like assembling a puzzle using pre-made pieces.
 ## Software Crisis  ==imp==
 
-1.**Size**: Software is becoming bigger and more complicated, making it harder and more expensive to develop. For example, the amount of code in consumer products is doubling every few years.
+1.**Size**: Software is ==becoming bigger and more complicated, making it harder and more expensive to develop==. For example, the amount of code in consumer products is doubling every few years.
 
-2.**Quality**: Many software products have bugs or errors due to poor testing. On average, software testing finds 25 errors in every 1,000 lines of code.
+2.**Quality**: Many ==software products have bugs or errors due to poor testing.== On average, software testing finds 25 errors in every 1,000 lines of code.
 
 3.**Cost**: Software development is costly i.e. in terms of time taken to develop and the money involved. For ==example, Development of the FAA's Advanced Automation System cost over $700 per lines of code==. 
 
@@ -163,10 +163,10 @@ individual sadanathine points idum ennitte ade add up akkum using maths angane p
 
  The layered technology consists of: 
 
-#### 1 Quality focus (<mark style="background: #FF5582A6;">M.I.U</mark>)
+#### 1 Quality focus (<mark style="background: #FF5582A6;">C.M.I.U</mark>)
 
 The characteristics of good quality software are: 
-1. Correctness of the functions required to be performed by the software. 
+1. ==Correctness== of the functions required to be performed by the software. 
 2.  ==Maintainability== of the software 
 3.  ==Integrity== i.e. providing security so that the unauthorized user cannot access information or data. <mark style="background: #FF5582A6;">prevent unauthorized user </mark>
 4. ==Usability== i.e. the efforts required to use or operate the software.
@@ -174,7 +174,7 @@ The characteristics of good quality software are:
 
 
 
-####  2. Process /base layer or foundation layer
+####  2. Process /base layer or foundation layer ==AAT==
 
 1. It is the base layer or foundation layer for the se. 
 2. The software process is the key to keep all levels together.  
@@ -298,10 +298,10 @@ There are five generic process framework activities:
 
 - Once the code is generated, it undergoes various tests to ensure it meets the requirements.
 - Testing phases include:
-    - **Unit Testing** – Testing individual components.
-    - **Integration Testing** – Ensuring different modules work together.
-    - **System Testing** – Testing the complete system for compliance with requirements.
-    - **Acceptance Testing** – Verifying the product with end users.
+    - *==*Unit Testing** – Testing individual components.==
+    - ==**Integration Testing** – Ensuring different modules work together.==
+    - ==**System Testing** – Testing the complete system for compliance with requirements.==
+    - ==**Acceptance Testing** – Verifying the product with end users.==
 
 #### **6. Deployment**
 
@@ -312,7 +312,8 @@ There are five generic process framework activities:
 #### **7. Maintenance**
 
 - After deployment, real-world issues may arise that require resolution.
-- Maintenance includes bug fixes, updates, and feature enhancements.
+- Maintenance includes ==bug fixes, updates, and feature enhancements.==
 - This phase ensures the software remains functional and efficient over time.
 
 This structured approach ensures a smooth development process, resulting in high-quality software. 🚀
+==P Dr D D T D M==

@@ -56,3 +56,8 @@ This reduces the number of features in a dataset while keeping important informa
 - Autoencoders use neural networks for feature compression.
 
 Would you like a summary of a specific section in more detail?
+
+
+---
+
+Leave-One-Out Cross-Validation (LOO-

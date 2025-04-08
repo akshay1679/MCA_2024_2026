@@ -3,7 +3,7 @@
 
 ## languages basics
 
-java basics --> [[basics]]
+java basics --> [[sem_1/java/program/basics]]
 python
 sql --> [[basic]]
 c

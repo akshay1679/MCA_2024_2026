@@ -15,6 +15,7 @@ Dynamic Host Configuration Protocol (DHCP) is a network management protocol that
     
 - **Uses Leases:** DHCP assigns IP addresses for a specific period of time called a "lease." When the lease expires, the device must renew it with the DHCP server.  
     
+## Why ?
 
 **Why DHCP is important:**
 
@@ -26,6 +27,8 @@ Dynamic Host Configuration Protocol (DHCP) is a network management protocol that
     
 - **Supports Mobility:** Allows devices to seamlessly connect to different networks without requiring manual IP configuration changes.  
     
+
+## DORA processDORA
 
 **How DHCP works (simplified):**
 

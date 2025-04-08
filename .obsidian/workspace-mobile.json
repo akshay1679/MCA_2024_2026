@@ -11,52 +11,46 @@
             "id": "5c00b8c7d619a2a5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem_2/DAA/DAA-Lect 1.pdf",
-                "page": 1,
-                "left": 0,
-                "top": 252,
-                "zoom": 0.4166666666666667
+                "file": "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DAA-Lect 1"
+              "icon": "lucide-file",
+              "title": "Unit 1.1 Machine learning"
             }
           },
           {
             "id": "745d6de19494103a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem_2/Software_engineering/Requirement Analysis/UNIT-2 Requirement Analysis.pdf",
-                "page": 2,
-                "left": 0,
-                "top": 351,
-                "zoom": 0.3125
+                "file": "sem_2/Cyber_security/AFTER_mid_sem/DHCP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "UNIT-2 Requirement Analysis"
+              "icon": "lucide-file",
+              "title": "DHCP"
             }
           },
           {
-            "id": "52e14656c52c5692",
+            "id": "38ea5b0e00336b55",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem_2/DAA/DAA-Lect 2.pdf",
-                "page": 14,
-                "left": 0,
-                "top": 117,
-                "zoom": 0.4166666666666667
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DAA-Lect 2"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem_2/Software_engineering/Requirement Analysis/UNIT-2 Requirement Analysis.pdf",
+            "file": "sem_2/big data/Cloud and Data/Cloud and Data.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -190,53 +184,53 @@
       "whisper:Open recording controls": false
     }
   },
-  "active": "745d6de19494103a",
+  "active": "38ea5b0e00336b55",
   "lastOpenFiles": [
+    "Untitled.sync-conflict-20250404-095835-S6KXOI7.md",
+    "aptitude/pasted_images/Pasted image 20250401202601.png",
+    "aptitude/pasted_images/Pasted image 20250331173219.png",
+    "aptitude/pasted_images/Pasted image 20250331065937.png",
+    "aptitude/pasted_images/Pasted image 20250401200423.png",
+    "aptitude/pasted_images/Pasted image 20250401201615.png",
+    "Pasted image 20250401210518.png",
+    "aptitude/pasted_images/Pasted image 20250331173612.png",
+    "aptitude/pasted_images/Pasted image 20250331204411.png",
+    "aptitude/pasted_images/Pasted image 20250331172204.png",
+    "ESP_32/2.Wi-Fi.md",
+    "Pasted image 20250401211331.png",
+    "AWS/AWS.md",
+    "aptitude/Ratio and proportions.md",
+    "ESP_32/1.ESP - 32.md",
+    "basics.md",
+    "aptitude/pasted_images",
+    "aptitude",
+    "ESP_32/3.Bluetooth Example (BLE Server).md",
+    "ESP_32",
+    "AWS",
+    "sem_2/Cyber_security/AFTER_mid_sem/DHCP.md",
+    "Untitled.md",
+    "sem_2/big data/Cloud and Data/Cloud and Data.pdf",
+    "sem_2/big data/CH1PPT1/CH1PPT1.md",
+    "sem_2/big data/CSE545 sp23 (1) What is Big Data 1-29.pdf",
+    "sem_2/big data/11.1 Big Data, Cloud and Analytics  Block 1.pdf",
+    "sem_2/big data/(R17A0528 ) Big Data Analytics Digital notes.pdf",
+    "sem_2/big data/FBDA UNIT-3/FBDA UNIT-3.md",
+    "sem_2/big data/CH1PPT3/CH1PPT3.md",
+    "sem_2/big data/CH1PPT2/CH1PPT2.md",
+    "sem_2/big data/NoSQL_Dist - Distribution Models and Consistency.pdf",
+    "sem_2/Machine_learning/Unit 1.2/Unit 1.2 Machine learning.pdf",
+    "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.md",
+    "sem_2/Machine_learning/Unit 1.2 Machine learning.md",
+    "sem_2/Machine_learning/brain_map_Unit 1.1 Machine learning.md",
+    "sem_2/Machine_learning/Unit 1.2/Unit 1.2 Machine learning.md",
+    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.md",
     "sem_2/Software_engineering/models/Prototype.md",
+    "sem_2/Software_engineering/models/Waterfall Model.md",
+    "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.md",
+    "sem_2/Software_engineering/models/RAD.md",
     "sem_2/Software_engineering/Syllabus.md",
     "sem_2/Software_engineering/core.md",
-    "sem_2/Software_engineering/UNIT-2/Design Engineering/UNIT-2 Design Engineering.pdf",
     "sem_2/Cyber_security/Encryption -Symmetric vs. Asymmetric Methods.md",
-    "sem_2/Cyber_security/CIA triad.md",
-    "sem_2/Cyber_security/Attacks Passive vs. Active.md",
-    "sem_2/Cyber_security/Web Security , TLS Protocol.md",
-    "sem_2/Cyber_security/Malware Definition, Types, Case Studies & Prevention.md",
-    "sem_2/Cyber_security/Vulnerabilities, Threats, and Attacks – How They Are Related.md",
-    "sem_2/DAA/DAA_2.md",
-    "sem_2/DAA/DAA.md",
-    "sem_2/DAA/DAA-Lect 2.pdf",
-    "Untitled.md",
-    "sem_2/DAA/Pasted images",
-    "sem_2/DAA/DAA-Lect 1.pdf",
-    "sem_2/Software_engineering/UNIT-2-Process Models.pdf",
-    "RAD.md",
-    "Waterfall Model.md",
-    "sem_2/Software_engineering/Scrum.md",
-    "Prototype.md",
-    "Cloud_and_Data.md",
-    "Web Security & TLS Protocol.md",
-    "sem_2/Software_engineering/UNIT-1/UNIT-1.pdf",
-    "sem_2/Software_engineering/Syllabus.pdf",
-    "Excalidraw/Drawing 2025-01-31 07.40.06.excalidraw.md",
-    "sem_2/Software_engineering/XP.pdf",
-    "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.md",
-    "sem_2/big data/Fraud and Big Data/Fraud and Big Data.md",
-    "sem_2/big data/bda syllabus.md",
-    "sem_2/Machine_learning/Unit 1.2/Unit 1.2 Machine learning.pdf",
-    "sem_2/big data/Cloud and Data/Cloud and Data.pdf",
-    "sem_2/big data/CH1PPT2/CH1PPT2.md",
-    "CH1PPT3.md",
-    "sem_2/big data/CH1PPT3/CH1PPT3.md",
-    "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.md",
-    "Pasted image 20241223145256.png",
-    "Pasted image 20241223145207.png",
-    "ad_4nxf7tzbgnr4agwisfup5dsnjdlgr8ljkdagxx3eignuhrtz9wkgnw5zotv4nzcesskhp2kahluoy5v64ka27raez21gk365_3jkpc7qgxjp_d-u9j4sdiiaf_7z1barfpafugokizbrifquazqgep5fgyz0g.avif",
-    "Pasted image 20241223095433.png",
-    "MCA_2024-2026/sql/Syllabus.jpeg",
-    "1711532114phpfEGhVM.jpeg",
-    "Multilevel-Inheritance-in-Java-1.jpg.webp",
-    "image-15.webp",
-    "MCA_2024-2026/DS/Pasted_image/graph-data-structure.webp",
-    "MCA_2024-2026/DS/Pasted_image/complete1 (2).png"
+    "sem_2/Cyber_security/CIA triad.md"
   ]
 }

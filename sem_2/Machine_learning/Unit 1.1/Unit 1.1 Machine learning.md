@@ -1,6 +1,6 @@
 <mark style="background: #FFB8EBA6;">collection --> preparation --> model --> train --> tune --> test --> preciction</mark>
 
-# C 
+# C  -> gi
 
 # P
 
@@ -272,3 +272,7 @@ It looks like you've listed key features, relevance, and challenges of machine l
 
 - **Google AutoML & AutoKeras** – Deep learning automation.
 - **H2O.ai & TPOT** – Automated ML pipeline creation.
+---
+## Concept Representation in Machine Learning
+
+Diamentionality reduction -> normalisation 
