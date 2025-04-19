@@ -8,6 +8,10 @@ ML model that tries to mimic complex fun of human brain
 
 • **Activation Function:** The activation function determines the output of the neuron based on the weighted sum of the inputs and the bias term. Common activation functions used include the step function, sigmoid function, and ReLU function.
 
+1. The neuron computes the weighted sum (z) of the inputs (x)
+
+2. The weighted sum (z) is then passed through an activation function. This introduces non-linearity into the network, enabling it to learn complex patterns.
+
 - The output of the activation function becomes the neuron’s output, which can be passed to neurons in the next layer
 - Training Algorithm: During training, the ==weights and biases are adjusted to minimize the error== between the predicted output and the true output for a given set of training examples.
 

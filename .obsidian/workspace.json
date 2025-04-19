@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "4075807822027c29",
+        "id": "ebb74b65ea9dcee5",
         "type": "tabs",
         "children": [
           {
-            "id": "5021d814150127ba",
+            "id": "bbb4ef3d0b05745c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "aptitude/Ratio and proportions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ratio and proportions"
+            }
+          },
+          {
+            "id": "49d754d7fcd2587d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time and Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time and Work"
+            }
+          },
+          {
+            "id": "059461115bb2a7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCA_2024-2026/LeetCode/8. String to Integer (atoi).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. String to Integer (atoi)"
+            }
+          },
+          {
+            "id": "88bc3128c0b4c2f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. Letter Combinations of a Phone Number.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17. Letter Combinations of a Phone Number"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,54 +224,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22cb213078b520f9",
+  "active": "88bc3128c0b4c2f5",
   "lastOpenFiles": [
-    "Untitled.md",
-    "CISCO/1.3 Bandwidth and Throughput.md",
-    "CISCO/2.1.2 Untitled.md",
-    "CISCO/2.1.1 Data Transmission.md",
-    "CISCO/2.1 Clients and Servers.md",
-    "CISCO/pasted_images/Pasted image 20250413121729.png",
-    "Pasted image 20250330193841.png",
-    "CISCO/pasted_images",
-    "Excalidraw/Drawing 2025-02-26 13.01.32.excalidraw.md",
-    "CISCO",
-    "Excalidraw/Drawing 2025-02-26 13.01.40.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-25 19.56.41.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-31 07.40.06.excalidraw.md",
-    "Introduction_to_Computer_Networking.md",
-    "Software Testing.md",
-    "Untitled.sync-conflict-20250404-095835-S6KXOI7.md",
-    "README.md",
-    "basics.md",
-    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.md",
-    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.pdf",
-    "ESP_32/pasted_image/Pasted image 20250403114224.png",
-    "ESP_32/pasted_image/Pasted image 20250403114052.png",
-    "ESP_32/pasted_image",
-    "AWS/pasted_images/Pasted image 20250401210518.png",
-    "AWS/pasted_images/Pasted image 20250401211118.png",
-    "AWS/pasted_images/Pasted image 20250401211331.png",
-    "AWS/pasted_images/Pasted image 20250401211636.png",
-    "AWS/AWS.md",
-    "AWS/OSI_model.md",
-    "AWS/pasted_images/Pasted image 20250405192008.png",
-    "AWS/pasted_images/Pasted image 20250405192424.png",
-    "AWS/pasted_images",
-    "ESP_32/1.ESP - 32.md",
-    "ESP_32/3.Bluetooth Example (BLE Server).md",
-    "All hash tag and keys.md",
-    "AWS",
+    "MCA_2024-2026/LeetCode/8. String to Integer (atoi).md",
+    "17. Letter Combinations of a Phone Number.md",
+    "Time and Work.md",
+    "Pasted image 20250417124251.png",
+    "Pasted image 20250417124200.png",
+    "Pasted image 20250417122419.png",
+    "Pasted image 20250417122048.png",
+    "Pasted image 20250417122015.png",
+    "Pasted image 20250417120832.png",
+    "Pasted image 20250417120447.png",
+    "Pasted image 20250417115831.png",
+    "Pasted image 20250417115430.png",
     "aptitude/Ratio and proportions.md",
+    "python_full_revision.md",
+    "sem_1/Untitled 1.sync-conflict-20241205-182029-NMDLGVH.md",
+    "sem_1/Untitled 3.md",
+    "sem_1/Untitled 2.md",
+    "sem_1/Untitled 1.md",
+    "sem_1/Untitled.md",
+    "MCA_2024-2026/HackerRank/2022btabhyas/Assignment 1.md",
+    "All hash tag and keys.md",
+    "Software Testing.md",
+    "README.md",
+    "Pasted image 20250330193841.png",
+    "Introduction_to_Computer_Networking.md",
+    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN.pdf",
+    "basics.md",
+    "sem_2/Deep_learning/lab/CNN.md",
+    "sem_2/Deep_learning/ANN.md",
+    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_rough_note.md",
+    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_note.md",
+    "sem_2/Deep_learning/Training Data set.md",
+    "sem_2/Deep_learning/Testing Data set.md",
+    "sem_2/Deep_learning/Regression.md",
+    "sem_2/Deep_learning/Classification.md",
+    "sem_2/Deep_learning/Deep lerning.md",
+    "CISCO/1.3 Bandwidth and Throughput.md",
+    "CISCO/pasted_images",
+    "CISCO",
+    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.pdf",
+    "ESP_32/pasted_image",
+    "AWS/pasted_images",
+    "AWS",
     "aptitude/pasted_images",
     "aptitude",
-    "ESP_32/2.Wi-Fi.md",
     "ESP_32",
-    "sem_2/Cyber_security/AFTER_mid_sem/DHCP.md",
-    "sem_2/Cyber_security/BEFORE_mid_sem",
-    "sem_2/DAA/DAA_2.md",
-    "sem_2/DAA/DAA.md",
-    "DAA_2.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",

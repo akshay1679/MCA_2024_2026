@@ -39,14 +39,16 @@
             "id": "38ea5b0e00336b55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "source": false
+                "file": "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN.pdf",
+                "page": 33,
+                "left": 0,
+                "top": 401,
+                "zoom": 0.3125
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "ANN"
             }
           }
         ],
@@ -125,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem_2/big data/Cloud and Data/Cloud and Data.pdf",
+            "file": "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -184,7 +186,7 @@
       "whisper:Open recording controls": false
     }
   },
-  "active": "25c9fa88b6277df8",
+  "active": "38ea5b0e00336b55",
   "lastOpenFiles": [
     "Untitled.sync-conflict-20250404-095835-S6KXOI7.md",
     "aptitude/pasted_images/Pasted image 20250401202601.png",
