@@ -8,51 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c00b8c7d619a2a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit 1.1 Machine learning"
-            }
-          },
-          {
-            "id": "745d6de19494103a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem_2/Cyber_security/AFTER_mid_sem/DHCP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DHCP"
-            }
-          },
-          {
-            "id": "38ea5b0e00336b55",
+            "id": "f75158a41e12125d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN.pdf",
-                "page": 33,
+                "file": "sem_2/Deep_learning/module1/Optimizers_and_Cost_Functions/04 Optimizers and Cost functions1.pdf",
+                "page": 1,
                 "left": 0,
-                "top": 401,
+                "top": 540,
                 "zoom": 0.3125
               },
               "icon": "lucide-file-text",
-              "title": "ANN"
+              "title": "04 Optimizers and Cost functions1"
+            }
+          },
+          {
+            "id": "a94a9e29437a8f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem_2/Deep_learning/module1/Optimizers_and_Cost_Functions/Optimizers, Cost Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optimizers, Cost Functions"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN.pdf",
+            "file": "sem_2/Deep_learning/lab/CNN.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,8 +171,27 @@
       "whisper:Open recording controls": false
     }
   },
-  "active": "38ea5b0e00336b55",
+  "active": "f75158a41e12125d",
   "lastOpenFiles": [
+    "sem_2/Deep_learning/module1/Optimizers_and_Cost_Functions/Optimizers, Cost Functions.md",
+    "sem_2/Deep_learning/module1/Optimizers_and_Cost_Functions/04 Optimizers and Cost functions1.pdf",
+    "sem_2/Deep_learning/Drawing 2025-02-16 16.08.05.excalidraw.md",
+    "sem_2/Deep_learning/Classification.md",
+    "sem_2/Deep_learning/lab/CNN.md",
+    "Why Normalize.md",
+    "sem_2/Deep_learning/lab/Support_notes/Why Reshape.md",
+    "sem_2/Deep_learning/lab/Support_notes/MaxPooling2D.md",
+    "sem_2/Deep_learning/lab/Support_notes/Conv2D.md",
+    "sem_2/Deep_learning/lab/Support_notes/Flatten.md",
+    "sem_2/Deep_learning/lab/Support_notes/Dropout.md",
+    "StandardScaler.md",
+    "ANN_iris.md",
+    "OneHotEncoder.md",
+    "ANN.md",
+    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN.pdf",
+    "sem_2/Deep_learning/ANN.md",
+    "CISCO/2.1 Clients and Servers.md",
+    "CISCO/1.3 Bandwidth and Throughput.md",
     "Untitled.sync-conflict-20250404-095835-S6KXOI7.md",
     "aptitude/pasted_images/Pasted image 20250401202601.png",
     "aptitude/pasted_images/Pasted image 20250331173219.png",
@@ -212,27 +216,8 @@
     "sem_2/Cyber_security/AFTER_mid_sem/DHCP.md",
     "Untitled.md",
     "sem_2/big data/Cloud and Data/Cloud and Data.pdf",
-    "sem_2/big data/CH1PPT1/CH1PPT1.md",
     "sem_2/big data/CSE545 sp23 (1) What is Big Data 1-29.pdf",
     "sem_2/big data/11.1 Big Data, Cloud and Analytics  Block 1.pdf",
-    "sem_2/big data/(R17A0528 ) Big Data Analytics Digital notes.pdf",
-    "sem_2/big data/FBDA UNIT-3/FBDA UNIT-3.md",
-    "sem_2/big data/CH1PPT3/CH1PPT3.md",
-    "sem_2/big data/CH1PPT2/CH1PPT2.md",
-    "sem_2/big data/NoSQL_Dist - Distribution Models and Consistency.pdf",
-    "sem_2/Machine_learning/Unit 1.2/Unit 1.2 Machine learning.pdf",
-    "sem_2/Machine_learning/Unit 1.1/Unit 1.1 Machine learning.md",
-    "sem_2/Machine_learning/Unit 1.2 Machine learning.md",
-    "sem_2/Machine_learning/brain_map_Unit 1.1 Machine learning.md",
-    "sem_2/Machine_learning/Unit 1.2/Unit 1.2 Machine learning.md",
-    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.md",
-    "sem_2/Software_engineering/models/Prototype.md",
-    "sem_2/Software_engineering/models/Waterfall Model.md",
-    "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.md",
-    "sem_2/Software_engineering/models/RAD.md",
-    "sem_2/Software_engineering/Syllabus.md",
-    "sem_2/Software_engineering/core.md",
-    "sem_2/Cyber_security/Encryption -Symmetric vs. Asymmetric Methods.md",
-    "sem_2/Cyber_security/CIA triad.md"
+    "sem_2/big data/(R17A0528 ) Big Data Analytics Digital notes.pdf"
   ]
 }

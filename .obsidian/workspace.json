@@ -4,67 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb74b65ea9dcee5",
+        "id": "7f3864ce75624741",
         "type": "tabs",
+        "dimension": 52.985948477751755,
         "children": [
           {
-            "id": "bbb4ef3d0b05745c",
+            "id": "5e764d3ce9bfa9d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "aptitude/Ratio and proportions.md",
-                "mode": "source",
-                "source": false
+                "file": "sem_2/Deep_learning/pdf/06 CNN.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Ratio and proportions"
-            }
-          },
-          {
-            "id": "49d754d7fcd2587d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time and Work.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Time and Work"
-            }
-          },
-          {
-            "id": "059461115bb2a7e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCA_2024-2026/LeetCode/8. String to Integer (atoi).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. String to Integer (atoi)"
-            }
-          },
-          {
-            "id": "88bc3128c0b4c2f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17. Letter Combinations of a Phone Number.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17. Letter Combinations of a Phone Number"
+              "icon": "lucide-file-text",
+              "title": "06 CNN"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "cd8c5274b5d8dc5c",
+        "type": "tabs",
+        "dimension": 47.014051522248245,
+        "children": [
+          {
+            "id": "91887be27945af7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimizers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optimizers"
+            }
+          },
+          {
+            "id": "d81c0be1a12d2249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem_2/Deep_learning/module1/Optimizers_and_Cost_Functions/Optimizers, Cost Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optimizers, Cost Functions"
+            }
+          },
+          {
+            "id": "db5c17b41a734fb2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-01 20.26.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-01 20.26.49.excalidraw"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5026054382324
+    "width": 259.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a7afa5ab8a0baa9e",
@@ -224,54 +228,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88bc3128c0b4c2f5",
+  "active": "5e764d3ce9bfa9d4",
   "lastOpenFiles": [
-    "MCA_2024-2026/LeetCode/8. String to Integer (atoi).md",
-    "17. Letter Combinations of a Phone Number.md",
-    "Time and Work.md",
-    "Pasted image 20250417124251.png",
-    "Pasted image 20250417124200.png",
-    "Pasted image 20250417122419.png",
-    "Pasted image 20250417122048.png",
-    "Pasted image 20250417122015.png",
-    "Pasted image 20250417120832.png",
-    "Pasted image 20250417120447.png",
-    "Pasted image 20250417115831.png",
-    "Pasted image 20250417115430.png",
-    "aptitude/Ratio and proportions.md",
-    "python_full_revision.md",
-    "sem_1/Untitled 1.sync-conflict-20241205-182029-NMDLGVH.md",
-    "sem_1/Untitled 3.md",
-    "sem_1/Untitled 2.md",
-    "sem_1/Untitled 1.md",
-    "sem_1/Untitled.md",
-    "MCA_2024-2026/HackerRank/2022btabhyas/Assignment 1.md",
-    "All hash tag and keys.md",
-    "Software Testing.md",
-    "README.md",
+    "sem_2/Deep_learning/module1/Optimizers_and_Cost_Functions/04 Optimizers and Cost functions1.pdf",
+    "Optimizers.md",
+    "sem_2/Deep_learning/pdf/06 CNN.pdf",
+    "sem_2/Deep_learning/module1/Optimizers_and_Cost_Functions/Optimizers, Cost Functions.md",
+    "Activation Functions.md",
+    "Excalidraw/Drawing 2025-05-01 20.26.49.excalidraw.md",
+    "sem_2/Deep_learning/pdf/05 Activation functions.pdf",
+    "sem_2/Deep_learning/lab/Support_notes/OneHotEncoder.md",
+    "04 Optimizers and Cost functions1 2.webp",
+    "04 Optimizers and Cost functions1 1.webp",
+    "sem_2/big data/HADOOP- Big Data overview and Solutions.pdf",
+    "04 Optimizers and Cost functions1.webp",
     "Pasted image 20250330193841.png",
-    "Introduction_to_Computer_Networking.md",
-    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN.pdf",
-    "basics.md",
-    "sem_2/Deep_learning/lab/CNN.md",
-    "sem_2/Deep_learning/ANN.md",
-    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_rough_note.md",
-    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN_note.md",
+    "HADOOP- Big Data overview and Solutions 1.webp",
+    "HADOOP- Big Data overview and Solutions.webp",
+    "HADOOP.md",
+    "sem_2/big data/FBDA UNIT-3.pdf",
+    "Daily_target.md",
+    "sem_2/Deep_learning/module1/Optimizers_and_Cost_Functions",
+    "sem_2/Deep_learning/pdf/03 Gradient Descent.pdf",
     "sem_2/Deep_learning/Training Data set.md",
     "sem_2/Deep_learning/Testing Data set.md",
     "sem_2/Deep_learning/Regression.md",
-    "sem_2/Deep_learning/Classification.md",
+    "sem_2/Deep_learning/Drawing 2025-02-16 16.08.05.excalidraw.md",
+    "sem_2/Deep_learning/ANN.md",
     "sem_2/Deep_learning/Deep lerning.md",
-    "CISCO/1.3 Bandwidth and Throughput.md",
+    "MCA_2024-2026/Bios.md",
+    "ml_project.md",
+    "Introduction_to_Computer_Networking.md",
+    "All hash tag and keys.md",
+    "MCA_2024-2026/linux comands.md",
+    "python_full_revision.md",
+    "README.md",
+    "Software Testing.md",
+    "sem_2/Deep_learning/lab/ANN_iris.md",
+    "sem_2/Deep_learning/lab/ANN.md",
+    "sem_2/Deep_learning/lab/CNN.md",
+    "sem_2/Deep_learning/lab/Support_notes/Why Normalize.md",
+    "sem_2/Deep_learning/lab/Support_notes",
+    "aptitude/pasted_images/Pasted image 20250417115430.png",
+    "aptitude/pasted_images/Pasted image 20250417115831.png",
+    "aptitude/pasted_images/Pasted image 20250417120447.png",
+    "aptitude/pasted_images/Pasted image 20250417120832.png",
+    "sem_2/Deep_learning/module1/Artificial Neural Networks/ANN.pdf",
     "CISCO/pasted_images",
-    "CISCO",
-    "sem_2/Machine_learning/unit 1/Unit 1_Machine Learning.pdf",
-    "ESP_32/pasted_image",
-    "AWS/pasted_images",
-    "AWS",
-    "aptitude/pasted_images",
-    "aptitude",
-    "ESP_32",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",
