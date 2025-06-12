@@ -20,7 +20,7 @@ S D
 5.  better quality
 
 
- Objectives of Software Engineering: 
+## Objectives of Software Engineering: 
  
 1.  **Portability** – In this case, the software can be transferred from one computer system or environment to another. <mark style="background: #FFB8EBA6;">env change</mark>
 
@@ -268,8 +268,9 @@ There are five generic process framework activities:
 ![[Software-Development-Life-Cycle.png]]
 
 ### **Software Development Life Cycle (SDLC) Stages**
-
-#### **1. Planning and Requirement Analysis**
+#### 1. **Feasibility study** 
+#### **1. Planning and 
+Requirement Analysis**
 
 - This is the most crucial stage in the SDLC.
 - Senior team members perform requirement analysis with input from ==stakeholders== and domain experts.
@@ -316,4 +317,4 @@ There are five generic process framework activities:
 - This phase ensures the software remains functional and efficient over time.
 
 This structured approach ensures a smooth development process, resulting in high-quality software. 🚀
-==P Dr D D T D M==
+==PR Dr D D T D M==
