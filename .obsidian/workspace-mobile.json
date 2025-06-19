@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem_2/big data/♥️♥️♥️Hive.md",
+                "file": "CISCO/NAT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "♥️♥️♥️Hive"
+              "title": "NAT"
             }
           },
           {
@@ -27,71 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO/Networking.md",
+                "file": "CISCO/Ethernet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "82e33ef645e5feaf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "385b90cda70e13a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem_2/Software_engineering/Design Patterns intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design Patterns intro"
+              "title": "Ethernet"
             }
           }
         ]
-      },
-      {
-        "id": "105c0a9fe7032924",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f75158a41e12125d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem_2/Machine_learning/Focus areas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Focus areas"
-            }
-          },
-          {
-            "id": "a94a9e29437a8f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem_2/Software_engineering/Design Patterns intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Design Patterns intro"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "My-phone-network.md",
+            "file": "CISCO/NAT.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -225,11 +169,16 @@
       "whisper:Open recording controls": false
     }
   },
-  "active": "504e75eee82331bf",
+  "active": "c5080caba89549c6",
   "lastOpenFiles": [
+    "CISCO/Networking.md",
+    "CISCO/NAT.md",
+    "CISCO/Csma.md",
+    "CISCO/Ethernet.md",
+    "sem_2/big data/♥️♥️♥️Hive.md",
+    "CISCO/Add.md",
     "CISCO/Networking.sync-conflict-20250612-150119-S6KXOI7.md",
     "My-phone-network.md",
-    "sem_2/big data/♥️♥️♥️Hive.md",
     "sem_2/big data/❤️❤️❤️❤️Cassandra.md",
     "sem_2/big data/HADOOP.md",
     "sem_2/big data/11.1 Big Data, Cloud and Analytics  Block 1.pdf",
@@ -257,12 +206,7 @@
     "sem_2/Cyber_security/Vulnerabilities, Threats, and Attacks – How They Are Related.md",
     "sem_2/Cyber_security/Encryption -Symmetric vs. Asymmetric Methods.md",
     "sem_2/Cyber_security/CIA triad.md",
-    "sem_2/Cyber_security/AFTER_mid_sem/DHCP.md",
-    "sem_2/Cyber_security/⚠️ focus area.md",
     "sem_2/Deep_learning/pdf/11 Energy Based Models (1).pdf",
-    "sem_2/Machine_learning/unit 1/Unit 1.1/Unit 1.1 Machine learning.md",
-    "sem_2/Machine_learning/unit 1/Unit 1.2/Unit 1.2 Machine learning 1.md",
-    "sem_2/Machine_learning/unit 1/Unit 1.2/Unit 1.2 Machine learning.md",
     "aptitude/pasted_images/Pasted image 20250401202601.png",
     "aptitude/pasted_images/Pasted image 20250331173219.png",
     "aptitude/pasted_images/Pasted image 20250331065937.png",

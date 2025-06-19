@@ -28,8 +28,8 @@ dev by **International Organization for Standardization (ISO)**
 
 The Data Link Layer is divided into two sublayers:
 
-Logical Link Control (LLC)
-Media Access Control (MAC)
+==Logical Link Control (LLC)
+Media Access Control (MAC)==
 
 The packet received from the Network layer is further divided into frames depending on the frame size of the ****NIC (****[****Network Interface Card)****](https://www.geeksforgeeks.org/nic-full-form/). DLL also encapsulates Sender and Receiver’s MAC address in the header.
 
@@ -43,16 +43,43 @@ The Receiver’s MAC address is obtained by placing an ARP ([Address Resolution]
 - ****Flow Control:**** The data rate must be constant on both sides else the data may get corrupted thus, flow control coordinates the amount of data that can be sent before receiving an acknowledgment.
 - ****Access Control:**** When a single communication channel is shared by multiple devices, the MAC sub-layer of the data link layer helps to determine which device has control over the channel at a given time.
 
+
+## Layer 3: Network Layer
+transmission of data from one host to the other located in different networks
+packet routing i.e. selection of the shortest path to transmit the packet,
+
+### Functions of the Network Layer
+
+**Routing**
+**Logical Addressing**
+
+## Layer 4: Transport Layer
+
+1. provides services to the application layer and takes services from the network layer.
+2. responsible for the end-to-end delivery of the complete message
+3. provides the acknowledgment of the successful data transmission and re-transmits the data if an error is found.
+
+### Functions of the Transport Layer
+
+****Segmentation and Reassembly:****-  This layer accepts the message from the (session) layer and breaks the message into smaller units. Each of the segments produced has a header associated with it. The transport layer at the destination station reassembles the message.
+- ****Service Point Addressing:**** To deliver the message to the correct process, the transport layer header includes a type of address called service point address or port address. Thus, by specifying this address, the transport layer makes sure that the message is delivered to the correct process.
+
+
+
 # Application Layer in OSI Model
 
-| Protocol | Purpose                | Port       | Analogy                    |     |
-| -------- | ---------------------- | ---------- | -------------------------- | --- |
-| HTTP     | Web browsing           | 80/443     | Talking to a website       |     |
-| FTP      | File transfer          | 20/21      | Remote file storage access |     |
-| SMTP     | Sending emails         | 25/587/465 | Outgoing mail delivery     |     |
-| DNS      | Domain name resolution | 53         | Internet phonebook         |     |
+| Protocol | Purpose                | Port       | Analogy                    |
+| -------- | ---------------------- | ---------- | -------------------------- |
+| HTTP     | Web browsing           | 80/443     | Talking to a website       |
+| FTP      | File transfer          | 20/21      | Remote file storage access |
+| SMTP     | Sending emails         | 25/587/465 | Outgoing mail delivery     |
+| DNS      | Domain name resolution | 53         | Internet phonebook         |
 - DNS: DNS stands for Domain Name System
 - TELNET: Telnet stands for Telecommunications Network.port number 23.
+
+![[Pasted image 20250615090716.png]]
+
+
 
 ![[WhatsApp Image 2025-06-05 at 8.07.36 AM.jpeg]]
 

@@ -1,0 +1,16 @@
+- [ ] Tcp structure
+- [ ] port number
+- [ ]  [TLS/SSL](https://www.geeksforgeeks.org/difference-between-secure-socket-layer-ssl-and-transport-layer-security-tls/)
+- [ ] osi model
+- [ ] IEEE all protocols
+- [ ] ccma 2 hrs class
+- [ ] dsa 6 hrs study
+- [ ] token ring token bus
+- [ ] bridges
+- [ ] firewall --> how it works
+- [ ] DNS --> how it works
+- [ ] IP Address --> how it works and strusture
+- [ ] layer 2 and layer 3 switches
+- [ ] https://www.geeksforgeeks.org/computer-networks/computer-network-tutorials/
+- [ ] https://www.geeksforgeeks.org/computer-networks/ccna-tutorial-for-beginners/
+- [ ] difference between Gigabyte and gigabit
