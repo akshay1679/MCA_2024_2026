@@ -69,6 +69,10 @@ it is possible to trace back every step of the way from the _initial state_ to
 
 we use the **==frontier==**, the mechanism that “manages” the _nodes_. The _frontier_ starts by containing an initial state and an empty set of explored items, and then repeats the following actions until a solution is reached:
 
+==frontier should not contain already explored nodes explored set==
+
+
+
 Repeat:
 
 1. If the frontier is empty,
@@ -89,18 +93,23 @@ Repeat:
 
 ---
 
+
+
 uninformed search algorithms do not utilize any knowledge about the problem that they did not acquire through their own exploration.
+
+![[Pasted image 20250626091623.png]]
+
+# <u><mark style="background: #ABF7F7A6;">Uninformed Search</mark></u>
 
 ---
 
 ## <u>Depth-First Search </u> #dfs 
 
-Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm ==starts at the root node==  and ==explores as far as possible== along each branch before backtracking. It uses last in- first-out ==LIFO== strategy and hence it is implemented using a ==stack==.
-![[Pasted image 20241223095433.png]]
+frontier --> is a stack (last in first out)
 
-**Path:**   S -> A -> B -> C -> G
+Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm ==starts at the root node==  and ==explores as far as possible== along each branch before backtracking. It uses last in- first-out ==LIFO== strategy and hence it is imple
 
-A _depth-first_ search algorithm exhausts each one direction before trying another direction. 
+A _depth-first_ search algorithm <mark style="background: #FFB8EBA6;">exhausts each one direction before trying another direction. </mark>
 In these cases, the frontier is managed as a _stack_ data structure.
 
 
@@ -118,6 +127,17 @@ In these cases, the frontier is managed as a _stack_ data structure.
             self.frontier = self.frontier[:-1]
             return node
 ```
+
+![[Pasted image 20250626083147.png]]
+
+![[Pasted image 20250626085530.png]]
+
+![[Pasted image 20250626085555.png]]
+
+![[Pasted image 20250626085645.png]]
+
+
+
 
 
 ---
@@ -146,11 +166,22 @@ Code example:
             return node
 ```
 
+![[Pasted image 20250626083244.png]]
+
+![[Pasted image 20250626085809.png]]
+
+![[Pasted image 20250626085820.png]]
+
+![[DFS_finding_cycle.gif]]
+
+
 
 ---
 
  A type of algorithm that considers additional knowledge to try to improve its performance is called an informed search algorithm.
- 
+
+# <mark style="background: #ABF7F7A6;">Informed Search</mark>
+
 ---
 ## <u>Greedy Best-First Search</u>
 - Expands the node that is the closest to the goal, as determined by a heuristic function h(n).
@@ -171,7 +202,77 @@ Code example:
 
 
 
+# <mark style="background: #ABF7F7A6;">Adversarial Search</mark>
+
+![[Pasted image 20250626134012.png]]
+
+x player is the max player --> maximise the score 
+o player is the min player --> minimise the score
+
+• S0 : initial state 
+• PLAYER(s) : returns which player to move in state s 
+• ACTIONS(s) : returns legal moves in state s --> which all actions can be performed like where all the next x/o can be placed
+• RESULT(s, a) : returns state after action a taken in state s -->  
+• TERMINAL(s) : checks if state s is a terminal state --> ie if the game is over or not
+• UTILITY(s) : final numerical value for terminal state s
+![[Pasted image 20250626135500.png]]
+
+
+---
+
+![[Pasted image 20250626135740.png]]
+
+
+---
+![[Pasted image 20250626142056.png]]
+![[Pasted image 20250626141655.png]]
+
+  9 --> is the maximizing player which is playing and the next layer is the minimizing player so we need to select the next layer with the max value that is 9
+ ![[Pasted image 20250626141945.png]]
+
+that is why we give 9 to green ![[Pasted image 20250626141905.png]]
+
+---
+
+![[Pasted image 20250626142358.png]]
+
+ <mark style="background: #FFB86CA6;">MAX-VALUE</mark>
+```python
+function MIN-VALUE(state): 
+	if TERMINAL(state): 
+		return UTILITY(state) 
+	 v = -∞ 
+	 for action in ACTIONS(state): 
+		 v = MAX(v, MIN-VALUE(RESULT(state, action))) 
+	 return v
+```
 
 
 
+
+ <mark style="background: #FFB86CA6;">MIN-VALUE</mark>
+```python
+function MIN-VALUE(state): 
+	if TERMINAL(state): 
+		return UTILITY(state) 
+	 v = ∞ 
+	 for action in ACTIONS(state): 
+		 v = MIN(v, MAX-VALUE(RESULT(state, action))) 
+	 return v
+```
+
+
+
+
+## <mark style="background: #FF5582A6;">optimization</mark>
+
+if we dont do an optimisation we have to compute all the layers
+
+![[Pasted image 20250626145119.png]]
+
+after the optimisation we need not to do the compute all the layer values
+
+![[Pasted image 20250626145034.png]]
+
+### <mark style="background: #ABF7F7A6;">**Alpha-Beta Pruning**</mark>
 
