@@ -22,17 +22,31 @@
             }
           },
           {
+            "id": "31898ef87d7b62b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today send.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Today send"
+            }
+          },
+          {
             "id": "e00ab85120043e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO/Array Data Structure.md",
+                "file": "MCA_2024-2026/courses/cs50AI/notes/week_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Array Data Structure"
+              "title": "week_1"
             }
           }
         ],
@@ -111,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CISCO/Analysis of Algorithms.md",
+            "file": "MCA_2024-2026/courses/cs50AI/notes/week_1.md",
             "collapseAll": false,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -170,14 +184,19 @@
       "whisper:Open recording controls": false
     }
   },
-  "active": "e00ab85120043e27",
+  "active": "31898ef87d7b62b1",
   "lastOpenFiles": [
-    "CISCO/Analysis of Algorithms.md",
     "sem_1/DS/Notes.md",
+    "Today send.md",
+    "MCA_2024-2026/courses/cs50AI/notes/week_1.md",
+    "MCA_2024-2026/courses/cs50AI/notes/Untitled.md",
+    "MCA_2024-2026/courses/cs50AI/notes/week_0.md",
+    "CISCO/Networking.md",
+    "CISCO/Array Data Structure.md",
+    "CISCO/Analysis of Algorithms.md",
     "Analysis of Algorithms.md",
     "sem_1/DS/CORE.md",
     "aptitude/Time and Work.md",
-    "CISCO/Networking.md",
     "CISCO/Ethernet.md",
     "CISCO/DLL.md",
     "CISCO/NAT.md",
@@ -202,11 +221,6 @@
     "sem_2/Software_engineering/all_pdf/all_pdf/UNIT-3 Design Patterns-Introduction.pdf",
     "sem_2/Software_engineering/all_pdf/all_pdf/UNIT-2-Process Models.pdf",
     "sem_2/Software_engineering/all_pdf/all_pdf/UNIT-4 Creational Design pattern.pdf",
-    "Deep Unsupervised Learning Auto encoders.md",
-    "sem_2/Software_engineering/UNIT-1/Software Engineering and Design Patterns.md",
-    "sem_2/Software_engineering/Untitled.md",
-    "sem_2/Cyber_security/Web Security , TLS Protocol.md",
-    "sem_2/Cyber_security/Attacks Passive vs. Active.md",
     "sem_2/Deep_learning/pdf/11 Energy Based Models (1).pdf",
     "aptitude/pasted_images/Pasted image 20250401202601.png",
     "aptitude/pasted_images/Pasted image 20250331173219.png",

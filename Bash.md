@@ -177,7 +177,190 @@ to get the word count
 $ wc -w hello.txt
 5 hello.txt
 ```
-#  Arithmetic Expressions
+
+to get input from a text file to a command like `wc` command gets the file hello.txt
+we can do it like 
+
+```
+$ wc -w < hello.txt
+```
+
+in this way we can redirect he file to wc command
+
+```
+$ wc -w < hello.txt
+5
+```
+
+![[Pasted image 20250720150054.png]]
+
+to pass a string to a command we use `<<<`
+
+```
+$ wc -w <<< "good morning bitches"
+3
+```
+
+# Test operators
+
+```
+[ hello = hello ]
+echo $?
+0
+```
+
+there should be spacing between square bracket and hello
+this is used to check weather hello =  hello
+the result is printed as 0
+
+`$?` --> shows the exit code of last executed command
+
+```
+[ 1 = 0 ]
+echo $?
+1
+```
+
+# if  / elif / else
+
+```bash
+#!/bin/bash
+
+if [ ${1,,} = herbert ]; then
+	echo "Oh, you're the boss here. Welcome!"
+elif [ ${1,,} = help ]; then
+	echo "Just enter your username, duh!"
+else
+	echo "I don't know who you are. But you're not the boss of me!"
+fi
+```
+
+### **Line 2**
+
+bash
+
+CopyEdit
+
+`if [ ${1,,} = herbert ]; then`
+
+- `if`: Begins a conditional block.
+    
+- `${1}`: Refers to the **first argument** passed to the script.
+    
+- `${1,,}`: Converts the value to **lowercase** using Bash parameter expansion (this is useful if a user types "Herbert", "HERBERT", etc.).
+    
+- `[ ... = herbert ]`: Checks if the lowercase version of the input equals `"herbert"`.
+    
+- `then`: If the condition is true, run the block inside the `then`.
+    
+
+> ✅ If the argument is "herbert" (case-insensitive), this block will exec
+
+### **Line 8**
+
+
+`fi`
+
+- Ends the `if` statement block.
+
+### 🔍 `${1,,}` — What does it do exactly?
+
+This expression is a form of **case conversion** in Bash.
+
+#### Here's the breakdown:
+
+- `${...}`: This is how you **access and manipulate variables** in Bash.
+    
+- `1`: Refers to the **first positional parameter**, i.e., the **first argument** passed to the script (when running `./script.sh akshay`, `$1` is `akshay`).
+    
+- `,,`: This is a **case modifier** — it converts all **uppercase letters** in the string to **lowercase**.
+    
+
+---
+
+### ✅ Usage: Case-insensitive comparison
+
+So, when you write:
+
+```bash
+${1,,}
+```
+
+It means:  
+**Take whatever was passed as the first argument (`$1`) and convert it to all lowercase letters.**
+
+---
+
+### 🔧 Why use this?
+
+Bash string comparisons are **case-sensitive** by default.  
+That means:
+
+```bash
+if [ "$1" = "herbert" ]; then
+```
+
+...would **fail** if the user typed `Herbert`, `HERBERT`, etc.
+
+But:
+
+```bash
+if [ ${1,,} = herbert ]; then
+```
+
+...**accepts any capitalization**, like:
+
+- `Herbert`
+    
+- `HERBERT`
+    
+- `herbert`
+    
+- `hErBeRt`
+    
+
+Because it converts **everything to lowercase before comparison**.
+
+---
+
+### 🧠 Extra: Bash string case modifiers
+
+You can use several case operations in Bash:
+
+|Syntax|Result|
+|---|---|
+|`${var,,}`|All characters to **lowercase**|
+|`${var^^}`|All characters to **UPPERCASE**|
+|`${var,}`|Only **first** character to lowercase|
+|`${var^}`|Only **first** character to UPPERCASE|
+
+---
+
+### 🧪 Example in action:
+
+Let's test it with a small Bash snippet:
+
+```bash
+#!/bin/bash
+
+echo "Original input: $1"
+echo "Lowercased input: ${1,,}"
+```
+
+Running:
+
+```bash
+$ ./test.sh HeRBeRT
+Original input: HeRBeRT
+Lowercased input: herbert
+```
+
+So now you can compare easily with `herbert` in your script.
+
+---
+
+Would you like to explore how to handle **multiple arguments** or **uppercasing** too?
+# Arithmetic Expressions
 
 | Operator | Usage          |
 | -------- | -------------- |

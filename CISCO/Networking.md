@@ -1384,3 +1384,9 @@ Suppose, if there is a pool of 2 public IP addresses then only 2 private IP addr
 ### ****Port Address Translation (PAT)****
 
 This is also known as NAT overload. In this, many local (private) [IP addresses](https://www.geeksforgeeks.org/what-is-an-ip-address/) can be translated to a single registered IP address. Port numbers are used to distinguish the traffic i.e., which traffic belongs to which IP address. This is most frequently used as it is cost-effective as thousands of users can be connected to the Internet by using only one real global (public) IP address.
+
+
+---
+
+Zigbee is a wireless communication protocol designed for low-power, low-data-rate applications, primarily used in the Internet of Things (IoT) for connecting smart devices. It's built on the IEEE 802.15.4 standard.
+Here's a breakdown of what Zigbee is and how it works:
