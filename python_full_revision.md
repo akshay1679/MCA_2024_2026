@@ -279,3 +279,240 @@ print(mytripler(11))
 ```
 
 
+---
+# python string
+
+1. finding the length of the string
+
+```python
+a = "geeks"
+
+#Initialize a variable 's' 
+#to keep track of the string's length
+s = 0
+
+for i, a in enumerate(a):
+  # Increment 's' by 1 for each character in the string
+    s += 1
+print(s)
+
+```
+
+2. Remove i’th character from string
+
+```python
+s = "Geeks for Geeks"
+
+print(s[0:s.index("k")]+s[s.index("k")+1:])
+```
+
+3. Python program to print even length words in a string
+
+```python
+s = "This is a python language"
+s = s.split(" ")
+for i in s:
+
+    print(i if len(i) % 2 == 0 else "",end = " ")
+```
+
+
+4. Uppercase Half String
+here i used `// ` floor division to  find the half if its an odd no will generate float whic can cause an error
+
+```python
+s = "This is a python language"
+print(s[:len(s)//2].upper()+s[len(s)//2:])
+```
+
+5. Accept the strings which contains all vowels
+```python
+s = "Geeksforgeeks"
+v = 'aeiou'
+
+
+# check if each vowel exists in the string
+if all(i in s.lower() for i in v):
+  
+    print("True")
+else:
+    print("False")
+```
+
+6. Count the Number of matching characters in a pair of string
+```python
+s1 = "VISHAKSHI"
+s2 = "VANSHIKA"
+
+# find common characters
+res= len(set(s1.lower()).intersection(set(s2.lower())))
+print(res)
+```
+
+
+<mark style="background: #FF5582A6;">intersection</mark>  
+
+7. code | Remove all duplicates from a given string
+```python
+s = "Python Programming"
+vowels = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'}
+c = sum(1 for ch in s if ch in vowels)
+
+print("Number of vowels:", c)
+```
+
+```python
+s = "geeksforgeeks"
+
+res = "".join([char for i, char in enumerate(s) if char not in s[:i]])
+print(res)
+```
+
+8. 
+
+---
+
+# Python Text alig
+# ljust
+
+
+```python
+txt = "banana"  
+  
+x = txt.ljust(20)  
+  
+print(x, "is my favorite fruit.")
+```
+
+syntax:
+
+```python
+_string_.ljust(_length_, _character_)
+```
+
+
+
+- [x] Problem 1  
+- [ ] Problem 2  
+- [ ] Problem 3  
+- [ ] Problem 4  
+- [ ] Problem 5  
+- [ ] Problem 6  
+- [ ] Problem 7  
+- [ ] Problem 8  
+- [ ] Problem 9  
+- [ ] Problem 10  
+- [ ] Problem 11  
+- [ ] Problem 12  
+- [ ] Problem 13  
+- [ ] Problem 14  
+- [ ] Problem 15  
+- [ ] Problem 16  
+- [ ] Problem 17  
+- [ ] Problem 18  
+- [ ] Problem 19  
+- [ ] Problem 20
+
+
+---
+
+- [x] Pattern 1  
+- [x] Pattern 2  
+- [x] Pattern 3  
+- [x] Pattern 4  
+- [x] Pattern 5  
+- [x] Pattern 6  
+- [x] Pattern 7  
+- [x] Pattern 8  
+- [x] Pattern 9  
+- [ ] Pattern 10  
+- [ ] Pattern 11  
+- [ ] Pattern 12  
+- [ ] Pattern 13  
+- [ ] Pattern 14  
+- [ ] Pattern 15  
+- [ ] Pattern 16  
+- [ ] Pattern 17  
+- [ ] Pattern 18  
+- [ ] Pattern 19  
+- [ ] Pattern 20  
+- [ ] Pattern 21  
+- [ ] Pattern 22  
+- [ ] Pattern 23  
+- [ ] Pattern 24  
+- [ ] Pattern 25  
+- [ ] Pattern 26  
+- [ ] Pattern 27  
+- [ ] Pattern 28  
+- [ ] Pattern 29  
+- [ ] Pattern 30  
+- [ ] Pattern 31  
+- [ ] Pattern 32  
+- [ ] Pattern 33  
+- [ ] Pattern 34  
+- [ ] Pattern 35  
+- [ ] Pattern 36  
+- [ ] Pattern 37  
+- [ ] Pattern 38  
+- [ ] Pattern 39  
+- [ ] Pattern 40  
+- [ ] Pattern 41  
+- [ ] Pattern 42  
+- [ ] Pattern 43  
+- [ ] Pattern 44  
+- [ ] Pattern 45  
+- [ ] Pattern 46  
+- [ ] Pattern 47  
+- [ ] Pattern 48  
+- [ ] Pattern 49  
+- [ ] Pattern 50  
+- [ ] Pattern 51  
+- [ ] Pattern 52  
+- [ ] Pattern 53  
+- [ ] Pattern 54  
+- [ ] Pattern 55  
+- [ ] Pattern 56  
+- [ ] Pattern 57  
+- [ ] Pattern 58  
+- [ ] Pattern 59  
+- [ ] Pattern 60  
+- [ ] Pattern 61  
+- [ ] Pattern 62  
+- [ ] Pattern 63  
+- [ ] Pattern 64  
+- [ ] Pattern 65  
+- [ ] Pattern 66  
+- [ ] Pattern 67  
+- [ ] Pattern 68  
+- [ ] Pattern 69  
+- [ ] Pattern 70  
+- [ ] Pattern 71  
+- [ ] Pattern 72  
+- [ ] Pattern 73  
+- [ ] Pattern 74  
+- [ ] Pattern 75  
+- [ ] Pattern 76  
+- [ ] Pattern 77  
+- [ ] Pattern 78  
+- [ ] Pattern 79  
+- [ ] Pattern 80  
+- [ ] Pattern 81  
+- [ ] Pattern 82  
+- [ ] Pattern 83  
+- [ ] Pattern 84  
+- [ ] Pattern 85  
+- [ ] Pattern 86  
+- [ ] Pattern 87  
+- [ ] Pattern 88  
+- [ ] Pattern 89  
+- [ ] Pattern 90  
+- [ ] Pattern 91  
+- [ ] Pattern 92  
+- [ ] Pattern 93  
+- [ ] Pattern 94  
+- [ ] Pattern 95  
+- [ ] Pattern 96  
+- [ ] Pattern 97  
+- [ ] Pattern 98  
+- [ ] Pattern 99  
+- [ ] Pattern 100

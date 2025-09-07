@@ -3,10 +3,10 @@
 
 ## languages basics
 
-java basics --> [[sem_1/java/program/basics]]
-python
-sql --> [[basic]]
-c
-cpp
-r
-ai ml
+java basics --> [[sem_1/java/program/basics]] <br>
+python  <br>
+sql --> [[basic]]  <br>
+c <br>
+cpp <br>
+r  <br>
+ai ml  <br>
